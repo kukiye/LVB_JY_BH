@@ -1,0 +1,42 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <LinearLayout
+        android:id="@+id/webview_input_layout"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layx50"
+        android:orientation="horizontal" >
+
+        <EditText
+            android:id="@+id/ip_input_edit"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:inputType="text"
+            android:textSize="@dimen/layx25" />
+
+        <Button
+            android:id="@+id/input_ok_btn"
+            android:layout_width="@dimen/layx80"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="@dimen/layx10"
+            android:gravity="center"
+            android:text="@string/into_page"
+            android:textSize="@dimen/layx20" />
+    </LinearLayout>
+
+    <ProgressBar
+        android:id="@+id/page_loading_progressBar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layx3"
+        android:max="100" />
+
+    <WebView
+        android:id="@+id/mgr_webView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/webview_input_layout"
+        android:layout_marginTop="@dimen/layx3" />
+
+</RelativeLayout>

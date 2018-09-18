@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <include
+        android:id="@+id/top_banner"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layx35"
+        android:layout_alignParentTop="true"
+        layout="@layout/top_banner_bg" />
+
+    <include
+        android:id="@+id/rate_path_tips"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layx40"
+        android:layout_alignParentBottom="true"
+        layout="@layout/sub_tips_action_type" />
+
+    <ImageView
+        android:id="@+id/rate_main_bg"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/rate_path_tips"
+        android:layout_below="@id/top_banner"
+        android:contentDescription="@string/app_name"
+        android:scaleType="fitXY"
+        android:src="@drawable/hotel_iptv_1280x656" />
+
+    <LinearLayout
+        android:id="@+id/rate_fuzzy_bg"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/rate_path_tips"
+        android:layout_below="@id/top_banner"
+        android:background="@drawable/fuzzy_bg"
+        android:orientation="vertical"
+        android:padding="@dimen/layx50" >
+
+        <ImageView
+            android:id="@+id/rate_image_tag"
+            android:layout_width="@dimen/layx71"
+            android:layout_height="@dimen/layx51"
+            android:background="@drawable/rate_tag"
+            android:contentDescription="@string/app_name" />
+
+        <include layout="@layout/sub_rate_list_info" />
+
+        <ListView
+            android:id="@+id/rate_list_content"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:cacheColorHint="#00000000"
+            android:divider="@android:color/transparent"
+            android:dividerHeight="@dimen/layx2"
+            android:drawSelectorOnTop="false"
+            android:fastScrollEnabled="true"
+            android:listSelector="@drawable/button_selector"
+            android:scrollbars="none" />
+    </LinearLayout>
+
+</RelativeLayout>

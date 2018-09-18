@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <HorizontalScrollView
+        android:id="@+id/app_scroll"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_marginLeft="@dimen/layx20"
+        android:layout_marginRight="@dimen/layx20"
+        android:scrollbars="none" >
+
+        <LinearLayout
+            android:id="@+id/app_content_container"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <RelativeLayout
+                android:id="@+id/app_business_assistant_item"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/layx10"
+                android:layout_marginRight="@dimen/layx10"
+                android:gravity="center"
+                android:visibility="visible" >
+
+                <Button
+                    android:id="@+id/app_business_assistant_btn"
+                    android:layout_width="@dimen/layx174"
+                    android:layout_height="@dimen/layx174"
+                    android:background="@drawable/button_menu_selector" />
+
+                <TextView
+                    android:id="@+id/app_business_assistant_name_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBottom="@id/app_business_assistant_btn"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginBottom="@dimen/layx30"
+                    android:text="@string/app_business_assistant"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/layx20" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/app_game_item"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/layx10"
+                android:layout_marginRight="@dimen/layx10"
+                android:gravity="center"
+                android:visibility="visible" >
+
+                <Button
+                    android:id="@+id/app_game_btn"
+                    android:layout_width="@dimen/layx174"
+                    android:layout_height="@dimen/layx174"
+                    android:background="@drawable/button_menu_selector" />
+
+                <TextView
+                    android:id="@+id/app_game_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBottom="@id/app_game_btn"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginBottom="@dimen/layx30"
+                    android:text="@string/app_game"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/layx20" />
+            </RelativeLayout>
+        </LinearLayout>
+    </HorizontalScrollView>
+
+</RelativeLayout>

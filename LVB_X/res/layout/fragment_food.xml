@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <include layout="@layout/fragment_prison_top" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@color/white"
+        android:baselineAligned="false"
+        android:orientation="vertical" >
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/layy1"
+            android:layout_marginTop="@dimen/layy5"
+            android:background="@color/color_C3C0B9" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/layy96"
+            android:layout_marginLeft="@dimen/layx10"
+            android:layout_marginRight="@dimen/layx10"
+            android:background="@color/color_fdf9f1"
+            android:orientation="horizontal" >
+
+            <LinearLayout
+                android:layout_width="@dimen/layx114"
+                android:layout_height="match_parent"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="@string/food_time"
+                    android:textColor="@color/color_804f12"
+                    android:textSize="@dimen/layy30"
+                    android:textStyle="bold" 
+                    android:visibility="gone"/>
+
+                <View
+                    android:layout_width="@dimen/layx1"
+                    android:layout_height="match_parent"
+                    android:background="@color/color_C3C0B9" />
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="@string/food_week"
+                    android:textColor="@color/color_804f12"
+                    android:textSize="@dimen/layy30"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="@dimen/layx1"
+                android:layout_height="match_parent"
+                android:background="@color/color_C3C0B9" />
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="@string/food_zc"
+                    android:textColor="@color/color_804f12"
+                    android:textSize="@dimen/layy30"
+                    android:textStyle="bold" />
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/layy1"
+                    android:background="@color/color_C3C0B9" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:orientation="horizontal" >
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="@string/food_zhushi"
+                        android:textColor="@color/color_804f12"
+                        android:textSize="@dimen/layy30"
+                        android:textStyle="bold" />
+
+                    <View
+                        android:layout_width="@dimen/layx1"
+                        android:layout_height="match_parent"
+                        android:background="@color/color_C3C0B9" />
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="@string/food_fushi"
+                        android:textColor="@color/color_804f12"
+                        android:textSize="@dimen/layy30"
+                        android:textStyle="bold" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <View
+                android:layout_width="@dimen/layx1"
+                android:layout_height="match_parent"
+                android:background="@color/color_C3C0B9" />
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="@string/food_zhongc"
+                    android:textColor="@color/color_804f12"
+                    android:textSize="@dimen/layy30"
+                    android:textStyle="bold" />
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/layy1"
+                    android:background="@color/color_C3C0B9" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:orientation="horizontal" >
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="@string/food_zhushi"
+                        android:textColor="@color/color_804f12"
+                        android:textSize="@dimen/layy30"
+                        android:textStyle="bold" />
+
+                    <View
+                        android:layout_width="@dimen/layx1"
+                        android:layout_height="match_parent"
+                        android:background="@color/color_C3C0B9" />
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="@string/food_fushi"
+                        android:textColor="@color/color_804f12"
+                        android:textSize="@dimen/layy30"
+                        android:textStyle="bold" />
+
+                </LinearLayout>
+            </LinearLayout>
+
+            <View
+                android:layout_width="@dimen/layx1"
+                android:layout_height="match_parent"
+                android:background="@color/color_C3C0B9" />
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="@string/food_wanc"
+                    android:textColor="@color/color_804f12"
+                    android:textSize="@dimen/layy30"
+                    android:textStyle="bold" />
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/layy1"
+                    android:background="@color/color_C3C0B9" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:orientation="horizontal" >
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="@string/food_zhushi"
+                        android:textColor="@color/color_804f12"
+                        android:textSize="@dimen/layy30"
+                        android:textStyle="bold" />
+                    <View
+                        android:layout_width="@dimen/layx1"
+                        android:layout_height="match_parent"
+                        android:background="@color/color_C3C0B9" />
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="@string/food_fushi"
+                        android:textColor="@color/color_804f12"
+                        android:textSize="@dimen/layy30"
+                        android:textStyle="bold" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/layy1"
+            android:layout_marginLeft="@dimen/layx10"
+            android:layout_marginRight="@dimen/layx10"
+            android:background="@color/color_C3C0B9" />
+
+        <ListView
+            android:id="@+id/food_lists"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="@dimen/layy40"
+            android:layout_marginLeft="@dimen/layx10"
+            android:layout_marginRight="@dimen/layx10"
+            android:cacheColorHint="#00000000"
+            android:divider="@color/color_C3C0B9"
+            android:dividerHeight="@dimen/layx1"
+            android:drawSelectorOnTop="false"
+            android:fastScrollEnabled="true"
+            android:focusable="true"
+            android:listSelector="@null"
+            android:scrollbars="none" >
+        </ListView>
+    </LinearLayout>
+
+    <include
+        layout="@layout/fragment_prison_bottom"
+        android:visibility="gone" />
+
+</LinearLayout>

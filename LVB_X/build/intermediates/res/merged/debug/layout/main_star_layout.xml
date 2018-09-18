@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:id="@+id/item_layout"
+              android:layout_width="@dimen/layx120"
+              android:layout_height="match_parent"
+              android:layout_marginRight="@dimen/layx7"
+              android:orientation="vertical"
+    >
+
+    <RelativeLayout
+        android:layout_width="@dimen/layx110"
+        android:layout_height="@dimen/layx100"
+        android:layout_gravity="center_horizontal">
+
+        <Button
+            android:id="@+id/item_btn"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/star_item_selector"/>
+
+        <ImageView
+            android:id="@+id/item_image"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerHorizontal="true"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="@dimen/layx1"
+            android:contentDescription="@string/app_name"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:scaleType="fitXY"
+            />
+
+    </RelativeLayout>
+
+
+    <TextView
+        android:id="@+id/item_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="@dimen/layx10"
+        android:contentDescription="@string/app_name"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:gravity="center"
+        android:singleLine="true"
+        android:text=""
+        android:textColor="@color/color_star_text"
+        android:textSize="@dimen/layx14"
+        />
+
+</LinearLayout>

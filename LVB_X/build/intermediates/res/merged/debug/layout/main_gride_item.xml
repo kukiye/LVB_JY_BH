@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:background="@drawable/main_content_gride_item_normal"
+              android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="@dimen/layx100"
+        android:layout_height="@dimen/layx110"
+        android:layout_gravity="center"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/iv_logo"
+            android:layout_width="@dimen/layx50"
+            android:layout_height="@dimen/layx50"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="@dimen/layx15"
+            android:scaleType="fitXY"
+            />
+
+
+        <TextView
+            android:id="@+id/tv_program_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="@dimen/layx3"
+            android:clickable="false"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:gravity="center"
+            android:text="入监教育"
+            android:textColor="@color/main_text_bule"
+            android:textSize="@dimen/layx20"/>
+    </LinearLayout>
+</LinearLayout>

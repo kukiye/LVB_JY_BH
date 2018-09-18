@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <include layout="@layout/fragment_prison_top" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@drawable/prison_bg"
+        android:orientation="horizontal" >
+
+        <RelativeLayout
+            android:layout_width="@dimen/layx129"
+            android:layout_height="@dimen/layy133"
+            android:layout_marginTop="@dimen/layy74"
+            android:layout_marginLeft="@dimen/layx82">
+
+            <Button
+                android:id="@+id/prison_info_news_btn"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/button_menu_selector"
+                android:focusable="true"
+                android:focusableInTouchMode="true" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="@dimen/layx12"
+                android:contentDescription="@string/app_name"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:src="@drawable/prison_info_news_img"
+                android:padding="@dimen/layx3"
+                android:scaleType="fitXY" />
+
+            <TextView
+                android:id="@+id/item_bottom_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:paddingBottom="@dimen/layy10"
+                android:textColor="@color/white"
+                android:textSize="@dimen/layx20"
+                android:text="@string/prison_info_news_title"/>
+        </RelativeLayout>
+        
+        <RelativeLayout
+            android:layout_width="@dimen/layx129"
+            android:layout_height="@dimen/layy133"
+            android:layout_marginTop="@dimen/layy74"
+            android:layout_marginLeft="@dimen/layx20">
+
+            <Button
+                android:id="@+id/prison_info_websit_btn"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/button_menu_selector"
+                android:focusable="true"
+                android:focusableInTouchMode="true" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="@dimen/layx12"
+                android:contentDescription="@string/app_name"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:src="@drawable/prison_info_wetsit_img"
+                android:padding="@dimen/layx3"
+                android:scaleType="fitXY" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:paddingBottom="@dimen/layy10"
+                android:textColor="@color/white"
+                android:textSize="@dimen/layx20"
+                android:text="@string/prison_info_website_title"/>
+        </RelativeLayout>
+    </LinearLayout>
+
+    <include layout="@layout/fragment_prison_bottom" />
+
+</LinearLayout>

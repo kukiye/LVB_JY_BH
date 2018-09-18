@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <include
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layx80"
+        android:layout_marginBottom="@dimen/layx10"
+        android:layout_marginLeft="@dimen/layx30"
+        android:layout_marginRight="@dimen/layx30"
+        android:layout_marginTop="@dimen/layx30"
+        layout="@layout/framwork_search_title" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="@dimen/layx30"
+        android:layout_marginLeft="@dimen/layx30"
+        android:layout_marginRight="@dimen/layx30"
+        android:baselineAligned="false"
+        android:orientation="horizontal" >
+
+        <include
+            android:id="@+id/search_controller_container"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginRight="@dimen/layx5"
+            android:layout_weight="1"
+            layout="@layout/framwork_search_controller" />
+
+        <include
+            android:id="@+id/search_result_container"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="@dimen/layx5"
+            android:layout_weight="2"
+            layout="@layout/framwork_search_result" />
+    </LinearLayout>
+
+</LinearLayout>

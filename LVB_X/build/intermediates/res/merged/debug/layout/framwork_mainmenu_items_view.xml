@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <ImageView
+        android:id="@+id/mainmenu_left_arrow"
+        android:layout_width="@dimen/layx104"
+        android:layout_height="@dimen/layy104"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="@dimen/layx50"
+        android:background="@drawable/arrow_left_s"
+        android:contentDescription="@string/app_name"
+        android:visibility="visible" />
+
+    <ImageView
+        android:id="@+id/mainmenu_right_arrow"
+        android:layout_width="@dimen/layx104"
+        android:layout_height="@dimen/layy104"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="@dimen/layx50"
+        android:background="@drawable/arrow_right_s"
+        android:contentDescription="@string/app_name"
+        android:visibility="visible" />
+
+    <HorizontalScrollView
+        android:id="@+id/mainmenu_scroll"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_marginLeft="@dimen/layx10"
+        android:layout_marginRight="@dimen/layx10"
+        android:layout_toLeftOf="@id/mainmenu_right_arrow"
+        android:layout_toRightOf="@id/mainmenu_left_arrow"
+        android:scrollbars="none" >
+
+        <LinearLayout
+            android:id="@+id/mainmenu_content_container"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="horizontal" >
+        </LinearLayout>
+    </HorizontalScrollView>
+
+</RelativeLayout>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:paddingLeft="@dimen/layx48"
+    android:paddingRight="@dimen/layx48" >
+
+    <ImageView
+        android:id="@+id/mainmenu_bg1"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:contentDescription="@string/app_name"
+        android:scaleType="fitXY" 
+        android:layout_marginRight="@dimen/layx10"/>
+
+    <LinearLayout
+        android:layout_width="@dimen/layx389"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/layy187"
+            android:orientation="horizontal" >
+
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginRight="@dimen/layx10"
+                android:layout_weight="1" >
+
+                <ImageView
+                    android:id="@+id/mainmenu_bg2"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:contentDescription="@string/app_name"
+                    android:scaleType="fitXY"/>
+                     
+
+                <TextView
+                    android:id="@+id/mainmenu_txt2"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/layy36"
+                    android:layout_alignParentBottom="true"
+                    android:background="@drawable/mainmenu_text_bg"
+                    android:gravity="center"
+                    android:singleLine="true"
+                    android:text="我是壹号，我来自月球"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/layy18"
+                    android:textStyle="bold" 
+                    android:visibility="gone"/>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1" >
+
+                <ImageView
+                    android:id="@+id/mainmenu_bg3"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:contentDescription="@string/app_name"
+                    android:scaleType="fitXY"/>
+                     
+
+                <TextView
+                    android:id="@+id/mainmenu_txt3"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/layy36"
+                    android:layout_alignParentBottom="true"
+                    android:background="@drawable/mainmenu_text_bg"
+                    android:gravity="center"
+                    android:singleLine="true"
+                    android:text="我是壹号，我来自月球"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/layy18"
+                    android:textStyle="bold" 
+                    android:visibility="gone"/>
+            </RelativeLayout>
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginTop="@dimen/layy10"
+            android:layout_weight="1" >
+
+            <ImageView
+                android:id="@+id/mainmenu_bg4"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:contentDescription="@string/app_name"
+                android:scaleType="fitXY" />
+                
+
+            <TextView
+                android:id="@+id/mainmenu_txt4"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/layy45"
+                android:layout_alignParentBottom="true"
+                android:background="@drawable/mainmenu_text_bg"
+                android:gravity="center"
+                android:singleLine="true"
+                android:text="我是壹号，我来自月球"
+                android:textColor="@color/white"
+                android:textSize="@dimen/layy26"
+                android:textStyle="bold"
+                android:visibility="gone" />
+        </RelativeLayout>
+    </LinearLayout>
+
+</LinearLayout>

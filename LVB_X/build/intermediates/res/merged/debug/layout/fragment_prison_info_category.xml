@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <include layout="@layout/fragment_prison_top" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@color/white"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:layout_width="@dimen/layx738"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <RelativeLayout
+                android:id="@+id/prison_container_1"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/layy350"
+                android:layout_marginLeft="@dimen/layy6"
+                android:layout_marginTop="@dimen/layy4" >
+
+                <Button
+                    android:id="@+id/prison_btn_1"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/news_item_selector"
+                    android:focusable="true"
+                    android:focusableInTouchMode="true" />
+
+                <ImageView
+                    android:id="@+id/prison_img_1"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:contentDescription="@string/app_name"
+                    android:paddingBottom="@dimen/layy6"
+                    android:paddingLeft="@dimen/layx8"
+                    android:paddingRight="@dimen/layx6"
+                    android:paddingTop="@dimen/layy8"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/mainmenu_bg_190x187" />
+
+                <TextView
+                    android:id="@+id/prison_txt_1"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/layy56"
+                    android:layout_alignParentBottom="true"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginBottom="@dimen/layy6"
+                    android:layout_marginLeft="@dimen/layy8"
+                    android:layout_marginRight="@dimen/layy6"
+                    android:background="@drawable/mainmenu_text_bg"
+                    android:gravity="center"
+                    android:text="我是壹号，我来自月球"
+                    android:textColor="@color/white"
+                    android:singleLine="true"
+                    android:textSize="@dimen/layy24"
+                    android:textStyle="bold" />
+            </RelativeLayout>
+
+            <LinearLayout
+                android:id="@+id/prison_container_news"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_marginLeft="@dimen/layy6"
+                android:layout_weight="1" >
+
+                <RelativeLayout
+                    android:id="@+id/prison_container_news_1"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1" >
+
+                    <Button
+                        android:id="@+id/prison_btn_news_1"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="@drawable/news_item_selector"
+                        android:focusable="true"
+                        android:focusableInTouchMode="true" />
+
+                    <ImageView
+                        android:id="@+id/prison_img_news_1"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:contentDescription="@string/app_name"
+                        android:paddingBottom="@dimen/layy8"
+                        android:paddingLeft="@dimen/layx8"
+                        android:paddingRight="@dimen/layx6"
+                        android:paddingTop="@dimen/layy6"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/mainmenu_bg_190x187" />
+
+                    <TextView
+                        android:id="@+id/prison_txt_news_1"
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/layy36"
+                        android:layout_alignParentBottom="true"
+                        android:layout_marginBottom="@dimen/layy8"
+                        android:layout_marginLeft="@dimen/layy8"
+                        android:layout_marginRight="@dimen/layy6"
+                        android:background="@drawable/mainmenu_text_bg"
+                        android:gravity="center"
+                        android:singleLine="true"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/layy18"
+                        android:textStyle="bold" />
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/prison_container_news_2"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1" >
+
+                    <Button
+                        android:id="@+id/prison_btn_news_2"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="@drawable/news_item_selector"
+                        android:focusable="true"
+                        android:focusableInTouchMode="true" />
+
+                    <ImageView
+                        android:id="@+id/prison_img_news_2"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:contentDescription="@string/app_name"
+                        android:paddingBottom="@dimen/layy8"
+                        android:paddingLeft="@dimen/layx6"
+                        android:paddingRight="@dimen/layx6"
+                        android:paddingTop="@dimen/layy6"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/mainmenu_bg_190x187" />
+
+                    <TextView
+                        android:id="@+id/prison_txt_news_2"
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/layy36"
+                        android:layout_alignParentBottom="true"
+                        android:layout_marginBottom="@dimen/layy8"
+                        android:layout_marginLeft="@dimen/layy6"
+                        android:layout_marginRight="@dimen/layy6"
+                        android:background="@drawable/mainmenu_text_bg"
+                        android:gravity="center"
+                        android:singleLine="true"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/layy18"
+                        android:textStyle="bold" />
+                </RelativeLayout>
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="@dimen/layx260"
+            android:layout_height="match_parent"
+            android:layout_marginTop="@dimen/layy6"
+            android:orientation="vertical" >
+
+            <RelativeLayout
+                android:id="@+id/prison_container_2"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1" >
+
+                <Button
+                    android:id="@+id/prison_btn_2"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/news_item_selector"
+                    android:focusable="true"
+                    android:focusableInTouchMode="true" />
+
+                <ImageView
+                    android:id="@+id/prison_img_2"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:contentDescription="@string/app_name"
+                    android:paddingBottom="@dimen/layy6"
+                    android:paddingLeft="@dimen/layx6"
+                    android:paddingRight="@dimen/layx6"
+                    android:paddingTop="@dimen/layy6"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/mainmenu_bg_190x187" />
+
+                <TextView
+                    android:id="@+id/prison_txt_2"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/layy36"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginBottom="@dimen/layy6"
+                    android:layout_marginLeft="@dimen/layy6"
+                    android:layout_marginRight="@dimen/layy6"
+                    android:background="@drawable/mainmenu_text_bg"
+                    android:gravity="center"
+                    android:singleLine="true"
+                    android:text="我是壹号，我来自月球"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/layy18"
+                    android:textStyle="bold" />
+            </RelativeLayout>
+            <RelativeLayout
+                android:id="@+id/prison_container_3"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1" >
+
+                <Button
+                    android:id="@+id/prison_btn_3"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/news_item_selector"
+                    android:focusable="true"
+                    android:focusableInTouchMode="true" />
+
+                <ImageView
+                    android:id="@+id/prison_img_3"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:contentDescription="@string/app_name"
+                    android:paddingBottom="@dimen/layy6"
+                    android:paddingLeft="@dimen/layx6"
+                    android:paddingRight="@dimen/layx6"
+                    android:paddingTop="@dimen/layy6"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/mainmenu_bg_190x187" />
+
+                <TextView
+                    android:id="@+id/prison_txt_3"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/layy36"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginBottom="@dimen/layy6"
+                    android:layout_marginLeft="@dimen/layy6"
+                    android:layout_marginRight="@dimen/layy6"
+                    android:background="@drawable/mainmenu_text_bg"
+                    android:gravity="center"
+                    android:singleLine="true"
+                    android:text="我是壹号，我来自月球"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/layy18"
+                    android:textStyle="bold" />
+            </RelativeLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1" 
+            android:orientation="vertical">
+            <RelativeLayout
+                android:id="@+id/prison_container_4"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1" 
+                android:layout_marginTop="@dimen/layy6">
+
+                <Button
+                    android:id="@+id/prison_btn_4"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/news_item_selector"
+                    android:focusable="true"
+                    android:focusableInTouchMode="true" />
+
+                <ImageView
+                    android:id="@+id/prison_img_4"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:contentDescription="@string/app_name"
+                    android:paddingBottom="@dimen/layy6"
+                    android:paddingLeft="@dimen/layx6"
+                    android:paddingRight="@dimen/layx6"
+                    android:paddingTop="@dimen/layy6"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/mainmenu_bg_190x187" />
+
+                <TextView
+                    android:id="@+id/prison_txt_4"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/layy36"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginBottom="@dimen/layy6"
+                    android:layout_marginLeft="@dimen/layy6"
+                    android:layout_marginRight="@dimen/layy6"
+                    android:background="@drawable/mainmenu_text_bg"
+                    android:gravity="center"
+                    android:singleLine="true"
+                    android:text="我是壹号，我来自月球"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/layy18"
+                    android:textStyle="bold" />
+            </RelativeLayout>
+            <RelativeLayout
+                android:id="@+id/prison_container_5"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1" >
+
+                <Button
+                    android:id="@+id/prison_btn_5"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/news_item_selector"
+                    android:focusable="true"
+                    android:focusableInTouchMode="true" />
+
+                <ImageView
+                    android:id="@+id/prison_img_5"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:contentDescription="@string/app_name"
+                    android:paddingBottom="@dimen/layy6"
+                    android:paddingLeft="@dimen/layx6"
+                    android:paddingRight="@dimen/layx6"
+                    android:paddingTop="@dimen/layy6"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/mainmenu_bg_190x187" />
+
+                <TextView
+                    android:id="@+id/prison_txt_5"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/layy36"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginBottom="@dimen/layy6"
+                    android:layout_marginLeft="@dimen/layy6"
+                    android:layout_marginRight="@dimen/layy6"
+                    android:background="@drawable/mainmenu_text_bg"
+                    android:gravity="center"
+                    android:singleLine="true"
+                    android:text="我是壹号，我来自月球"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/layy18"
+                    android:textStyle="bold" />
+            </RelativeLayout>
+            <RelativeLayout
+                android:id="@+id/prison_container_6"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1" >
+
+                <Button
+                    android:id="@+id/prison_btn_6"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/news_item_selector"
+                    android:focusable="true"
+                    android:focusableInTouchMode="true" />
+
+                <ImageView
+                    android:id="@+id/prison_img_6"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:contentDescription="@string/app_name"
+                    android:paddingBottom="@dimen/layy6"
+                    android:paddingLeft="@dimen/layx6"
+                    android:paddingRight="@dimen/layx6"
+                    android:paddingTop="@dimen/layy6"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/mainmenu_bg_190x187" />
+
+                <TextView
+                    android:id="@+id/prison_txt_6"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/layy36"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginBottom="@dimen/layy6"
+                    android:layout_marginLeft="@dimen/layy6"
+                    android:layout_marginRight="@dimen/layy6"
+                    android:background="@drawable/mainmenu_text_bg"
+                    android:gravity="center"
+                    android:singleLine="true"
+                    android:text="我是壹号，我来自月球"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/layy18"
+                    android:textStyle="bold" />
+            </RelativeLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+    <include layout="@layout/fragment_prison_bottom" />
+
+</LinearLayout>

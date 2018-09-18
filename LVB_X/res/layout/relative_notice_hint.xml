@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+    >
+
+    <com.hhzt.iptv.lvb_x.customview.RollTextView
+        android:id="@+id/rollTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/layy60"
+        android:background="@drawable/mainpage_blue_bg"
+        android:gravity="center_vertical"
+        android:text="ddd"
+        android:textSize="@dimen/layx22"/>
+
+</RelativeLayout>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="horizontal" >
+
+    <LinearLayout
+        android:id="@+id/live_text_container"
+        android:layout_width="@dimen/layx180"
+        android:layout_height="@dimen/layx50"
+        android:layout_gravity="center_vertical"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/channle_num"
+            android:layout_width="@dimen/layx30"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/layx45"
+            android:ellipsize="marquee"
+            android:gravity="center_vertical"
+            android:singleLine="true"
+            android:text="@string/blank_data"
+            android:textColor="@color/white"
+            android:textSize="@dimen/layy24" />
+
+        <TextView
+            android:id="@+id/channle_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/layx10"
+            android:ellipsize="marquee"
+            android:gravity="center_vertical"
+            android:marqueeRepeatLimit="marquee_forever"
+            android:singleLine="true"
+            android:text="@string/loading"
+            android:textColor="@color/white"
+            android:textSize="@dimen/layy24" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/channel_current_tag"
+        android:layout_width="@dimen/layx7"
+        android:layout_height="@dimen/layy10"
+        android:layout_gravity="center_vertical"
+        android:layout_marginLeft="@dimen/layx5"
+        android:background="@drawable/arrow_right_selector"
+        android:clickable="true"
+        android:contentDescription="@string/app_name"
+        android:focusable="false" 
+        android:visibility="invisible"/>
+
+</LinearLayout>

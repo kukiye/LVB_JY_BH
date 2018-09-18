@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <RelativeLayout
+        android:id="@+id/top_relative"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layx65"
+        android:layout_alignParentTop="true" 
+        android:visibility="gone">
+
+        <ImageView
+            android:id="@+id/vod_detail_up_img"
+            android:layout_width="@dimen/layx65"
+            android:layout_height="match_parent"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/arrow_up_selector"
+            android:clickable="true"
+            android:contentDescription="@string/app_name"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/vod_item_page_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/layx60"
+            android:textColor="@color/white"
+            android:textSize="@dimen/layx30" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/bottom_relative"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layx65"
+        android:layout_alignParentBottom="true" 
+        android:visibility="gone">
+
+        <ImageView
+            android:id="@+id/vod_detail_down_img"
+            android:layout_width="@dimen/layx65"
+            android:layout_height="match_parent"
+            android:layout_centerHorizontal="true"
+            android:clickable="true"
+            android:contentDescription="@string/app_name"
+            android:src="@drawable/arrow_down_selector"
+            android:visibility="gone" />
+    </RelativeLayout>
+
+    <GridLayout
+        android:id="@+id/vod_movie_gridlayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/bottom_relative"
+        android:layout_below="@id/top_relative"
+        android:layout_centerInParent="true"
+        android:layout_marginRight="@dimen/layx50"
+        android:fitsSystemWindows="true"
+        android:orientation="horizontal"
+        android:useDefaultMargins="false" />
+
+</RelativeLayout>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/sub_affairs_item"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/layy80"
+    android:gravity="center_horizontal"
+    android:orientation="horizontal" >
+
+    <LinearLayout
+        android:layout_width="@dimen/layx114"
+        android:layout_height="match_parent"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/txt_item1"
+            android:layout_width="@dimen/layx114"
+            android:layout_height="match_parent"
+            android:ellipsize="marquee"
+            android:gravity="center"
+            android:singleLine="true"
+            android:textColor="@color/color_804f12"
+            android:textSize="@dimen/layy24"
+            android:visibility="gone" />
+
+        <View
+            android:layout_width="@dimen/layx1"
+            android:layout_height="match_parent"
+            android:background="@color/color_C3C0B9" />
+
+        <TextView
+            android:id="@+id/txt_item2"
+            android:layout_width="@dimen/layx114"
+            android:layout_height="match_parent"
+            android:ellipsize="marquee"
+            android:gravity="center"
+            android:singleLine="true"
+            android:textColor="@color/color_804f12"
+            android:textSize="@dimen/layy24" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="@dimen/layx1"
+        android:layout_height="match_parent"
+        android:background="@color/color_C3C0B9" />
+
+    <TextView
+        android:id="@+id/txt_item3"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:ellipsize="marquee"
+        android:gravity="center"
+        android:lines="2"
+        android:textColor="@color/color_804f12"
+        android:textSize="@dimen/layy24" />
+
+    <View
+        android:layout_width="@dimen/layx1"
+        android:layout_height="match_parent"
+        android:background="@color/color_C3C0B9" />
+
+    <TextView
+        android:id="@+id/txt_item4"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:ellipsize="marquee"
+        android:gravity="center"
+        android:lines="2"
+        android:textColor="@color/color_804f12"
+        android:textSize="@dimen/layy20" />
+
+    <View
+        android:layout_width="@dimen/layx1"
+        android:layout_height="match_parent"
+        android:background="@color/color_C3C0B9" />
+
+    <TextView
+        android:id="@+id/txt_item5"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:ellipsize="marquee"
+        android:gravity="center"
+        android:lines="2"
+        android:textColor="@color/color_804f12"
+        android:textSize="@dimen/layy20" />
+
+    <View
+        android:layout_width="@dimen/layx1"
+        android:layout_height="match_parent"
+        android:background="@color/color_C3C0B9" />
+
+    <TextView
+        android:id="@+id/txt_item6"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:ellipsize="marquee"
+        android:gravity="center"
+        android:lines="2"
+        android:textColor="@color/color_804f12"
+        android:textSize="@dimen/layy20" />
+
+    <View
+        android:layout_width="@dimen/layx1"
+        android:layout_height="match_parent"
+        android:background="@color/color_C3C0B9" />
+
+    <TextView
+        android:id="@+id/txt_item7"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:ellipsize="marquee"
+        android:gravity="center"
+        android:lines="2"
+        android:textColor="@color/color_804f12"
+        android:textSize="@dimen/layy20" />
+
+    <View
+        android:layout_width="@dimen/layx1"
+        android:layout_height="match_parent"
+        android:background="@color/color_C3C0B9" />
+
+    <TextView
+        android:id="@+id/txt_item8"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:ellipsize="marquee"
+        android:gravity="center"
+        android:lines="2"
+        android:textColor="@color/color_804f12"
+        android:textSize="@dimen/layy20" />
+
+</LinearLayout>

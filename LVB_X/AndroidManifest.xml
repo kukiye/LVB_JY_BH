@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.hhzt.iptv"
+    android:installLocation="auto"
+    android:versionCode="4"
+    android:versionName="1.4"
+    >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="21" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <uses-permission android:name="android.permission.READ_SETTINGS" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.RESTART_PACKAGES" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_CONFIGURATION" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_MULTICAST_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="com.android.launcher.permission.READ_SETTINGS" />
+    <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT" />
+    <uses-permission android:name="com.android.launcher.permission.UNINSTALL_SHORTCUT" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <!-- bugly begin -->
+    <!-- 可选的权限： -->
+    <uses-permission android:name="android.permission.READ_LOGS" /> <!-- 获取logcat日志 -->
+    <!-- bugly end -->
+
+    <supports-screens
+        android:anyDensity="true"
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:smallScreens="true" />
+
+   <!-- <instrumentation
+        android:name="android.test.InstrumentationTestRunner"
+        android:targetPackage="com.hhzt.iptv" >
+    </instrumentation>-->
+    
+    
+
+    <application
+        android:name="com.hhzt.iptv.lvb_x.LVBXApp"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:theme="@style/AppTheme" >
+        <uses-library android:name="android.test.runner" />
+        <activity
+            android:name="com.hhzt.iptv.ui.SplashActivity"
+            android:clearTaskOnLaunch="true"
+            android:configChanges="keyboard|keyboardHidden|orientation|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape"
+            android:stateNotNeeded="true"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.HOME" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+      <!--  <activity
+            android:name="com.hhzt.iptv.ui.SplashActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>-->
+        <activity
+            android:name="com.hhzt.iptv.ui.BActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen">
+        </activity>
+        <activity
+            android:name="com.hhzt.iptv.ui.WelcomeActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.hhzt.iptv.ui.WelcomeADActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen">
+        </activity>
+        <activity
+            android:name="com.hhzt.iptv.ui.MainmenuActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.hhzt.iptv.ui.BaihuHomeActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.hhzt.iptv.ui.ClauseActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.hhzt.iptv.ui.NetworkTestActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.hhzt.iptv.ui.ProjectTestActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.hhzt.iptv.ui.FeedBackActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.hhzt.iptv.ui.MediaPlayerActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.hhzt.iptv.ui.VodActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.hhzt.iptv.ui.BackgroundManagerActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.hhzt.iptv.ui.SettingAccountMainActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <!-- 使用到startActivityForResult,不能直接使用singleTask -->
+        <activity
+            android:name="com.hhzt.iptv.ui.SettingActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|locale"
+            android:label="@string/app_name"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <!-- 使用到startActivityForResult,不能直接使用singleTask -->
+        <activity
+            android:name="com.hhzt.iptv.ui.CitySetActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|locale"
+            android:label="@string/app_name"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.hhzt.iptv.ui.AboutActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.hhzt.iptv.ui.VodItemDetailActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|locale"
+            android:label="@string/app_name"
+            android:launchMode="standard"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.hhzt.iptv.ui.AdminitratorActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.hhzt.iptv.ui.HSMainActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.hhzt.iptv.ui.TravelActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.hhzt.iptv.ui.AppActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.hhzt.iptv.ui.SubAppActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <!-- 使用到startActivityForResult,不能直接使用singleTask -->
+        <activity
+            android:name="com.hhzt.iptv.ui.LangSetActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|locale"
+            android:label="@string/app_name"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.hhzt.iptv.ui.HSInfoTempateA3Activity"
+            android:configChanges="keyboard|keyboardHidden|orientation|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.hhzt.iptv.ui.HSSubCleanActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.hhzt.iptv.ui.HSSubHotelActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.hhzt.iptv.ui.HSInfoTempateA2Activity"
+            android:configChanges="keyboard|keyboardHidden|orientation|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.hhzt.iptv.ui.TravelTempateA5Activity"
+            android:configChanges="keyboard|keyboardHidden|orientation|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.hhzt.iptv.ui.HSOrderHistoryActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.hhzt.iptv.ui.HSOrderHistoryDetailsActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.hhzt.iptv.ui.HSSubRoomIntroduceActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.hhzt.iptv.ui.HSSubWakeupActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.hhzt.iptv.ui.TLSubCitySenceActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.hhzt.iptv.ui.TLSubWeatherActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.hhzt.iptv.ui.TLSubWorldClockActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.hhzt.iptv.ui.TLSubRateActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.hhzt.iptv.ui.TLSubSpecailActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.hhzt.iptv.ui.RCActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.hhzt.iptv.ui.HSJQRCActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.hhzt.iptv.ui.LiveGridShowActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.hhzt.iptv.ui.BillListActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.hhzt.iptv.ui.PairedActionTipsActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.hhzt.iptv.ui.PairAuthorithTipsActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.Holo.Dialog.NoActionBar.MinWidth" >
+        </activity>
+        <activity
+            android:name="com.hhzt.iptv.ui.SeatSelectionTipsActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.Holo.Dialog.NoActionBar.MinWidth" >
+        </activity>
+        <activity
+            android:name="com.hhzt.iptv.ui.VodSearchActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.hhzt.iptv.ui.MediaControllerActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.hhzt.iptv.ui.LocalAppsActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.hhzt.iptv.ui.UpdateTipsActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.hhzt.iptv.ui.UpdateActionActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.hhzt.iptv.ui.HelpTipsActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.hhzt.iptv.ui.PrisonAffairsLoginActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.hhzt.iptv.ui.PrisonAffairsDetailActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.hhzt.iptv.ui.PrisonInfoActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.hhzt.iptv.ui.PrisonInfoCategoryActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.hhzt.iptv.ui.PrisonNewsActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.hhzt.iptv.ui.PrisonNewsDetailActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.hhzt.iptv.ui.BookActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.hhzt.iptv.ui.BookListActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.hhzt.iptv.ui.PdfView_New_Activity"
+            android:configChanges="keyboard|keyboardHidden|orientation|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape"
+            android:hardwareAccelerated="true"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.hhzt.iptv.ui.FoodActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.hhzt.iptv.ui.PrisonNewsWebSitActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.hhzt.iptv.ui.PrisonWebsitDetailActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+
+        <service
+            android:name="com.hhzt.iptv.lvb_x.utils.download.DownloadService"
+            android:enabled="true" >
+            <intent-filter>
+                <action android:name="download.service.action" />
+            </intent-filter>
+        </service>
+        <service
+            android:name="com.hhzt.iptv.lvb_x.services.MsgReceiveService"
+            android:enabled="true" >
+            <intent-filter>
+                <action android:name="com.hhzt.iptv.service.MsgReceiveService" />
+            </intent-filter>
+        </service>
+        
+        <service
+            android:name="com.hhzt.iptv.lvb_x.services.LHReceiveService"
+            android:enabled="true" >
+            <intent-filter>
+                <action android:name="com.hhzt.iptv.service.LHReceiveService" />
+            </intent-filter>
+        </service>
+
+        <receiver android:name="com.hhzt.iptv.lvb_x.ConnectionChangeReceiver" >
+            <intent-filter>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+                <action android:name="com.hhzt.iptv.lvb_x.pairtips" />
+                <action android:name="com.hhzt.iptv.lvb_x.select_seat" />
+                <action android:name="com.hhzt.iptv.lvb_x.cancel_seat" />
+                <action android:name="com.hhzt.iptv.lvb_x.unlock" />
+                <action android:name="android.intent.action.PACKAGE_REPLACED"/>
+                <data android:scheme="package"  />
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.hhzt.iptv.lvb_x.MediaPlayerCmdReceiver" >
+            <intent-filter>
+                <action android:name="com.hhzt.iptv.ui.MediaPlayerActivity" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.hhzt.iptv.lvb_x.ChangHongCmdReceiver" >
+            <intent-filter android:priority="1000" >
+                <action android:name="com.changhong.system.systemkeyfor3rd" />
+            </intent-filter>
+        </receiver>
+    </application>
+
+</manifest>

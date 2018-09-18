@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/layx300"
+    android:layout_height="@dimen/layx50" >
+
+    <TextView
+        android:id="@+id/program_time"
+        android:layout_width="@dimen/layx50"
+        android:layout_height="@dimen/layx40"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="@dimen/layx20"
+        android:ellipsize="marquee"
+        android:gravity="center_vertical"
+        android:singleLine="true"
+        android:text="@string/blank_data"
+        android:textColor="@color/white"
+        android:textSize="@dimen/layy20" />
+
+    <RelativeLayout
+        android:id="@+id/look_back_tag_layout"
+        android:layout_width="@dimen/layx80"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="@dimen/layx20"
+        android:paddingBottom="@dimen/layx10"
+        android:paddingTop="@dimen/layx10"
+        android:visibility="gone" >
+
+        <ImageView
+            android:id="@+id/program_state_img"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:contentDescription="@string/app_name"
+            android:scaleType="fitXY" />
+
+        <TextView
+            android:id="@+id/back_tag_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:ellipsize="marquee"
+            android:gravity="center"
+            android:singleLine="true"
+            android:textColor="@color/black"
+            android:textSize="@dimen/layx20" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/program_name"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layx40"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="@dimen/layx10"
+        android:layout_marginRight="@dimen/layx10"
+        android:layout_toLeftOf="@id/look_back_tag_layout"
+        android:layout_toRightOf="@id/program_time"
+        android:ellipsize="marquee"
+        android:gravity="center_vertical"
+        android:marqueeRepeatLimit="marquee_forever"
+        android:singleLine="true"
+        android:text="@string/loading"
+        android:textColor="@color/white"
+        android:textSize="@dimen/layx20" />
+
+</RelativeLayout>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <include
+        android:id="@+id/top_banner"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layx35"
+        android:layout_alignParentTop="true"
+        layout="@layout/top_banner_bg" />
+
+    <include
+        android:id="@+id/path_tips_bottom"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layx35"
+        android:layout_alignParentBottom="true"
+        layout="@layout/sub_tips_action_type" />
+
+    <RelativeLayout
+        android:id="@+id/image_text_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/path_tips_bottom"
+        android:layout_below="@id/top_banner" >
+
+        <ImageView
+            android:id="@+id/image_content"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:contentDescription="@string/app_name"
+            android:scaleType="fitXY"
+            android:src="@drawable/hotel_introduce_bg_1280x656" />
+
+        <LinearLayout
+            android:id="@+id/content_title_container"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/layx50"
+            android:background="@drawable/text_bg"
+            android:gravity="center_vertical"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/content_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/layx50"
+                android:layout_marginRight="@dimen/layx50"
+                android:textColor="@color/white"
+                android:textSize="@dimen/layx40" />
+
+            <TextView
+                android:id="@+id/content_sub_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/layx50"
+                android:layout_marginRight="@dimen/layx50"
+                android:textColor="@color/white"
+                android:textSize="@dimen/layx30" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/content_text_container"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layx180"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="@dimen/layx100"
+        android:background="@drawable/osd_bg"
+        android:paddingBottom="@dimen/layx10"
+        android:paddingLeft="@dimen/layx50"
+        android:paddingRight="@dimen/layx50"
+        android:paddingTop="@dimen/layx10" >
+    </RelativeLayout>
+
+</RelativeLayout>

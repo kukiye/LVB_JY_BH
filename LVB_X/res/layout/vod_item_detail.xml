@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/vod_item_linear"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="@dimen/layx10" >
+
+    <RelativeLayout
+        android:id="@+id/vod_item_show_relative"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" >
+
+        <Button
+            android:id="@+id/vod_detail_movie_btn"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/vod_item_selector"
+            android:focusable="true"
+            android:focusableInTouchMode="true" />
+
+        <ImageView
+            android:id="@+id/vod_detail_movie_img"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="@dimen/layx12"
+            android:contentDescription="@string/app_name"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:padding="@dimen/layx3"
+            android:scaleType="fitXY" />
+
+        <include
+            android:id="@+id/sub_order_menu_bottom_container"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/layx45"
+            android:layout_alignParentBottom="true"
+            layout="@layout/sub_order_menu_bottom_item"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/item_bottom_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:paddingBottom="@dimen/layy10"
+            android:textColor="@color/white"
+            android:textSize="@dimen/layx20"
+            android:visibility="gone" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/vod_detail_moviename_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/layx5"
+        android:ellipsize="marquee"
+        android:gravity="center"
+        android:marqueeRepeatLimit="marquee_forever"
+        android:singleLine="true"
+        android:textColor="@color/white"
+        android:textSize="@dimen/layx25" />
+
+</LinearLayout>

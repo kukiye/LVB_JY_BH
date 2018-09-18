@@ -1,0 +1,4 @@
+#Tue Mar 13 23:24:26 CST 2018
+base.0=E\:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=E\:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/search_left_bg"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/virtual_pad_choose_container"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layx60"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="@dimen/layx20"
+        android:layout_marginTop="@dimen/layx20"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/virtual_pad_t9"
+            android:layout_width="@dimen/layx150"
+            android:layout_height="match_parent"
+            android:layout_marginRight="@dimen/layx10"
+            android:background="@drawable/button_selector"
+            android:text="@string/t9_virtual_pad"
+            android:textColor="@color/white"
+            android:textSize="@dimen/layx25" />
+
+        <Button
+            android:id="@+id/virtual_pad_all"
+            android:layout_width="@dimen/layx150"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="@dimen/layx10"
+            android:background="@drawable/button_selector"
+            android:text="@string/all_virtual_pad"
+            android:textColor="@color/white"
+            android:textSize="@dimen/layx25" />
+    </LinearLayout>
+
+    <include
+        android:id="@+id/dpad_framwork_container_t9"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/virtual_pad_choose_container"
+        layout="@layout/framwork_search_controller_contents_t9"
+        android:visibility="visible" />
+
+    <include
+        android:id="@+id/dpad_framwork_container_all"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/virtual_pad_choose_container"
+        layout="@layout/framwork_search_controller_contents_all"
+        android:visibility="gone" />
+
+</RelativeLayout>

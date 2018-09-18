@@ -1,0 +1,1179 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:2:1-632:12
+	package
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:3:5-28
+	android:versionName
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:6:5-30
+		INJECTED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml
+		INJECTED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml
+	android:versionCode
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:5:5-28
+		INJECTED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml
+		INJECTED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:4:5-35
+uses-sdk
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:9:5-11:41
+MERGED from [LVB_JY_BH:GifView:unspecified] E:\Work_Project\LVB_JY_BH\LVB_X\build\intermediates\exploded-aar\LVB_JY_BH\GifView\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.4.0] E:\Work_Project\LVB_JY_BH\LVB_X\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] E:\Work_Project\LVB_JY_BH\LVB_X\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] E:\Work_Project\LVB_JY_BH\LVB_X\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.github.barteksc:android-pdf-viewer:2.7.0-beta.1] E:\Work_Project\LVB_JY_BH\LVB_X\build\intermediates\exploded-aar\com.github.barteksc\android-pdf-viewer\2.7.0-beta.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.barteksc:pdfium-android:1.7.0] E:\Work_Project\LVB_JY_BH\LVB_X\build\intermediates\exploded-aar\com.github.barteksc\pdfium-android\1.7.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:recyclerview-v7:23.4.0] E:\Work_Project\LVB_JY_BH\LVB_X\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.3.1] E:\Work_Project\LVB_JY_BH\LVB_X\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] E:\Work_Project\LVB_JY_BH\LVB_X\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] E:\Work_Project\LVB_JY_BH\LVB_X\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] E:\Work_Project\LVB_JY_BH\LVB_X\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] E:\Work_Project\LVB_JY_BH\LVB_X\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] E:\Work_Project\LVB_JY_BH\LVB_X\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] E:\Work_Project\LVB_JY_BH\LVB_X\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:11:9-38
+	android:minSdkVersion
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:10:9-35
+uses-permission#android.permission.INTERNET
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:13:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:14:5-68
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:14:22-65
+uses-permission#android.permission.VIBRATE
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:15:5-66
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:15:22-63
+uses-permission#android.permission.GET_TASKS
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:16:5-68
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:16:22-65
+uses-permission#android.permission.READ_SETTINGS
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:17:5-72
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:17:22-69
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:18:5-73
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:18:22-70
+uses-permission#android.permission.RESTART_PACKAGES
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:19:5-75
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:19:22-72
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:20:5-76
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:20:22-73
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:21:5-76
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:21:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:22:22-76
+uses-permission#android.permission.CHANGE_CONFIGURATION
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:23:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:24:5-81
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:24:22-78
+uses-permission#android.permission.CHANGE_WIFI_MULTICAST_STATE
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:25:5-86
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:25:22-83
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:26:5-81
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:26:22-78
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:27:5-84
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:27:22-81
+uses-permission#com.android.launcher.permission.READ_SETTINGS
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:28:5-85
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:28:22-82
+uses-permission#com.android.launcher.permission.INSTALL_SHORTCUT
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:29:5-88
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:29:22-85
+uses-permission#com.android.launcher.permission.UNINSTALL_SHORTCUT
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:30:5-90
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:30:22-87
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:31:5-71
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:31:22-68
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:32:5-80
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:32:22-77
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:33:5-78
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:33:22-75
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:34:5-75
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:34:22-72
+uses-permission#android.permission.READ_LOGS
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:38:5-68
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:38:22-65
+supports-screens
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:41:5-45:39
+	android:largeScreens
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:43:9-36
+	android:smallScreens
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:45:9-36
+	android:normalScreens
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:44:9-37
+	android:anyDensity
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:42:9-34
+application
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:54:5-630:19
+MERGED from [LVB_JY_BH:GifView:unspecified] E:\Work_Project\LVB_JY_BH\LVB_X\build\intermediates\exploded-aar\LVB_JY_BH\GifView\unspecified\AndroidManifest.xml:11:5-25:19
+MERGED from [com.android.support:appcompat-v7:23.4.0] E:\Work_Project\LVB_JY_BH\LVB_X\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] E:\Work_Project\LVB_JY_BH\LVB_X\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] E:\Work_Project\LVB_JY_BH\LVB_X\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:25.3.1] E:\Work_Project\LVB_JY_BH\LVB_X\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] E:\Work_Project\LVB_JY_BH\LVB_X\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] E:\Work_Project\LVB_JY_BH\LVB_X\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] E:\Work_Project\LVB_JY_BH\LVB_X\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] E:\Work_Project\LVB_JY_BH\LVB_X\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] E:\Work_Project\LVB_JY_BH\LVB_X\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:58:9-41
+	android:allowBackup
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:56:9-35
+	android:icon
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:57:9-45
+	android:largeHeap
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:59:9-33
+	android:theme
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:60:9-40
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:55:9-51
+uses-library#android.test.runner
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:61:9-60
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:61:23-57
+activity#com.hhzt.iptv.ui.SplashActivity
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:62:9-78:20
+	android:clearTaskOnLaunch
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:64:13-45
+	android:screenOrientation
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:68:13-50
+	android:label
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:66:13-45
+	android:stateNotNeeded
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:69:13-42
+	android:launchMode
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:67:13-44
+	android:configChanges
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:65:13-79
+	android:theme
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:70:13-71
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:63:13-59
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT+android.intent.category.HOME+android.intent.category.LAUNCHER
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:71:13-77:29
+action#android.intent.action.MAIN
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:72:17-69
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:72:25-66
+category#android.intent.category.HOME
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:74:17-73
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:74:27-70
+category#android.intent.category.DEFAULT
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:75:17-76
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:75:27-73
+category#android.intent.category.LAUNCHER
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:76:17-77
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:76:27-74
+activity#com.hhzt.iptv.ui.BActivity
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:88:9-95:20
+	android:screenOrientation
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:93:13-50
+	android:label
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:91:13-45
+	android:launchMode
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:92:13-44
+	android:configChanges
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:90:13-79
+	android:theme
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:94:13-71
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:89:13-54
+activity#com.hhzt.iptv.ui.WelcomeActivity
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:96:9-103:20
+	android:screenOrientation
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:101:13-50
+	android:label
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:99:13-45
+	android:launchMode
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:100:13-44
+	android:configChanges
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:98:13-79
+	android:theme
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:102:13-71
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:97:13-60
+activity#com.hhzt.iptv.ui.WelcomeADActivity
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:104:9-111:20
+	android:screenOrientation
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:109:13-50
+	android:label
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:107:13-45
+	android:launchMode
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:108:13-44
+	android:configChanges
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:106:13-79
+	android:theme
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:110:13-71
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:105:13-62
+activity#com.hhzt.iptv.ui.MainmenuActivity
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:112:9-119:20
+	android:screenOrientation
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:117:13-50
+	android:label
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:115:13-45
+	android:launchMode
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:116:13-44
+	android:configChanges
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:114:13-79
+	android:theme
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:118:13-71
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:113:13-61
+activity#com.hhzt.iptv.ui.BaihuHomeActivity
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:120:9-127:20
+	android:screenOrientation
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:125:13-50
+	android:label
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:123:13-45
+	android:launchMode
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:124:13-44
+	android:configChanges
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:122:13-79
+	android:theme
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:126:13-71
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:121:13-62
+activity#com.hhzt.iptv.ui.ClauseActivity
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:128:9-135:20
+	android:screenOrientation
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:133:13-50
+	android:label
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:131:13-45
+	android:launchMode
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:132:13-44
+	android:configChanges
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:130:13-79
+	android:theme
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:134:13-71
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:129:13-59
+activity#com.hhzt.iptv.ui.NetworkTestActivity
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:136:9-143:20
+	android:screenOrientation
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:141:13-50
+	android:label
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:139:13-45
+	android:launchMode
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:140:13-44
+	android:configChanges
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:138:13-79
+	android:theme
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:142:13-71
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:137:13-64
+activity#com.hhzt.iptv.ui.ProjectTestActivity
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:144:9-151:20
+	android:screenOrientation
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:149:13-50
+	android:label
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:147:13-45
+	android:launchMode
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:148:13-44
+	android:configChanges
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:146:13-79
+	android:theme
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:150:13-71
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:145:13-64
+activity#com.hhzt.iptv.ui.FeedBackActivity
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:152:9-159:20
+	android:screenOrientation
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:157:13-50
+	android:label
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:155:13-45
+	android:launchMode
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:156:13-44
+	android:configChanges
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:154:13-79
+	android:theme
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:158:13-71
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:153:13-61
+activity#com.hhzt.iptv.ui.MediaPlayerActivity
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:160:9-167:20
+	android:screenOrientation
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:165:13-50
+	android:label
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:163:13-45
+	android:launchMode
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:164:13-44
+	android:configChanges
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:162:13-79
+	android:theme
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:166:13-71
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:161:13-64
+activity#com.hhzt.iptv.ui.VodActivity
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:168:9-175:20
+	android:screenOrientation
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:173:13-50
+	android:label
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:171:13-45
+	android:launchMode
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:172:13-44
+	android:configChanges
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:170:13-79
+	android:theme
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:174:13-71
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:169:13-56
+activity#com.hhzt.iptv.ui.BackgroundManagerActivity
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:176:9-183:20
+	android:screenOrientation
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:181:13-50
+	android:label
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:179:13-45
+	android:launchMode
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:180:13-44
+	android:configChanges
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:178:13-79
+	android:theme
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:182:13-71
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:177:13-70
+activity#com.hhzt.iptv.ui.SettingAccountMainActivity
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:184:9-191:20
+	android:screenOrientation
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:189:13-50
+	android:label
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:187:13-45
+	android:launchMode
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:188:13-44
+	android:configChanges
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:186:13-79
+	android:theme
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:190:13-71
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:185:13-71
+activity#com.hhzt.iptv.ui.SettingActivity
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:193:9-199:20
+	android:screenOrientation
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:197:13-50
+	android:label
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:196:13-45
+	android:configChanges
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:195:13-79
+	android:theme
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:198:13-71
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:194:13-60
+activity#com.hhzt.iptv.ui.CitySetActivity
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:201:9-207:20
+	android:screenOrientation
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:205:13-50
+	android:label
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:204:13-45
+	android:configChanges
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:203:13-79
+	android:theme
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:206:13-71
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:202:13-60
+activity#com.hhzt.iptv.ui.AboutActivity
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:208:9-215:20
+	android:screenOrientation
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:213:13-50
+	android:label
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:211:13-45
+	android:launchMode
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:212:13-44
+	android:configChanges
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:210:13-79
+	android:theme
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:214:13-71
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:209:13-58
+activity#com.hhzt.iptv.ui.VodItemDetailActivity
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:216:9-223:20
+	android:screenOrientation
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:221:13-50
+	android:label
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:219:13-45
+	android:launchMode
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:220:13-42
+	android:configChanges
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:218:13-79
+	android:theme
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:222:13-71
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:217:13-66
+activity#com.hhzt.iptv.ui.AdminitratorActivity
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:224:9-231:20
+	android:screenOrientation
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:229:13-50
+	android:label
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:227:13-45
+	android:launchMode
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:228:13-44
+	android:configChanges
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:226:13-79
+	android:theme
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:230:13-71
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:225:13-65
+activity#com.hhzt.iptv.ui.HSMainActivity
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:232:9-239:20
+	android:screenOrientation
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:237:13-50
+	android:label
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:235:13-45
+	android:launchMode
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:236:13-44
+	android:configChanges
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:234:13-79
+	android:theme
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:238:13-71
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:233:13-59
+activity#com.hhzt.iptv.ui.TravelActivity
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:240:9-247:20
+	android:screenOrientation
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:245:13-50
+	android:label
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:243:13-45
+	android:launchMode
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:244:13-44
+	android:configChanges
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:242:13-79
+	android:theme
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:246:13-71
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:241:13-59
+activity#com.hhzt.iptv.ui.AppActivity
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:248:9-255:20
+	android:screenOrientation
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:253:13-50
+	android:label
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:251:13-45
+	android:launchMode
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:252:13-44
+	android:configChanges
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:250:13-79
+	android:theme
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:254:13-71
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:249:13-56
+activity#com.hhzt.iptv.ui.SubAppActivity
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:256:9-263:20
+	android:screenOrientation
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:261:13-50
+	android:label
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:259:13-45
+	android:launchMode
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:260:13-44
+	android:configChanges
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:258:13-79
+	android:theme
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:262:13-71
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:257:13-59
+activity#com.hhzt.iptv.ui.LangSetActivity
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:265:9-271:20
+	android:screenOrientation
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:269:13-50
+	android:label
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:268:13-45
+	android:configChanges
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:267:13-79
+	android:theme
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:270:13-71
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:266:13-60
+activity#com.hhzt.iptv.ui.HSInfoTempateA3Activity
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:272:9-279:20
+	android:screenOrientation
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:277:13-50
+	android:label
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:275:13-45
+	android:launchMode
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:276:13-44
+	android:configChanges
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:274:13-79
+	android:theme
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:278:13-71
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:273:13-68
+activity#com.hhzt.iptv.ui.HSSubCleanActivity
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:280:9-287:20
+	android:screenOrientation
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:285:13-50
+	android:label
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:283:13-45
+	android:launchMode
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:284:13-44
+	android:configChanges
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:282:13-79
+	android:theme
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:286:13-71
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:281:13-63
+activity#com.hhzt.iptv.ui.HSSubHotelActivity
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:288:9-295:20
+	android:screenOrientation
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:293:13-50
+	android:label
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:291:13-45
+	android:launchMode
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:292:13-44
+	android:configChanges
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:290:13-79
+	android:theme
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:294:13-71
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:289:13-63
+activity#com.hhzt.iptv.ui.HSInfoTempateA2Activity
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:296:9-303:20
+	android:screenOrientation
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:301:13-50
+	android:label
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:299:13-45
+	android:launchMode
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:300:13-44
+	android:configChanges
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:298:13-79
+	android:theme
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:302:13-71
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:297:13-68
+activity#com.hhzt.iptv.ui.TravelTempateA5Activity
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:304:9-311:20
+	android:screenOrientation
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:309:13-50
+	android:label
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:307:13-45
+	android:launchMode
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:308:13-44
+	android:configChanges
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:306:13-79
+	android:theme
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:310:13-71
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:305:13-68
+activity#com.hhzt.iptv.ui.HSOrderHistoryActivity
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:312:9-319:20
+	android:screenOrientation
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:317:13-50
+	android:label
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:315:13-45
+	android:launchMode
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:316:13-44
+	android:configChanges
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:314:13-79
+	android:theme
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:318:13-71
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:313:13-67
+activity#com.hhzt.iptv.ui.HSOrderHistoryDetailsActivity
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:320:9-327:20
+	android:screenOrientation
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:325:13-50
+	android:label
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:323:13-45
+	android:launchMode
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:324:13-44
+	android:configChanges
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:322:13-79
+	android:theme
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:326:13-71
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:321:13-74
+activity#com.hhzt.iptv.ui.HSSubRoomIntroduceActivity
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:328:9-335:20
+	android:screenOrientation
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:333:13-50
+	android:label
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:331:13-45
+	android:launchMode
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:332:13-44
+	android:configChanges
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:330:13-79
+	android:theme
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:334:13-71
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:329:13-71
+activity#com.hhzt.iptv.ui.HSSubWakeupActivity
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:336:9-343:20
+	android:screenOrientation
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:341:13-50
+	android:label
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:339:13-45
+	android:launchMode
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:340:13-44
+	android:configChanges
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:338:13-79
+	android:theme
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:342:13-71
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:337:13-64
+activity#com.hhzt.iptv.ui.TLSubCitySenceActivity
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:344:9-351:20
+	android:screenOrientation
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:349:13-50
+	android:label
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:347:13-45
+	android:launchMode
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:348:13-44
+	android:configChanges
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:346:13-79
+	android:theme
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:350:13-71
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:345:13-67
+activity#com.hhzt.iptv.ui.TLSubWeatherActivity
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:352:9-359:20
+	android:screenOrientation
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:357:13-50
+	android:label
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:355:13-45
+	android:launchMode
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:356:13-44
+	android:configChanges
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:354:13-79
+	android:theme
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:358:13-71
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:353:13-65
+activity#com.hhzt.iptv.ui.TLSubWorldClockActivity
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:360:9-367:20
+	android:screenOrientation
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:365:13-50
+	android:label
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:363:13-45
+	android:launchMode
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:364:13-44
+	android:configChanges
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:362:13-79
+	android:theme
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:366:13-71
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:361:13-68
+activity#com.hhzt.iptv.ui.TLSubRateActivity
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:368:9-375:20
+	android:screenOrientation
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:373:13-50
+	android:label
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:371:13-45
+	android:launchMode
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:372:13-44
+	android:configChanges
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:370:13-79
+	android:theme
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:374:13-71
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:369:13-62
+activity#com.hhzt.iptv.ui.TLSubSpecailActivity
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:376:9-383:20
+	android:screenOrientation
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:381:13-50
+	android:label
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:379:13-45
+	android:launchMode
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:380:13-44
+	android:configChanges
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:378:13-79
+	android:theme
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:382:13-71
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:377:13-65
+activity#com.hhzt.iptv.ui.RCActivity
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:384:9-391:20
+	android:screenOrientation
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:389:13-50
+	android:label
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:387:13-45
+	android:launchMode
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:388:13-44
+	android:configChanges
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:386:13-79
+	android:theme
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:390:13-71
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:385:13-55
+activity#com.hhzt.iptv.ui.HSJQRCActivity
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:392:9-399:20
+	android:screenOrientation
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:397:13-50
+	android:label
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:395:13-45
+	android:launchMode
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:396:13-44
+	android:configChanges
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:394:13-79
+	android:theme
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:398:13-71
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:393:13-59
+activity#com.hhzt.iptv.ui.LiveGridShowActivity
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:400:9-407:20
+	android:screenOrientation
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:405:13-50
+	android:label
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:403:13-45
+	android:launchMode
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:404:13-44
+	android:configChanges
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:402:13-79
+	android:theme
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:406:13-71
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:401:13-65
+activity#com.hhzt.iptv.ui.BillListActivity
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:408:9-415:20
+	android:screenOrientation
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:413:13-50
+	android:label
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:411:13-45
+	android:launchMode
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:412:13-44
+	android:configChanges
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:410:13-79
+	android:theme
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:414:13-71
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:409:13-61
+activity#com.hhzt.iptv.ui.PairedActionTipsActivity
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:416:9-423:20
+	android:screenOrientation
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:421:13-50
+	android:label
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:419:13-45
+	android:launchMode
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:420:13-44
+	android:configChanges
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:418:13-79
+	android:theme
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:422:13-71
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:417:13-69
+activity#com.hhzt.iptv.ui.PairAuthorithTipsActivity
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:424:9-431:20
+	android:screenOrientation
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:429:13-50
+	android:label
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:427:13-45
+	android:launchMode
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:428:13-44
+	android:configChanges
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:426:13-79
+	android:theme
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:430:13-82
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:425:13-70
+activity#com.hhzt.iptv.ui.SeatSelectionTipsActivity
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:432:9-439:20
+	android:screenOrientation
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:437:13-50
+	android:label
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:435:13-45
+	android:launchMode
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:436:13-44
+	android:configChanges
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:434:13-79
+	android:theme
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:438:13-82
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:433:13-70
+activity#com.hhzt.iptv.ui.VodSearchActivity
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:440:9-447:20
+	android:screenOrientation
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:445:13-50
+	android:label
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:443:13-45
+	android:launchMode
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:444:13-44
+	android:configChanges
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:442:13-79
+	android:theme
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:446:13-71
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:441:13-62
+activity#com.hhzt.iptv.ui.MediaControllerActivity
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:448:9-455:20
+	android:screenOrientation
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:453:13-50
+	android:label
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:451:13-45
+	android:launchMode
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:452:13-44
+	android:configChanges
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:450:13-79
+	android:theme
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:454:13-71
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:449:13-68
+activity#com.hhzt.iptv.ui.LocalAppsActivity
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:456:9-463:20
+	android:screenOrientation
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:461:13-50
+	android:label
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:459:13-45
+	android:launchMode
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:460:13-44
+	android:configChanges
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:458:13-79
+	android:theme
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:462:13-71
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:457:13-62
+activity#com.hhzt.iptv.ui.UpdateTipsActivity
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:464:9-471:20
+	android:screenOrientation
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:469:13-50
+	android:label
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:467:13-45
+	android:launchMode
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:468:13-44
+	android:configChanges
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:466:13-79
+	android:theme
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:470:13-71
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:465:13-63
+activity#com.hhzt.iptv.ui.UpdateActionActivity
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:472:9-479:20
+	android:screenOrientation
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:477:13-50
+	android:label
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:475:13-45
+	android:launchMode
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:476:13-44
+	android:configChanges
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:474:13-79
+	android:theme
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:478:13-71
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:473:13-65
+activity#com.hhzt.iptv.ui.HelpTipsActivity
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:480:9-487:20
+	android:screenOrientation
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:485:13-50
+	android:label
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:483:13-45
+	android:launchMode
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:484:13-44
+	android:configChanges
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:482:13-79
+	android:theme
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:486:13-71
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:481:13-61
+activity#com.hhzt.iptv.ui.PrisonAffairsLoginActivity
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:488:9-495:20
+	android:screenOrientation
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:493:13-50
+	android:label
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:491:13-45
+	android:launchMode
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:492:13-44
+	android:configChanges
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:490:13-79
+	android:theme
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:494:13-71
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:489:13-71
+activity#com.hhzt.iptv.ui.PrisonAffairsDetailActivity
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:496:9-503:20
+	android:screenOrientation
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:501:13-50
+	android:label
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:499:13-45
+	android:launchMode
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:500:13-44
+	android:configChanges
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:498:13-79
+	android:theme
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:502:13-71
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:497:13-72
+activity#com.hhzt.iptv.ui.PrisonInfoActivity
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:504:9-511:20
+	android:screenOrientation
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:509:13-50
+	android:label
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:507:13-45
+	android:launchMode
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:508:13-44
+	android:configChanges
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:506:13-79
+	android:theme
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:510:13-71
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:505:13-63
+activity#com.hhzt.iptv.ui.PrisonInfoCategoryActivity
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:512:9-519:20
+	android:screenOrientation
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:517:13-50
+	android:label
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:515:13-45
+	android:launchMode
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:516:13-44
+	android:configChanges
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:514:13-79
+	android:theme
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:518:13-71
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:513:13-71
+activity#com.hhzt.iptv.ui.PrisonNewsActivity
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:520:9-527:20
+	android:screenOrientation
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:525:13-50
+	android:label
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:523:13-45
+	android:launchMode
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:524:13-44
+	android:configChanges
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:522:13-79
+	android:theme
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:526:13-71
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:521:13-63
+activity#com.hhzt.iptv.ui.PrisonNewsDetailActivity
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:528:9-535:20
+	android:screenOrientation
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:533:13-50
+	android:label
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:531:13-45
+	android:launchMode
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:532:13-44
+	android:configChanges
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:530:13-79
+	android:theme
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:534:13-71
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:529:13-69
+activity#com.hhzt.iptv.ui.BookActivity
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:536:9-543:20
+	android:screenOrientation
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:541:13-50
+	android:label
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:539:13-45
+	android:launchMode
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:540:13-44
+	android:configChanges
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:538:13-79
+	android:theme
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:542:13-71
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:537:13-57
+activity#com.hhzt.iptv.ui.BookListActivity
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:544:9-551:20
+	android:screenOrientation
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:549:13-50
+	android:label
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:547:13-45
+	android:launchMode
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:548:13-44
+	android:configChanges
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:546:13-79
+	android:theme
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:550:13-71
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:545:13-61
+activity#com.hhzt.iptv.ui.PdfView_New_Activity
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:552:9-560:20
+	android:screenOrientation
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:557:13-50
+	android:label
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:555:13-45
+	android:hardwareAccelerated
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:558:13-47
+	android:launchMode
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:556:13-44
+	android:configChanges
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:554:13-79
+	android:theme
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:559:13-71
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:553:13-65
+activity#com.hhzt.iptv.ui.FoodActivity
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:561:9-568:20
+	android:screenOrientation
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:566:13-50
+	android:label
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:564:13-45
+	android:launchMode
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:565:13-44
+	android:configChanges
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:563:13-79
+	android:theme
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:567:13-71
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:562:13-57
+activity#com.hhzt.iptv.ui.PrisonNewsWebSitActivity
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:569:9-576:20
+	android:screenOrientation
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:574:13-50
+	android:label
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:572:13-45
+	android:launchMode
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:573:13-44
+	android:configChanges
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:571:13-79
+	android:theme
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:575:13-71
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:570:13-69
+activity#com.hhzt.iptv.ui.PrisonWebsitDetailActivity
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:577:9-584:20
+	android:screenOrientation
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:582:13-50
+	android:label
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:580:13-45
+	android:launchMode
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:581:13-44
+	android:configChanges
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:579:13-79
+	android:theme
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:583:13-71
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:578:13-71
+service#com.hhzt.iptv.lvb_x.utils.download.DownloadService
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:586:9-592:19
+	android:enabled
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:588:13-35
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:587:13-78
+intent-filter#download.service.action
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:589:13-591:29
+action#download.service.action
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:590:17-66
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:590:25-63
+service#com.hhzt.iptv.lvb_x.services.MsgReceiveService
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:593:9-599:19
+	android:enabled
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:595:13-35
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:594:13-74
+intent-filter#com.hhzt.iptv.service.MsgReceiveService
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:596:13-598:29
+action#com.hhzt.iptv.service.MsgReceiveService
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:597:17-82
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:597:25-79
+service#com.hhzt.iptv.lvb_x.services.LHReceiveService
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:601:9-607:19
+	android:enabled
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:603:13-35
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:602:13-73
+intent-filter#com.hhzt.iptv.service.LHReceiveService
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:604:13-606:29
+action#com.hhzt.iptv.service.LHReceiveService
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:605:17-81
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:605:25-78
+receiver#com.hhzt.iptv.lvb_x.ConnectionChangeReceiver
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:609:9-619:20
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:609:19-78
+intent-filter#android.intent.action.PACKAGE_REPLACED+android.net.conn.CONNECTIVITY_CHANGE+com.hhzt.iptv.lvb_x.cancel_seat+com.hhzt.iptv.lvb_x.pairtips+com.hhzt.iptv.lvb_x.select_seat+com.hhzt.iptv.lvb_x.unlock
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:610:13-618:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:611:17-79
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:611:25-76
+action#com.hhzt.iptv.lvb_x.pairtips
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:612:17-71
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:612:25-68
+action#com.hhzt.iptv.lvb_x.select_seat
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:613:17-74
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:613:25-71
+action#com.hhzt.iptv.lvb_x.cancel_seat
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:614:17-74
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:614:25-71
+action#com.hhzt.iptv.lvb_x.unlock
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:615:17-69
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:615:25-66
+action#android.intent.action.PACKAGE_REPLACED
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:616:17-80
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:616:25-78
+data
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:617:17-51
+	android:scheme
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:617:23-47
+receiver#com.hhzt.iptv.lvb_x.MediaPlayerCmdReceiver
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:620:9-624:20
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:620:19-76
+intent-filter#com.hhzt.iptv.ui.MediaPlayerActivity
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:621:13-623:29
+action#com.hhzt.iptv.ui.MediaPlayerActivity
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:622:17-79
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:622:25-76
+receiver#com.hhzt.iptv.lvb_x.ChangHongCmdReceiver
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:625:9-629:20
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:625:19-74
+intent-filter#com.changhong.system.systemkeyfor3rd
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:626:13-628:29
+	android:priority
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:626:28-51
+action#com.changhong.system.systemkeyfor3rd
+ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:627:17-79
+	android:name
+		ADDED from E:\Work_Project\LVB_JY_BH\LVB_X\AndroidManifest.xml:627:25-76
+activity#com.google.gifview.GifView
+ADDED from [LVB_JY_BH:GifView:unspecified] E:\Work_Project\LVB_JY_BH\LVB_X\build\intermediates\exploded-aar\LVB_JY_BH\GifView\unspecified\AndroidManifest.xml:16:9-24:20
+	android:label
+		ADDED from [LVB_JY_BH:GifView:unspecified] E:\Work_Project\LVB_JY_BH\LVB_X\build\intermediates\exploded-aar\LVB_JY_BH\GifView\unspecified\AndroidManifest.xml:18:13-45
+	android:name
+		ADDED from [LVB_JY_BH:GifView:unspecified] E:\Work_Project\LVB_JY_BH\LVB_X\build\intermediates\exploded-aar\LVB_JY_BH\GifView\unspecified\AndroidManifest.xml:17:13-54
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from [LVB_JY_BH:GifView:unspecified] E:\Work_Project\LVB_JY_BH\LVB_X\build\intermediates\exploded-aar\LVB_JY_BH\GifView\unspecified\AndroidManifest.xml:19:13-23:29
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:25.3.1] E:\Work_Project\LVB_JY_BH\LVB_X\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] E:\Work_Project\LVB_JY_BH\LVB_X\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] E:\Work_Project\LVB_JY_BH\LVB_X\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] E:\Work_Project\LVB_JY_BH\LVB_X\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] E:\Work_Project\LVB_JY_BH\LVB_X\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] E:\Work_Project\LVB_JY_BH\LVB_X\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-v4:25.3.1] E:\Work_Project\LVB_JY_BH\LVB_X\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-v4:25.3.1] E:\Work_Project\LVB_JY_BH\LVB_X\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\AndroidManifest.xml:26:9-47

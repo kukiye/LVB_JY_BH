@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@drawable/theme_bg"
+              android:orientation="vertical">
+
+    <!-- <FrameLayout
+         android:id="@+id/fragment_main_title"
+         android:layout_width="match_parent"
+         android:layout_height="@dimen/layx170"
+         >
+     </FrameLayout>-->
+
+    <include
+        layout="@layout/fragment_main_title"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layx170">
+
+    </include>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layx490"
+        android:background="@drawable/mainpage_conetent_bg"
+        android:orientation="vertical"
+        >
+
+        <com.hhzt.iptv.lvb_x.customview.SmoothHorizontalScrollView
+            android:id="@+id/bottom_scroll_Hs"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/layx40"
+            android:layout_marginLeft="@dimen/layx25"
+            android:layout_marginRight="@dimen/layx10"
+            android:layout_marginTop="@dimen/layx22"
+            android:scrollbars="none"
+            android:visibility="visible"
+            >
+
+            <com.hhzt.iptv.lvb_x.customview.LinearMainLayout
+                android:id="@+id/main_tab_layout"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"/>
+
+
+        </com.hhzt.iptv.lvb_x.customview.SmoothHorizontalScrollView>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            >
+
+            <TextView
+                android:id="@+id/tv_count"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="@dimen/layx80"
+                android:layout_marginTop="@dimen/layx10"
+                android:gravity="right"
+                android:singleLine="true"
+                android:text=""
+                android:textColor="@color/main_text_bule"
+                android:textSize="@dimen/layx20"
+                android:visibility="gone"
+                />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="@dimen/layx30"
+                android:layout_marginLeft="@dimen/layx60"
+                android:layout_marginRight="@dimen/layx50"
+                android:layout_marginTop="@dimen/layx30"
+                android:orientation="horizontal">
+
+                <FrameLayout
+                    android:id="@+id/fragment_content"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="3">
+
+                </FrameLayout>
+
+
+                <include
+                    android:id="@+id/right_layout"
+                    layout="@layout/fragment_home_right"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="@dimen/layx60"
+                    android:layout_weight="2">
+
+                </include>
+
+
+            </LinearLayout>
+        </RelativeLayout>
+
+    </LinearLayout>
+
+    <FrameLayout
+        android:id="@+id/fragment_main_bottem"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layx59"
+        android:background="@drawable/mainpage_blue_bg"
+        >
+    </FrameLayout>
+
+
+</LinearLayout>

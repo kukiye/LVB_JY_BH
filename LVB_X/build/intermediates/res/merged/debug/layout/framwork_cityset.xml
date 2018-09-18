@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <RelativeLayout
+        android:layout_width="@dimen/layx900"
+        android:layout_height="@dimen/layx500"
+        android:layout_centerInParent="true" >
+
+        <LinearLayout
+            android:id="@+id/cityset_main"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true"
+            android:baselineAligned="false"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/layx50"
+                android:background="@drawable/common_title_bg"
+                android:contentDescription="@string/app_game" />
+
+            <GridView
+                android:id="@+id/city_data_item"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/live_list_bg"
+                android:drawSelectorOnTop="false"
+                android:fastScrollEnabled="true"
+                android:fitsSystemWindows="true"
+                android:horizontalSpacing="@dimen/layx10"
+                android:listSelector="@drawable/button_selector"
+                android:numColumns="6"
+                android:padding="@dimen/layx40"
+                android:stretchMode="columnWidth"
+                android:verticalSpacing="@dimen/layx10" >
+            </GridView>
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/layx50"
+            android:gravity="center_vertical" >
+
+            <TextView
+                android:id="@+id/choose_city_tag"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical"
+                android:paddingLeft="@dimen/layx40"
+                android:text="@string/city_select"
+                android:textColor="@color/white"
+                android:textSize="@dimen/layx25" />
+
+            <TextView
+                android:id="@+id/current_city_tag"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="@dimen/layx200"
+                android:gravity="center"
+                android:text="@string/current_city"
+                android:textColor="@color/white"
+                android:textSize="@dimen/layx25" />
+
+            <TextView
+                android:id="@+id/current_city_name"
+                android:layout_width="@dimen/layx150"
+                android:layout_height="@dimen/layx50"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="@dimen/layx30"
+                android:background="@drawable/current_city_bg"
+                android:ellipsize="end"
+                android:gravity="center"
+                android:singleLine="true"
+                android:textColor="@color/white"
+                android:textSize="@dimen/layx25" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+</RelativeLayout>

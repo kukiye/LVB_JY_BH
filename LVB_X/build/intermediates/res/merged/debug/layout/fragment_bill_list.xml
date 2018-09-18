@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <include
+        android:id="@+id/top_banner"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layx35"
+        android:layout_alignParentTop="true"
+        layout="@layout/top_banner_bg" />
+
+    <include
+        android:id="@+id/botttom_banner"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layx40"
+        android:layout_alignParentBottom="true"
+        layout="@layout/sub_tips_action_type" />
+
+    <include
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/botttom_banner"
+        android:layout_below="@id/top_banner"
+        layout="@layout/framwork_bill" />
+
+</RelativeLayout>

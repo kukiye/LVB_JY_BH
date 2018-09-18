@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <include
+        android:id="@+id/top_banner"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layx35"
+        android:layout_alignParentTop="true"
+        layout="@layout/top_banner_bg" />
+
+    <include
+        android:id="@+id/botttom_banner"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layx40"
+        android:layout_alignParentBottom="true"
+        layout="@layout/sub_tips_action_type" />
+
+    <GridView
+        android:id="@+id/live_data_item"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/botttom_banner"
+        android:layout_below="@id/top_banner"
+        android:background="@drawable/rc_bg"
+        android:drawSelectorOnTop="false"
+        android:fastScrollEnabled="true"
+        android:fitsSystemWindows="true"
+        android:horizontalSpacing="@dimen/layx10"
+        android:listSelector="@drawable/live_grid_button_selector"
+        android:numColumns="5"
+        android:padding="@dimen/layx30"
+        android:stretchMode="columnWidth"
+        android:verticalSpacing="@dimen/layx10" >
+    </GridView>
+
+</RelativeLayout>

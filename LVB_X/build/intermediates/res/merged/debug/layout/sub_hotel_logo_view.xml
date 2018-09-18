@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/hotellogo_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <ImageView
+        android:id="@+id/hotellogo"
+        android:layout_width="@dimen/layx190"
+        android:layout_height="@dimen/layx135"
+        android:layout_centerInParent="true"
+        android:contentDescription="@string/app_name"
+        android:scaleType="fitXY"
+        android:src="@drawable/mainmenu_logo220x135" />
+
+    <ImageView
+        android:id="@+id/interupt_line"
+        android:layout_width="@dimen/layx3"
+        android:layout_height="@dimen/layx175"
+        android:layout_alignParentRight="true"
+        android:layout_centerInParent="true"
+        android:background="@drawable/interupt_vertical_line"
+        android:contentDescription="@string/app_name" />
+
+</RelativeLayout>

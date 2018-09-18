@@ -1,0 +1,1 @@
+ping zxueyuan.oicp.net

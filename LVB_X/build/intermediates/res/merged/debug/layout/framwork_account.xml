@@ -1,0 +1,150 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <RelativeLayout
+        android:id="@+id/setting_content_main"
+        android:layout_width="@dimen/layx800"
+        android:layout_height="@dimen/layx600"
+        android:layout_centerInParent="true"
+        android:background="@drawable/dialog_bg"
+        android:gravity="center" >
+
+        <LinearLayout
+            android:id="@+id/account_main"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/layx70"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="@dimen/layx20"
+            android:gravity="center_vertical"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/account_tips"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginRight="@dimen/layx30"
+                android:gravity="center"
+                android:text="@string/account_tips"
+                android:textColor="@color/white"
+                android:textSize="@dimen/layx30" />
+
+            <EditText
+                android:id="@+id/account_input_hint"
+                android:layout_width="@dimen/layx320"
+                android:layout_height="match_parent"
+                android:background="@drawable/button_selector"
+                android:gravity="center_vertical"
+                android:hint="@string/account_input"
+                android:inputType="number"
+                android:paddingLeft="@dimen/layx30"
+                android:paddingRight="@dimen/layx30"
+                android:singleLine="true"
+             	android:textColor="@color/white"
+                android:textSize="@dimen/layx30" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/passwd_main"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/layx70"
+            android:layout_below="@id/account_main"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="@dimen/layx20"
+            android:gravity="center_vertical"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/passwd_tips"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginRight="@dimen/layx30"
+                android:gravity="center"
+                android:text="@string/passwd_tips"
+                android:textColor="@color/white"
+                android:textSize="@dimen/layx30" />
+
+            <EditText
+                android:id="@+id/passwd_input_hint"
+                android:layout_width="@dimen/layx320"
+                android:layout_height="match_parent"
+                android:background="@drawable/button_selector"
+                android:gravity="center_vertical"
+                android:hint="@string/passwd_input"
+                android:inputType="textPassword"
+                android:paddingLeft="@dimen/layx30"
+                android:paddingRight="@dimen/layx30"
+                android:singleLine="true"
+                android:textColor="@color/white"
+                android:textSize="@dimen/layx30" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/IPAdd_main"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/layx70"
+            android:layout_below="@id/passwd_main"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="@dimen/layx20"
+            android:gravity="center_vertical"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/IPAdd_tips"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginRight="@dimen/layx30"
+                android:gravity="center"
+                android:text="@string/ipAdd_tips"
+                android:textColor="@color/white"
+                android:textSize="@dimen/layx30" />
+
+            <EditText
+                android:id="@+id/IPAdd_input_hint"
+                android:layout_width="@dimen/layx320"
+                android:layout_height="match_parent"
+                android:background="@drawable/button_selector"
+                android:gravity="center_vertical"
+                android:hint="@string/ipAdd_input"
+                android:paddingLeft="@dimen/layx30"
+                android:paddingRight="@dimen/layx30"
+                android:singleLine="true"
+                android:textColor="@color/white"
+                android:textSize="@dimen/layx30" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/setting_controller_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/IPAdd_main"
+            android:layout_centerHorizontal="true"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/setting_cancel"
+                android:layout_width="@dimen/layx200"
+                android:layout_height="@dimen/layx70"
+                android:layout_marginLeft="@dimen/layx50"
+                android:layout_marginRight="@dimen/layx150"
+                android:background="@drawable/button_selector"
+                android:gravity="center"
+                android:text="@string/cancel"
+                android:textColor="@color/white"
+                android:textSize="@dimen/layx25" />
+
+            <Button
+                android:id="@+id/setting_ok"
+                android:layout_width="@dimen/layx200"
+                android:layout_height="@dimen/layx70"
+                android:layout_marginRight="@dimen/layx50"
+                android:background="@drawable/button_selector"
+                android:gravity="center"
+                android:text="@string/confirm"
+                android:textColor="@color/white"
+                android:textSize="@dimen/layx25" />
+        </LinearLayout>
+    </RelativeLayout>
+
+</RelativeLayout>

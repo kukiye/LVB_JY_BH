@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:paddingLeft="@dimen/layx15"
+    android:paddingRight="@dimen/layx15" >
+
+    <TextView
+        android:id="@+id/date_monthsday_text"
+        android:layout_width="0dp"
+        android:layout_height="@dimen/layx70"
+        android:layout_marginRight="@dimen/layx10"
+        android:layout_weight="1"
+        android:ellipsize="marquee"
+        android:gravity="center"
+        android:singleLine="true"
+        android:text="@string/blank_data"
+        android:textColor="@color/white"
+        android:textSize="@dimen/layx20" />
+
+    <TextView
+        android:id="@+id/date_week_text"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.5"
+        android:ellipsize="marquee"
+        android:gravity="center"
+        android:layout_gravity="center_vertical"
+        android:marqueeRepeatLimit="marquee_forever"
+        android:layout_margin="@dimen/layx10"
+        android:singleLine="true"
+        android:text="@string/loading"
+        android:textColor="@color/white"
+        android:textSize="@dimen/layx20"
+        android:background="@drawable/live_text_bg" />
+
+</LinearLayout>

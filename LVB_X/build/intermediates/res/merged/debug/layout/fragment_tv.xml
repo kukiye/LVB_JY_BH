@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="horizontal">
+
+    <com.hhzt.iptv.lvb_x.customview.LogoLayout
+        android:id="@+id/logo_layout"
+        android:layout_width="@dimen/layx180"
+        android:layout_height="match_parent"
+        android:layout_marginRight="@dimen/layx50"
+        android:background="@drawable/mainpage_content_gride_selector">
+
+    </com.hhzt.iptv.lvb_x.customview.LogoLayout>
+
+    <LinearLayout
+        android:id="@+id/content_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+
+        <ListView
+            android:id="@+id/lv_channel"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="6"
+            android:cacheColorHint="#00000000"
+            android:divider="@null"
+            android:dividerHeight="@dimen/layx7"
+            android:drawSelectorOnTop="false"
+            android:fastScrollEnabled="true"
+            android:listSelector="@drawable/focus_item_selector"
+            android:scrollbars="none">
+
+        </ListView>
+
+    </LinearLayout>
+</LinearLayout>

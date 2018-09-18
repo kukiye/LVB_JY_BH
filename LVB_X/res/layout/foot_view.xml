@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/tv_foot"
+    android:layout_width="@dimen/layx40"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:gravity="center_vertical"
+    tools:text="下拉刷新"
+    android:focusable="true"
+    android:layout_marginTop="@dimen/layx10"
+    android:orientation="vertical"/>

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\Work_Project\LVB_JY_BH\LVB_X\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="E:\Work_Project\LVB_JY_BH\LVB_X\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_2be9bec9ad1305cee990102b213439ee41140c74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Work_Project\LVB_JY_BH\LVB_X\libs\xUtils-2.6.14.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
+        <dex dex="E:\Work_Project\LVB_JY_BH\LVB_X\build\intermediates\pre-dexed\debug\xUtils-2.6.14_e2b57bf749dd69cfb3064d8086dd4028743b3d71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Work_Project\LVB_JY_BH\LVB_X\libs\tbs_sdk_thirdapp_v3.2.0.1104_43200.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e58a5f3e98fddc1752eb23c37db5e4b8fc174fe3">
+        <dex dex="E:\Work_Project\LVB_JY_BH\LVB_X\build\intermediates\pre-dexed\debug\tbs_sdk_thirdapp_v3.2.0.1104_43200_bc60fffc162e4ef67c9ea95a92ec8c602c6b2e5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Work_Project\LVB_JY_BH\LVB_X\libs\deytech.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="bf9cfbfbd6f989feb980b41615e92b609abaefc2">
+        <dex dex="E:\Work_Project\LVB_JY_BH\LVB_X\build\intermediates\pre-dexed\debug\deytech_bab3c5d08bb9170f4a916bc41d99b26ca3a4f1d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\25.3.1\bf8841d29fa39e077730e7a91222c2ce269fa7c9\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="E:\Work_Project\LVB_JY_BH\LVB_X\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_d02896e49caeafe17508d914e424e43ca3591edd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Work_Project\LVB_JY_BH\LVB_X\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Work_Project\LVB_JY_BH\LVB_X\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_3a5e3ceb828cbc683762d801ed1fd69aed9ae146.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Work_Project\LVB_JY_BH\LVB_X\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="E:\Work_Project\LVB_JY_BH\LVB_X\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_f772b6c8b7be27b80c88c5923bac65a02998d869.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Work_Project\LVB_JY_BH\LVB_X\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="E:\Work_Project\LVB_JY_BH\LVB_X\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_333e5b2de6ed6d7ca63f994ac8ed2ce0bdad5f5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Work_Project\LVB_JY_BH\LVB_X\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="E:\Work_Project\LVB_JY_BH\LVB_X\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_f25e21f02cc8dfbe207b438dd41c3254c9906b02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Work_Project\LVB_JY_BH\LVB_X\build\intermediates\exploded-aar\com.github.barteksc\pdfium-android\1.7.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="100c2548728b6c99e002328d3590b750a6afa9e5">
+        <dex dex="E:\Work_Project\LVB_JY_BH\LVB_X\build\intermediates\pre-dexed\debug\com.github.barteksc-pdfium-android-1.7.0_45f4ff8f74554fb868dcd39626672c648deec0c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="E:\Work_Project\LVB_JY_BH\LVB_X\build\intermediates\pre-dexed\debug\glide-3.7.0_dc2cedaf25df8c5e199ffaaa969663929f0fc4fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Work_Project\LVB_JY_BH\LVB_X\libs\universal-image-loader-1.9.3-with-sources.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="03e3948d42b8d78961a092a184af66bd86da42e6">
+        <dex dex="E:\Work_Project\LVB_JY_BH\LVB_X\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.3-with-sources_e6c4d3e0a8fe28f0278d46412eb5bb3d4273ec49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Work_Project\LVB_JY_BH\LVB_X\build\intermediates\exploded-aar\com.github.barteksc\android-pdf-viewer\2.7.0-beta.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a68d897b0dc32323b31ca1eb2cd620a2662940ea">
+        <dex dex="E:\Work_Project\LVB_JY_BH\LVB_X\build\intermediates\pre-dexed\debug\com.github.barteksc-android-pdf-viewer-2.7.0-beta.1_5b427f70e08567666ce6f57f35a4ee1db120e22b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Work_Project\LVB_JY_BH\LVB_X\libs\bugly_1.0.4_release.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8c858f9d08ba28be6838f1884480cd73bcfaabf7">
+        <dex dex="E:\Work_Project\LVB_JY_BH\LVB_X\build\intermediates\pre-dexed\debug\bugly_1.0.4_release_0959a407fedd050b5c82a54b98750893b74a4465.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Work_Project\LVB_JY_BH\LVB_X\build\intermediates\exploded-aar\LVB_JY_BH\GifView\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3904953522a59779c77017609e4cc512f6dd0671">
+        <dex dex="E:\Work_Project\LVB_JY_BH\LVB_X\build\intermediates\pre-dexed\debug\LVB_JY_BH-GifView-unspecified_6a1b0fd4f089ecd739e62507d1699c4ae9239157.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Work_Project\LVB_JY_BH\LVB_X\libs\gson-2.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="973e832af433b44c3ed11c426f2f390b29f3f3f8">
+        <dex dex="E:\Work_Project\LVB_JY_BH\LVB_X\build\intermediates\pre-dexed\debug\gson-2.2.4_39ef19c8bc125d6273545afd39868403623804d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Work_Project\LVB_JY_BH\LVB_X\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="E:\Work_Project\LVB_JY_BH\LVB_X\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_61cbc1a8beea98c9775bc77d53a7622292975b16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Work_Project\LVB_JY_BH\LVB_X\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="E:\Work_Project\LVB_JY_BH\LVB_X\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_b19eb73a82822617389cda1bec227b5768b909eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Work_Project\LVB_JY_BH\LVB_X\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="E:\Work_Project\LVB_JY_BH\LVB_X\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_5f7a9915ea0c162cb853459484c8947e845e90b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Work_Project\LVB_JY_BH\LVB_X\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="E:\Work_Project\LVB_JY_BH\LVB_X\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_994da206cbc648c21bd3a4fb86fa161ab19f9df6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Work_Project\LVB_JY_BH\LVB_X\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="E:\Work_Project\LVB_JY_BH\LVB_X\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_925b8cacaa5c29370630ffdccaa10a7a52241f49.jar" />
+    </item>
+
+</items>

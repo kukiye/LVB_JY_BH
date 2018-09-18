@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GifView/GifView.iml" filepath="$PROJECT_DIR$/GifView/GifView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LVB_JY_BH.iml" filepath="$PROJECT_DIR$/LVB_JY_BH.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LVB_X/LVB_X.iml" filepath="$PROJECT_DIR$/LVB_X/LVB_X.iml" />
+    </modules>
+  </component>
+</project>

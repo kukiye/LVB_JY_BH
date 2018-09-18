@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginLeft="@dimen/layx20"
+        android:layout_marginRight="@dimen/layx20"
+        android:layout_weight="1"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/vod_item_movie_name_text"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/layx50"
+            android:layout_marginTop="@dimen/layx30"
+            android:ellipsize="marquee"
+            android:gravity="left|center_vertical"
+            android:marqueeRepeatLimit="marquee_forever"
+            android:singleLine="true"
+            android:textColor="@color/white"
+            android:textSize="@dimen/layy34" />
+
+        <TextView
+            android:id="@+id/vod_item_movie_nation_text"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/layx30"
+            android:ellipsize="end"
+            android:gravity="left|center_vertical"
+            android:singleLine="true"
+            android:textColor="@color/lightbrown"
+            android:textSize="@dimen/layy20" />
+
+        <TextView
+            android:id="@+id/vod_item_movie_type_text"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/layx30"
+            android:ellipsize="end"
+            android:gravity="left|center_vertical"
+            android:singleLine="true"
+            android:textColor="@color/lightbrown"
+            android:textSize="@dimen/layy20" />
+
+        <TextView
+            android:id="@+id/vod_item_movie_direct_text"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/layx30"
+            android:ellipsize="end"
+            android:gravity="left|center_vertical"
+            android:singleLine="true"
+            android:textColor="@color/lightbrown"
+            android:textSize="@dimen/layy20" />
+
+        <TextView
+            android:id="@+id/vod_item_movie_actor_text"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/layx30"
+            android:ellipsize="end"
+            android:gravity="left|center_vertical"
+            android:singleLine="true"
+            android:textColor="@color/lightbrown"
+            android:textSize="@dimen/layy20" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginLeft="@dimen/layx20"
+        android:layout_marginRight="@dimen/layx20"
+        android:layout_weight="1"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/vod_item_introduce_top_text"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/layx50"
+            android:ellipsize="end"
+            android:gravity="left|center_vertical"
+            android:singleLine="true"
+            android:text="@string/vod_introduce"
+            android:textColor="@color/white"
+            android:textSize="@dimen/layy24" />
+
+        <TextView
+            android:id="@+id/vod_detail_introduce_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/layx40"
+            android:ellipsize="end"
+            android:focusable="false"
+            android:lines="6"
+            android:textColor="@color/lightbrown"
+            android:textSize="@dimen/layy20" />
+    </LinearLayout>
+
+</LinearLayout>

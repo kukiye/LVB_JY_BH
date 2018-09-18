@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/layx720"
+    android:layout_height="@dimen/layx260"
+    android:layout_gravity="center"
+    android:background="@drawable/dialog_black_bg"
+    android:gravity="center_horizontal"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/check_main_container"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/check_check_in"
+            android:layout_width="@dimen/layx230"
+            android:layout_height="@dimen/layx70"
+            android:layout_marginRight="@dimen/layx20"
+            android:background="@drawable/button_selector"
+            android:gravity="center"
+            android:text="@string/roomservice_checkin"
+            android:textColor="@color/white"
+            android:textSize="@dimen/layx25" />
+
+        <Button
+            android:id="@+id/check_check_out"
+            android:layout_width="@dimen/layx230"
+            android:layout_height="@dimen/layx70"
+            android:layout_marginLeft="@dimen/layx20"
+            android:background="@drawable/button_selector"
+            android:gravity="center"
+            android:text="@string/roomservice_checkout"
+            android:textColor="@color/white"
+            android:textSize="@dimen/layx25" />
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/checkinou_history_list"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layx100"
+        android:layout_below="@id/check_main_container"
+        android:layout_marginBottom="@dimen/layx10"
+        android:layout_marginLeft="@dimen/layx10"
+        android:layout_marginRight="@dimen/layx10"
+        android:layout_marginTop="@dimen/layx10"
+        android:cacheColorHint="#00000000"
+        android:divider="@android:color/transparent"
+        android:dividerHeight="@dimen/layx2"
+        android:drawSelectorOnTop="false"
+        android:fastScrollEnabled="true"
+        android:focusable="true"
+        android:listSelector="@drawable/button_selector"
+        android:scrollbars="none" >
+    </ListView>
+
+</RelativeLayout>

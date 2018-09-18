@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:baselineAligned="false"
+    android:orientation="horizontal" >
+
+    <ScrollView
+        android:id="@+id/image_text_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:background="@drawable/sub_app_content_bg"
+        android:scrollbars="none" >
+
+        <GridLayout
+            android:id="@+id/sub_app_item_grid"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:columnCount="6"
+            android:padding="@dimen/layx20" >
+        </GridLayout>
+    </ScrollView>
+
+</LinearLayout>

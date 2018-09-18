@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/layx30"
+    android:paddingRight="@dimen/layx30" >
+
+    <TextView
+        android:id="@+id/t9_search_contents"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="@dimen/layx30"
+        android:gravity="center_vertical"
+        android:textColor="@color/white"
+        android:textSize="@dimen/layx20" />
+
+    <ImageView
+        android:id="@+id/t9_search_contents_line"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layx2"
+        android:layout_below="@id/t9_search_contents"
+        android:background="@drawable/text_botoom_line"
+        android:contentDescription="@string/app_name" />
+
+    <TextView
+        android:id="@+id/t9_search_action_tips"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="@dimen/layx20"
+        android:drawableLeft="@drawable/warm_tips"
+        android:drawablePadding="@dimen/layx10"
+        android:drawableStart="@drawable/warm_tips"
+        android:text="@string/vod_search_tips"
+        android:textColor="@color/white"
+        android:textSize="@dimen/layx20" />
+
+    <LinearLayout
+        android:id="@+id/t9_virtual_item_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/t9_search_action_tips"
+        android:layout_below="@id/t9_search_contents_line"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:id="@+id/t9_pad_row_one"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/t9_clear_all"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="@dimen/layx10"
+                android:layout_marginRight="@dimen/layx10"
+                android:layout_weight="1"
+                android:background="@drawable/button_selector"
+                android:text="@string/dpad_clear_all"
+                android:textColor="@color/white"
+                android:textSize="@dimen/layx20" />
+
+            <Button
+                android:id="@+id/t9_dpad_zero"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="@dimen/layx10"
+                android:layout_marginRight="@dimen/layx10"
+                android:layout_weight="1"
+                android:background="@drawable/button_selector"
+                android:text="@string/dpad_zero"
+                android:textColor="@color/white"
+                android:textSize="@dimen/layx20" />
+
+            <Button
+                android:id="@+id/t9_dpad_delete"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="@dimen/layx10"
+                android:layout_marginRight="@dimen/layx10"
+                android:layout_weight="1"
+                android:background="@drawable/button_selector"
+                android:text="@string/dpad_delete"
+                android:textColor="@color/white"
+                android:textSize="@dimen/layx20" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/t9_pad_row_two"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/t9_dpad_one"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="@dimen/layx10"
+                android:layout_marginRight="@dimen/layx10"
+                android:layout_weight="1"
+                android:background="@drawable/button_selector"
+                android:text="@string/dpad_one"
+                android:textColor="@color/white"
+                android:textSize="@dimen/layx20" />
+
+            <Button
+                android:id="@+id/t9_dpad_abc2"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="@dimen/layx10"
+                android:layout_marginRight="@dimen/layx10"
+                android:layout_weight="1"
+                android:background="@drawable/button_selector"
+                android:text="@string/dpad_twoabc"
+                android:textColor="@color/white"
+                android:textSize="@dimen/layx20" />
+
+            <Button
+                android:id="@+id/t9_dpad_def3"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="@dimen/layx10"
+                android:layout_marginRight="@dimen/layx10"
+                android:layout_weight="1"
+                android:background="@drawable/button_selector"
+                android:text="@string/dpad_threeDEF"
+                android:textColor="@color/white"
+                android:textSize="@dimen/layx20" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/t9_pad_row_three"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/t9_dpad_ghi4"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="@dimen/layx10"
+                android:layout_marginRight="@dimen/layx10"
+                android:layout_weight="1"
+                android:background="@drawable/button_selector"
+                android:text="@string/dpad_fourGHI"
+                android:textColor="@color/white"
+                android:textSize="@dimen/layx20" />
+
+            <Button
+                android:id="@+id/t9_dpad_jkl5"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="@dimen/layx10"
+                android:layout_marginRight="@dimen/layx10"
+                android:layout_weight="1"
+                android:background="@drawable/button_selector"
+                android:text="@string/dpad_fiveJKL"
+                android:textColor="@color/white"
+                android:textSize="@dimen/layx20" />
+
+            <Button
+                android:id="@+id/t9_dpad_mno6"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="@dimen/layx10"
+                android:layout_marginRight="@dimen/layx10"
+                android:layout_weight="1"
+                android:background="@drawable/button_selector"
+                android:text="@string/dpad_sixMNO"
+                android:textColor="@color/white"
+                android:textSize="@dimen/layx20" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/t9_pad_row_four"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/t9_dpad_pqrs7"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="@dimen/layx10"
+                android:layout_marginRight="@dimen/layx10"
+                android:layout_weight="1"
+                android:background="@drawable/button_selector"
+                android:text="@string/dpad_sevenPQRS"
+                android:textColor="@color/white"
+                android:textSize="@dimen/layx20" />
+
+            <Button
+                android:id="@+id/t9_dpad_tuv8"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="@dimen/layx10"
+                android:layout_marginRight="@dimen/layx10"
+                android:layout_weight="1"
+                android:background="@drawable/button_selector"
+                android:text="@string/dpad_eightTUV8"
+                android:textColor="@color/white"
+                android:textSize="@dimen/layx20" />
+
+            <Button
+                android:id="@+id/t9_dpad_wxyz9"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="@dimen/layx10"
+                android:layout_marginRight="@dimen/layx10"
+                android:layout_weight="1"
+                android:background="@drawable/button_selector"
+                android:text="@string/dpad_nineWXYZ"
+                android:textColor="@color/white"
+                android:textSize="@dimen/layx20" />
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

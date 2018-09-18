@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <include
+        android:id="@+id/worldclock_top_banner"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layx35"
+        android:layout_alignParentTop="true"
+        layout="@layout/top_banner_bg" />
+
+    <include
+        android:id="@+id/worldclock_bottom_banner"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layx40"
+        android:layout_alignParentBottom="true"
+        layout="@layout/sub_tips_action_type" />
+
+    <ImageView
+        android:id="@+id/detail_worldclock_bg"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/worldclock_bottom_banner"
+        android:layout_below="@id/worldclock_top_banner"
+        android:background="@drawable/fuzzy_bg"
+        android:contentDescription="@string/app_name"
+        android:scaleType="fitXY"
+        android:src="@drawable/hotel_iptv_1280x656" />
+
+    <ImageView
+        android:id="@+id/fuzzy_bg"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/worldclock_bottom_banner"
+        android:layout_below="@id/worldclock_top_banner"
+        android:background="@drawable/fuzzy_bg"
+        android:contentDescription="@string/app_name"
+        android:scaleType="fitXY" />
+
+    <include
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/worldclock_bottom_banner"
+        android:layout_below="@id/worldclock_top_banner"
+        layout="@layout/framwork_world_clock" />
+
+</RelativeLayout>

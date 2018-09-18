@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <RelativeLayout
+        android:layout_width="@dimen/layx1000"
+        android:layout_height="@dimen/layx500"
+        android:layout_centerInParent="true"
+        android:background="@drawable/dialog_bg" >
+
+        <EditText
+            android:id="@+id/setting_feedback_text"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/layx200"
+            android:layout_centerInParent="true"
+            android:layout_marginLeft="@dimen/layx100"
+            android:layout_marginRight="@dimen/layx100"
+            android:background="@drawable/dialog_bg"
+            android:gravity="left|top"
+            android:hint="@string/feedback_hint"
+            android:paddingLeft="@dimen/layx10"
+            android:paddingRight="@dimen/layx10"
+            android:paddingTop="@dimen/layx10"
+            android:textColor="@color/white"
+            android:textSize="@dimen/layx20" />
+
+        <Button
+            android:id="@+id/setting_send_btn"
+            android:layout_width="@dimen/layx150"
+            android:layout_height="@dimen/layx60"
+            android:layout_below="@id/setting_feedback_text"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="@dimen/layx50"
+            android:background="@drawable/button_selector"
+            android:gravity="center"
+            android:text="@string/send"
+            android:textColor="@color/white"
+            android:textSize="@dimen/layx25" />
+    </RelativeLayout>
+
+</RelativeLayout>

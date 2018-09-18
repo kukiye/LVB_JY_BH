@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <include layout="@layout/fragment_prison_top" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@drawable/prison_bg"
+        android:gravity="center" >
+
+        <LinearLayout
+            android:layout_width="@dimen/layx614"
+            android:layout_height="@dimen/layy347"
+            android:background="@drawable/affairs_login_bg"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/layy58"
+                android:background="@drawable/affairs_login_top_bg"
+                android:orientation="horizontal" >
+
+                <ImageView
+                    android:layout_width="@dimen/layx37"
+                    android:layout_height="@dimen/layy30"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="@dimen/layx28"
+                    android:contentDescription="@string/app_name"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/affairs_login_icon" />
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="@dimen/layx15"
+                    android:layout_weight="1"
+                    android:gravity="center_vertical"
+                    android:text="@string/affairs_login_title"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/layy30"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/layy52"
+                android:layout_marginTop="@dimen/layy42"
+                android:orientation="horizontal" >
+
+                <ImageView
+                    android:layout_width="@dimen/layx22"
+                    android:layout_height="@dimen/layy21"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="@dimen/layx33"
+                    android:contentDescription="@string/app_name"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/affairs_login_name" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="@dimen/layx15"
+                    android:layout_marginRight="@dimen/layx32"
+                    android:gravity="center_vertical"
+                    android:text="@string/affairs_login_user"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/layy24"
+                    android:textStyle="bold" />
+
+                <EditText
+                    android:id="@+id/et_affair_username"
+                    android:layout_width="@dimen/layx320"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/login_btn_n"
+                    android:gravity="center_vertical"
+                    android:hint="@string/affairs_input_number_hint"
+                    android:inputType="number"
+                    android:paddingLeft="@dimen/layx30"
+                    android:paddingRight="@dimen/layx30"
+                    android:singleLine="true"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/layx24" />
+
+                <RelativeLayout
+                    android:layout_width="@dimen/layx52"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="@dimen/layx5"
+                    android:gravity="center" >
+
+                    <Button
+                        android:id="@+id/btn_select_user"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_centerInParent="true"
+                        android:background="@drawable/prison_add_selector" />
+
+                    <ImageView
+                        android:layout_width="@dimen/layx22"
+                        android:layout_height="@dimen/layy21"
+                        android:layout_centerInParent="true"
+                        android:background="@drawable/prison_add_user" />
+                </RelativeLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/layy52"
+                android:layout_marginTop="@dimen/layy20"
+                android:orientation="horizontal" >
+
+                <ImageView
+                    android:layout_width="@dimen/layx22"
+                    android:layout_height="@dimen/layy21"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="@dimen/layx33"
+                    android:contentDescription="@string/app_name"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/affairs_login_pwd" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="@dimen/layx15"
+                    android:layout_marginRight="@dimen/layx32"
+                    android:gravity="center_vertical"
+                    android:text="@string/affairs_login_pwd"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/layy24"
+                    android:textStyle="bold" />
+
+                <EditText
+                    android:id="@+id/et_affairs_pwd"
+                    android:layout_width="@dimen/layx320"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/login_btn_n"
+                    android:gravity="center_vertical"
+                    android:hint="@string/affairs_input_pwd_hint"
+                    android:inputType="textPassword"
+                    android:paddingLeft="@dimen/layx30"
+                    android:paddingRight="@dimen/layx30"
+                    android:singleLine="true"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/layx24" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/setting_controller_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/layy42"
+                android:orientation="horizontal" >
+
+                <Button
+                    android:id="@+id/affairs_ok"
+                    android:layout_width="@dimen/layx160"
+                    android:layout_height="@dimen/layy44"
+                    android:layout_marginLeft="@dimen/layx220"
+                    android:layout_marginRight="@dimen/layx20"
+                    android:background="@drawable/login_btn_selector"
+                    android:gravity="center"
+                    android:text="@string/affairs_login_ok"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/layx25" />
+
+                <Button
+                    android:id="@+id/affairs_cancel"
+                    android:layout_width="@dimen/layx160"
+                    android:layout_height="@dimen/layy44"
+                    android:background="@drawable/login_btn_selector"
+                    android:gravity="center"
+                    android:text="@string/affairs_login_cacel"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/layx25" />
+            </LinearLayout>
+        </LinearLayout>
+    </RelativeLayout>
+
+    <include layout="@layout/fragment_prison_bottom" />
+
+</LinearLayout>

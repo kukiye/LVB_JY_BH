@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@+id/item__view_container"
+                android:layout_width="@dimen/layx200"
+                android:layout_height="match_parent"
+                android:descendantFocusability="beforeDescendants"
+    >
+
+    <Button
+        android:id="@+id/item_btn"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/vod_item_bg_selector"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+        <ImageView
+            android:id="@+id/item_image"
+            android:layout_width="@dimen/layx150"
+            android:layout_height="@dimen/layx100"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="@dimen/layx10"
+            android:scaleType="fitXY"
+            />
+
+
+        <TextView
+            android:id="@+id/item_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/item_image"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="@dimen/layx10"
+            android:ellipsize="marquee"
+            android:gravity="center"
+            android:singleLine="true"
+            android:text=""
+            android:textColor="@color/main_text_bule"
+            android:textSize="@dimen/layx20"/>
+    </RelativeLayout>
+
+</RelativeLayout>

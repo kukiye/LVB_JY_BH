@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/update_bg"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <com.ant.liao.GifView
+        android:id="@+id/update_log_animation"
+        android:layout_width="@dimen/layx100"
+        android:layout_height="@dimen/layx80" />
+
+    <TextView
+        android:id="@+id/updating_tips"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/layx20"
+        android:layout_marginTop="@dimen/layx20"
+        android:text="@string/updating_tips"
+        android:textColor="@color/white"
+        android:textSize="@dimen/layx30" />
+
+    <com.ant.liao.GifView
+        android:id="@+id/update_progress_animation"
+        android:layout_width="@dimen/layx400"
+        android:layout_height="@dimen/layx30" />
+
+    <TextView
+        android:id="@+id/update_progress"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/layx5"
+        android:text="@string/downloading_progress"
+        android:textColor="@color/white"
+        android:textSize="@dimen/layx30" />
+
+</LinearLayout>

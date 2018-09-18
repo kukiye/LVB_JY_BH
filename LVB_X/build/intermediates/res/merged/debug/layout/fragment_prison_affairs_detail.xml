@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/main_bg"
+    android:orientation="vertical" >
+
+    <include layout="@layout/fragment_prison_top" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:baselineAligned="false"
+        android:orientation="horizontal" >
+
+        <ListView
+            android:id="@+id/android:list"
+            android:layout_width="@dimen/layx217"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="@dimen/layy20"
+            android:layout_marginLeft="@dimen/layx38"
+            android:layout_marginTop="@dimen/layy20"
+            android:cacheColorHint="#00000000"
+            android:divider="@color/color_0E4060"
+            android:dividerHeight="@dimen/layx1"
+            android:drawSelectorOnTop="false"
+            android:fastScrollEnabled="true"
+            android:focusable="true"
+            android:listSelector="@drawable/live_button_selector"
+            android:scrollbars="none"
+            android:visibility="gone" >
+        </ListView>
+
+        <ScrollView
+            android:layout_width="@dimen/layx217"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="@dimen/layy20"
+            android:layout_marginLeft="@dimen/layx30"
+            android:layout_marginTop="@dimen/layy20"
+            android:background="@drawable/affairs_login_bg"
+            android:scrollbars="none" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <Button
+                    android:id="@+id/btn_1"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/layy50"
+                    android:layout_marginTop="@dimen/layy15"
+                    android:background="@drawable/affairs_button_selector"
+                    android:gravity="center"
+                    android:text="@string/prison_score_check"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/layy24" />
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/layy1"
+                    android:layout_marginLeft="@dimen/layx20"
+                    android:layout_marginRight="@dimen/layx20"
+                    android:background="@color/lineligtbule" />
+
+                <Button
+                    android:id="@+id/btn_2"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/layy50"
+                    android:layout_marginTop="@dimen/layy15"
+                    android:background="@drawable/affairs_button_selector"
+                    android:gravity="center"
+                    android:text="@string/prison_administrative_reward"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/layy24" />
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/layy1"
+                    android:layout_marginLeft="@dimen/layx20"
+                    android:layout_marginRight="@dimen/layx20"
+                    android:background="@color/lineligtbule" />
+
+                <Button
+                    android:id="@+id/btn_3"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/layy50"
+                    android:layout_marginTop="@dimen/layy15"
+                    android:background="@drawable/affairs_button_selector"
+                    android:gravity="center"
+                    android:text="@string/prison_grading_division"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/layy24" />
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/layy1"
+                    android:layout_marginLeft="@dimen/layx20"
+                    android:layout_marginRight="@dimen/layx20"
+                    android:background="@color/lineligtbule" />
+
+                <Button
+                    android:id="@+id/btn_4"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/layy50"
+                    android:layout_marginTop="@dimen/layy15"
+                    android:background="@drawable/affairs_button_selector"
+                    android:gravity="center"
+                    android:text="@string/prison_changes_sentence"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/layy24" />
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/layy1"
+                    android:layout_marginLeft="@dimen/layx20"
+                    android:layout_marginRight="@dimen/layx20"
+                    android:background="@color/lineligtbule" />
+
+                <Button
+                    android:id="@+id/btn_5"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/layy50"
+                    android:layout_marginTop="@dimen/layy15"
+                    android:background="@drawable/affairs_button_selector"
+                    android:gravity="center"
+                    android:text="@string/prison_complementary_criminal_inquiry"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/layy24" />
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/layy1"
+                    android:layout_marginLeft="@dimen/layx20"
+                    android:layout_marginRight="@dimen/layx20"
+                    android:background="@color/lineligtbule" />
+
+                <Button
+                    android:id="@+id/btn_6"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/layy50"
+                    android:layout_marginTop="@dimen/layy15"
+                    android:background="@drawable/affairs_button_selector"
+                    android:gravity="center"
+                    android:text="@string/prison_training_inquiry"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/layy24" />
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/layy1"
+                    android:layout_marginLeft="@dimen/layx20"
+                    android:layout_marginRight="@dimen/layx20"
+                    android:background="@color/lineligtbule" />
+
+                <Button
+                    android:id="@+id/btn_7"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/layy50"
+                    android:layout_marginTop="@dimen/layy15"
+                    android:background="@drawable/affairs_button_selector"
+                    android:gravity="center"
+                    android:text="@string/prison_three_subjects"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/layy24" />
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/layy1"
+                    android:layout_marginLeft="@dimen/layx20"
+                    android:layout_marginRight="@dimen/layx20"
+                    android:background="@color/lineligtbule" />
+
+                <Button
+                    android:id="@+id/btn_8"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/layy50"
+                    android:layout_marginTop="@dimen/layy15"
+                    android:background="@drawable/affairs_button_selector"
+                    android:gravity="center"
+                    android:text="@string/prison_account_query"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/layy24" />
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/layy1"
+                    android:layout_marginLeft="@dimen/layx20"
+                    android:layout_marginRight="@dimen/layx20"
+                    android:background="@color/lineligtbule" />
+            </LinearLayout>
+        </ScrollView>
+
+        <LinearLayout
+            android:id="@+id/prison_detail_framelayout"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="@dimen/layy10"
+            android:layout_marginLeft="@dimen/layx15"
+            android:layout_marginRight="@dimen/layx30"
+            android:layout_marginTop="@dimen/layy20"
+            android:layout_weight="5"
+            android:background="@drawable/affairs_login_bg"
+            android:orientation="vertical" >
+
+            <include layout="@layout/sub_affairs_item" />
+
+            <ListView
+                android:id="@+id/prison_list"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="@dimen/layx10"
+                android:cacheColorHint="#00000000"
+                android:divider="@color/color_0E4060"
+                android:dividerHeight="@dimen/layx1"
+                android:drawSelectorOnTop="false"
+                android:fastScrollEnabled="true"
+                android:focusable="true"
+                android:listSelector="@drawable/affairs_button_selector"
+                android:scrollbars="none" >
+            </ListView>
+        </LinearLayout>
+    </LinearLayout>
+
+    <include layout="@layout/fragment_prison_bottom" />
+
+</LinearLayout>

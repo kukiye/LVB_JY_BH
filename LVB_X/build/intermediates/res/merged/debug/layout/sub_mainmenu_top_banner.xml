@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/top_blank_relativelayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/mainmenu_top_banner_bg" >
+
+    <ImageView
+        android:id="@+id/mainmenu_hotspot_tag"
+        android:layout_width="@dimen/layx30"
+        android:layout_height="@dimen/layx24"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="@dimen/layx20"
+        android:background="@drawable/wifi_tag"
+        android:contentDescription="@string/app_name" />
+
+    <TextView
+        android:id="@+id/mainmenu_hotspot_name"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="@dimen/layx10"
+        android:layout_toRightOf="@id/mainmenu_hotspot_tag"
+        android:gravity="center_vertical"
+        android:textColor="@color/white"
+        android:textSize="@dimen/layx20" >
+    </TextView>
+
+    <TextView
+        android:id="@+id/mainmenu_hotspot_passwd"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="@dimen/layx20"
+        android:layout_toRightOf="@id/mainmenu_hotspot_name"
+        android:gravity="center_vertical"
+        android:textColor="@color/white"
+        android:textSize="@dimen/layx20" >
+    </TextView>
+
+    <LinearLayout
+        android:id="@+id/weather_time_container"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="@dimen/layx30"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/mainmenu_city"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:textColor="@color/white"
+            android:textSize="@dimen/layx20" />
+
+        <ImageView
+            android:id="@+id/weather_image"
+            android:layout_width="@dimen/layx30"
+            android:layout_height="@dimen/layx25"
+            android:layout_gravity="center_vertical"
+            android:contentDescription="@string/app_name" />
+
+        <TextView
+            android:id="@+id/mainmenu_tempera"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginRight="@dimen/layx10"
+            android:gravity="center_vertical"
+            android:textColor="@color/white"
+            android:textSize="@dimen/layx20" />
+
+        <TextView
+            android:id="@+id/mainmenu_date"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginRight="@dimen/layx10"
+            android:gravity="center_vertical"
+            android:textColor="@color/white"
+            android:textSize="@dimen/layx20" />
+
+        <TextView
+            android:id="@+id/mainmenu_time"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginRight="@dimen/layx10"
+            android:gravity="center_vertical"
+            android:textColor="@color/white"
+            android:textSize="@dimen/layx20" />
+
+        <TextView
+            android:id="@+id/mainmenu_week"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginRight="@dimen/layx10"
+            android:gravity="center_vertical"
+            android:textColor="@color/white"
+            android:textSize="@dimen/layx20" />
+    </LinearLayout>
+
+</RelativeLayout>

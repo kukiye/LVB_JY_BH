@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal" >
+
+    <TextView
+        android:id="@+id/shopcar_menu_name"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="@dimen/layx30"
+        android:layout_weight="1"
+        android:ellipsize="marquee"
+        android:gravity="center_vertical"
+        android:marqueeRepeatLimit="marquee_forever"
+        android:singleLine="true"
+        android:text="@string/blank_data"
+        android:textColor="@color/white"
+        android:textSize="@dimen/layx17" />
+
+    <LinearLayout
+        android:id="@+id/shopcar_price_click_container"
+        android:layout_width="0dp"
+        android:layout_height="@dimen/layx66"
+        android:layout_gravity="center_vertical"
+        android:layout_weight="1.4"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/shopcar_menu_price"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:ellipsize="marquee"
+            android:gravity="center_vertical|right"
+            android:marqueeRepeatLimit="marquee_forever"
+            android:singleLine="true"
+            android:text="@string/blank_data"
+            android:textColor="@color/white"
+            android:textSize="@dimen/layx17" />
+
+        <TextView
+            android:id="@+id/shopcar_menu_cancel"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginRight="@dimen/layx30"
+            android:layout_weight="1.1"
+            android:ellipsize="marquee"
+            android:gravity="center_vertical|right"
+            android:marqueeRepeatLimit="marquee_forever"
+            android:singleLine="true"
+            android:text="@string/blank_data"
+            android:textColor="@color/red"
+            android:textSize="@dimen/layx17" />
+    </LinearLayout>
+
+</LinearLayout>

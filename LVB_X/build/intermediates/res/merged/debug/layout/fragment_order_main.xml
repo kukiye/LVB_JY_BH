@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <include
+        android:id="@+id/order_top_banner"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layx35"
+        android:layout_alignParentTop="true"
+        layout="@layout/top_banner_bg" />
+
+    <include
+        android:id="@+id/order_bottom_banner"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layx32"
+        android:layout_alignParentBottom="true"
+        layout="@layout/sub_tips_action_type" />
+
+    <RelativeLayout
+        android:id="@+id/order_bottom_controller_container"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layx170"
+        android:layout_above="@id/order_bottom_banner"
+        android:background="@drawable/mainmenu_bottom_bg" >
+
+        <ImageView
+            android:id="@+id/order_left_arrow"
+            android:layout_width="@dimen/layx81"
+            android:layout_height="@dimen/layx81"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/layx10"
+            android:background="@drawable/arrow_left_s"
+            android:contentDescription="@string/app_name"
+            android:visibility="visible" />
+
+        <ImageView
+            android:id="@+id/order_right_arrow"
+            android:layout_width="@dimen/layx81"
+            android:layout_height="@dimen/layx81"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/layx10"
+            android:background="@drawable/arrow_right_s"
+            android:contentDescription="@string/app_name"
+            android:visibility="visible" />
+
+        <HorizontalScrollView
+            android:id="@+id/order_moder_scroview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="@dimen/layx10"
+            android:layout_marginRight="@dimen/layx10"
+            android:layout_toLeftOf="@id/order_right_arrow"
+            android:layout_toRightOf="@id/order_left_arrow"
+            android:scrollbars="none" >
+
+            <LinearLayout
+                android:id="@+id/mainmenu_LinearLayout"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="center_vertical"
+                android:gravity="center_vertical"
+                android:orientation="horizontal" >
+            </LinearLayout>
+        </HorizontalScrollView>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/order_middle_content_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/order_bottom_controller_container"
+        android:layout_below="@id/order_top_banner"
+        android:baselineAligned="false"
+        android:orientation="horizontal"
+        android:padding="@dimen/layx20" >
+
+        <include
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginEnd="@dimen/layx20"
+            android:layout_marginRight="@dimen/layx20"
+            android:layout_weight="15"
+            layout="@layout/framwork_order_menu_list" />
+
+        <com.hhzt.iptv.lvb_x.customview.VodDetailSingle
+            android:id="@+id/order_middle_big_image_container"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginEnd="@dimen/layx20"
+            android:layout_marginRight="@dimen/layx20"
+            android:layout_weight="60" />
+
+        <include
+            android:id="@+id/right_shopcar_container"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="20"
+            layout="@layout/sub_order_shopcar_show" />
+
+        <include
+            android:id="@+id/adv_common_container"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="20"
+            layout="@layout/adv_image" />
+    </LinearLayout>
+
+</RelativeLayout>

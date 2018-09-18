@@ -1,0 +1,57 @@
+apply plugin: 'com.android.application'
+
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.3"
+    useLibrary 'org.apache.http.legacy'
+    sourceSets {
+        main {
+            manifest.srcFile 'AndroidManifest.xml'
+            java.srcDirs = ['src']
+            resources.srcDirs = ['src']
+            aidl.srcDirs = ['src']
+            renderscript.srcDirs = ['src']
+            res.srcDirs = ['res']
+            assets.srcDirs = ['assets']
+        }
+
+        instrumentTest.setRoot('tests')
+        debug.setRoot('build-types/debug')
+        release.setRoot('build-types/release')
+    }
+
+    aaptOptions{
+        cruncherEnabled = false
+        useNewCruncher = false
+    }
+
+}
+allprojects {
+    repositories {
+        jcenter {
+            url "https://jcenter.bintray.com/"
+        }
+        maven  {
+            url "https://repo1.maven.org/maven2"
+        }
+    }
+}
+
+
+
+dependencies {
+    //    compile files('libsgly_1.0.4_release.jar')
+    compile project(':GifView')
+    compile 'com.android.support:support-v4:23.4.0'
+    compile 'com.android.support:appcompat-v7:23.4.0'
+    compile files('libs/universal-image-loader-1.9.3-with-sources.jar')
+    compile files('libs/xUtils-2.6.14.jar')
+    compile 'com.github.bumptech.glide:glide:3.7.0'
+    compile 'com.github.barteksc:android-pdf-viewer:2.7.0-beta.1'
+    compile files('libs/bugly_1.0.4_release.jar')
+    compile files('libs/tbs_sdk_thirdapp_v3.2.0.1104_43200.jar')
+    compile 'com.android.support:recyclerview-v7:23.4.0'
+    compile files('libs/deytech.jar')
+    compile files('libs/gson-2.2.4.jar')
+}

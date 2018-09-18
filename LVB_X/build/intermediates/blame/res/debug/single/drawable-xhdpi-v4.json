@@ -1,0 +1,2218 @@
+[
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\current_pa_bg.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\current_pa_bg.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\addshopcart_sign.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\addshopcart_sign.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_arrow_left_s.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_arrow_left_s.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\interupt_vertical_line.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\interupt_vertical_line.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\prison_news_icon.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\prison_news_icon.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\search_left_bg.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\search_left_bg.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\book_img_type2.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\book_img_type2.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mediaplayer_pause_s.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\mediaplayer_pause_s.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mediaplayer_top_banner_bg.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\mediaplayer_top_banner_bg.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_key_ok_s.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_key_ok_s.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\media_action_n.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\media_action_n.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mainmenu_icon.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\mainmenu_icon.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\live_current_tag.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\live_current_tag.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\hotel_iptv_1280x488.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\hotel_iptv_1280x488.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\prison_info_news_img.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\prison_info_news_img.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_digital_three_p.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_digital_three_p.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\thumb_s.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\thumb_s.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_arrow_right_s.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_arrow_right_s.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\affairs_login_pwd.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\affairs_login_pwd.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\arrow_down_n.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\arrow_down_n.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_digital_star_p.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_digital_star_p.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\prison_news_icon.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\prison_news_icon.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\live_osd_tag.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\live_osd_tag.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\search_right_bg.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\search_right_bg.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_digital_five_s.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_digital_five_s.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_arrow_right_s.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_arrow_right_s.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_digital_nine_p.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_digital_nine_p.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mediaplayer_pause_s.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\mediaplayer_pause_s.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vod_pause_btn_s.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\vod_pause_btn_s.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vod_pause_btn_s.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\vod_pause_btn_s.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_arrow_up_s.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_arrow_up_s.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\live_grid_button_p.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\live_grid_button_p.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\splash_tl.jpg",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\splash_tl.jpg"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_volume_down_s.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_volume_down_s.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\live_logo_default.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\live_logo_default.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nosignal_tag.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\nosignal_tag.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\affairs_login_icon.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\affairs_login_icon.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_volume_down_s.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_volume_down_s.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_volume_up_n.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_volume_up_n.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\lang_cn_set_n.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\lang_cn_set_n.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_digital_six_s.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_digital_six_s.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\lang_en_set_n.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\lang_en_set_n.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\text_bg.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\text_bg.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_digital_four_p.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_digital_four_p.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\live_grid_button_p.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\live_grid_button_p.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\search_right_bg.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\search_right_bg.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\welcome_logo_300x212.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\welcome_logo_300x212.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\soud_tips.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\soud_tips.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\update_n.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\update_n.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\window_pause_s.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\window_pause_s.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\book_img_type1.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\book_img_type1.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\window_pause_n.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\window_pause_n.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vod_play_btn_n.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\vod_play_btn_n.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\hotel_iptv_1280x488.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\hotel_iptv_1280x488.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vod_play_btn_s.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\vod_play_btn_s.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vod_play_btn_p.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\vod_play_btn_p.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bottom_bg.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\bottom_bg.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\english_static.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\english_static.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\login_btn_p.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\login_btn_p.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\affairs_login_name.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\affairs_login_name.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_back_p.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_back_p.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_digital_four_n.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_digital_four_n.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\thumb_n.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\thumb_n.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_volume_mute_p.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_volume_mute_p.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\login_btn_s.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\login_btn_s.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\update_log_gif.gif",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\update_log_gif.gif"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_digital_one_n.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_digital_one_n.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\fuzzy_bg.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\fuzzy_bg.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\back_tips.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\back_tips.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_arrow_down_n.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_arrow_down_n.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\hotel_iptv_994x656.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\hotel_iptv_994x656.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\arrow_right_n.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\arrow_right_n.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_digital_four_s.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_digital_four_s.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_back_s.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_back_s.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\affairs_login_name.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\affairs_login_name.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\date_osd_tag.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\date_osd_tag.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\welcome_bg_1280x720.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\welcome_bg_1280x720.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\window_play_s.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\window_play_s.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_menu_p.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_menu_p.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sub_right_adv_280x660.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\sub_right_adv_280x660.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\worldclock_second.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\worldclock_second.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_digital_five_p.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_digital_five_p.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_arrow_right_p.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_arrow_right_p.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\msg_scrowing_bg.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\msg_scrowing_bg.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\thumb_d.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\thumb_d.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chinese_static.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\chinese_static.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\live_back_date_select_tag.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\live_back_date_select_tag.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vod_pause_btn_p.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\vod_pause_btn_p.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_digital_three_s.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_digital_three_s.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\arrow_left_p.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\arrow_left_p.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_volume_down_p.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_volume_down_p.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mainmenu_top_banner_bg.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\mainmenu_top_banner_bg.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bill_tag.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\bill_tag.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\hotel_iptv_846x441.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\hotel_iptv_846x441.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mediaplayer_pause_p.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\mediaplayer_pause_p.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\thumb_p.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\thumb_p.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_arrow_up_p.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_arrow_up_p.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vod_tips_top.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\vod_tips_top.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\wifi_tag.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\wifi_tag.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\warm_tips.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\warm_tips.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\msg_tag.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\msg_tag.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\splash_tl.jpg",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\splash_tl.jpg"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\live_current_tag.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\live_current_tag.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_digital_two_n.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_digital_two_n.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_delete_s.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_delete_s.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_digital_aero_n.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_digital_aero_n.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_volume_up_p.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_volume_up_p.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_digital_pound_s.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_digital_pound_s.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\main_bg.jpg",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\main_bg.jpg"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\arrow_up_s.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\arrow_up_s.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_digital_nine_n.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_digital_nine_n.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\arrow_down_p.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\arrow_down_p.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\hotel_iptv_994x656.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\hotel_iptv_994x656.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_arrow_left_p.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_arrow_left_p.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\arrow_right_s.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\arrow_right_s.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\update_p.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\update_p.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_volume_mute_p.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_volume_mute_p.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chinese_static.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\chinese_static.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_digital_four_s.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_digital_four_s.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mediaplayer_play_p.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\mediaplayer_play_p.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_arrow_up_s.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_arrow_up_s.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mainmenu_logo220x135.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\mainmenu_logo220x135.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\arrow_up_s.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\arrow_up_s.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_volume_up_s.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_volume_up_s.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\hotel_iptv_134x134.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\hotel_iptv_134x134.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mainmenu_icon.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\mainmenu_icon.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\arrow_up_n.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\arrow_up_n.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_logo.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_logo.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_digital_nine_s.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_digital_nine_s.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mediaplayer_bottom_banner_bg.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\mediaplayer_bottom_banner_bg.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_digital_eight_n.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_digital_eight_n.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\book_img_2.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\book_img_2.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\live_grid_button_s.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\live_grid_button_s.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\english_gif.gif",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\english_gif.gif"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_digital_five_n.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_digital_five_n.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_arrow_left_p.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_arrow_left_p.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\hotel_introduce_bg_1280x656.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\hotel_introduce_bg_1280x656.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_digital_seven_n.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_digital_seven_n.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\lang_cn_set_s.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\lang_cn_set_s.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mediaplayer_bottom_banner_bg.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\mediaplayer_bottom_banner_bg.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\lang_cn_set_n.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\lang_cn_set_n.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\prison_info_wetsit_img.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\prison_info_wetsit_img.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\search_tag.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\search_tag.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\book_img_2.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\book_img_2.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\text_bg.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\text_bg.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\update_progress_gif.gif",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\update_progress_gif.gif"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_key_ok_p.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_key_ok_p.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\weather_bg_1280x656.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\weather_bg_1280x656.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\prison_info_wetsit_img.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\prison_info_wetsit_img.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\hotel_iptv_menu_175x175.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\hotel_iptv_menu_175x175.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sub_right_adv_280x660.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\sub_right_adv_280x660.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\welcome_pop_bg.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\welcome_pop_bg.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_digital_aero_n.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_digital_aero_n.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_bg.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_bg.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\update_bg.jpg",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\update_bg.jpg"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\book_lan_bg.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\book_lan_bg.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_digital_two_p.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_digital_two_p.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_arrow_down_p.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_arrow_down_p.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\english_gif.gif",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\english_gif.gif"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_delete_n.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_delete_n.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\arrow_down_s.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\arrow_down_s.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\arrow_down_n.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\arrow_down_n.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\lang_cn_set_p.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\lang_cn_set_p.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vod_item_140x202.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\vod_item_140x202.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\arrow_right_n.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\arrow_right_n.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\text_botoom_line.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\text_botoom_line.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mediaplayer_pause_n.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\mediaplayer_pause_n.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\affairs_button_p.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\affairs_button_p.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\arrow_left_n.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\arrow_left_n.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\affairs_login_icon.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\affairs_login_icon.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_arrow_left_n.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_arrow_left_n.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_arrow_up_n.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_arrow_up_n.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\about.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\about.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vod_detail_bottom_cutoff.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\vod_detail_bottom_cutoff.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\floatwindow_bg.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\floatwindow_bg.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\worldclock_minute.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\worldclock_minute.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\thumb_s.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\thumb_s.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_arrow_down_n.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_arrow_down_n.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\media_action_p.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\media_action_p.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vod_pause_btn_n.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\vod_pause_btn_n.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_digital_star_s.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_digital_star_s.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_digital_eight_s.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_digital_eight_s.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vod_introduce_913x455.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\vod_introduce_913x455.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\msg_scrowing_bg.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\msg_scrowing_bg.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chinese_gif.gif",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\chinese_gif.gif"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\lang_cn_set_s.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\lang_cn_set_s.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\text_botoom_line.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\text_botoom_line.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\arrow_left_s.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\arrow_left_s.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_digital_aero_p.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_digital_aero_p.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\osd_bg.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\osd_bg.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_volume_up_n.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_volume_up_n.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_menu_p.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_menu_p.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_digital_four_p.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_digital_four_p.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\fuzzy_bg.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\fuzzy_bg.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\book_default_img.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\book_default_img.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_digital_aero_s.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_digital_aero_s.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vod_play_btn_n.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\vod_play_btn_n.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\worldclock_second.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\worldclock_second.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\shopcar_icon.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\shopcar_icon.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\arrow_up_n.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\arrow_up_n.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\update_progress_gif.gif",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\update_progress_gif.gif"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\window_pause_s.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\window_pause_s.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\search_left_bg.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\search_left_bg.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\prison_add_user.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\prison_add_user.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_digital_pound_p.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_digital_pound_p.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\media_action_s.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\media_action_s.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mediaplayer_play_n.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\mediaplayer_play_n.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mainmenu_bottom_bg.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\mainmenu_bottom_bg.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\arrow_up_p.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\arrow_up_p.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\arrow_right_s.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\arrow_right_s.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\theme_bg.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\theme_bg.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\arrow_left_s.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\arrow_left_s.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\hotel_iptv_menu_175x175.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\hotel_iptv_menu_175x175.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\arrow_down_s.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\arrow_down_s.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\weather_bg_1280x656.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\weather_bg_1280x656.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_digital_seven_p.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_digital_seven_p.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\update_p.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\update_p.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_delete_p.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_delete_p.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\arrow_right_p.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\arrow_right_p.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_arrow_down_s.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_arrow_down_s.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_arrow_left_s.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_arrow_left_s.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\hotel_iptv_994x488.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\hotel_iptv_994x488.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bill_tag.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\bill_tag.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_digital_two_s.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_digital_two_s.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_back_n.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_back_n.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\date_osd_tag.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\date_osd_tag.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_digital_four_n.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_digital_four_n.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vod_tag.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\vod_tag.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\app_install_tips_bg.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\app_install_tips_bg.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\no_tv_list.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\no_tv_list.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\arrow_left_n.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\arrow_left_n.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\home_icon.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\home_icon.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_delete_s.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_delete_s.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\menu_btn_s.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\menu_btn_s.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vod_tips_bottom.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\vod_tips_bottom.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\shopcar_icon.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\shopcar_icon.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_delete_n.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_delete_n.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\app_install_tips_bg.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\app_install_tips_bg.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vod_item_162x215.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\vod_item_162x215.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_volume_mute_n.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_volume_mute_n.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\menu_btn_p.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\menu_btn_p.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\live_item_line.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\live_item_line.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vod_play_btn_p.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\vod_play_btn_p.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_digital_aero_s.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_digital_aero_s.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vod_detail_bottom_cutoff.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\vod_detail_bottom_cutoff.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vod_item_162x215.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\vod_item_162x215.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\live_logo_default.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\live_logo_default.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\window_play_n.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\window_play_n.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\live_grid_button_n.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\live_grid_button_n.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\arrow_down_p.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\arrow_down_p.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\horizontal_line.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\horizontal_line.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\search_tag.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\search_tag.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\affairs_button_s.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\affairs_button_s.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_digital_nine_n.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_digital_nine_n.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_volume_mute_n.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_volume_mute_n.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\live_grid_button_n.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\live_grid_button_n.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vod_episode_range_s.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\vod_episode_range_s.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_digital_pound_n.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_digital_pound_n.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\lang_en_set_s.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\lang_en_set_s.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\book_lan_bg.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\book_lan_bg.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_menu_n.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_menu_n.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\login_btn_p.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\login_btn_p.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_digital_star_s.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_digital_star_s.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mediaplayer_play_s.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\mediaplayer_play_s.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\worldclock_back.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\worldclock_back.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vod_tips_bottom.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\vod_tips_bottom.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_volume_down_n.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_volume_down_n.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\prison_new_img.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\prison_new_img.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\arrow_up_p.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\arrow_up_p.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vod_introduce_913x455.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\vod_introduce_913x455.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\hotel_iptv_994x488.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\hotel_iptv_994x488.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vod_item_140x202.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\vod_item_140x202.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\book_default_img.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\book_default_img.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\live_osd_tag.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\live_osd_tag.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nosignal_tag.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\nosignal_tag.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_digital_one_p.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_digital_one_p.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\floatwindow_bg.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\floatwindow_bg.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chinese_gif.gif",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\chinese_gif.gif"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_arrow_down_s.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_arrow_down_s.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_digital_two_s.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_digital_two_s.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mediaplayer_play_s.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\mediaplayer_play_s.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_digital_star_n.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_digital_star_n.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mainmenu_logo220x135.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\mainmenu_logo220x135.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_arrow_right_n.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_arrow_right_n.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_arrow_up_n.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_arrow_up_n.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mediaplayer_pause_n.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\mediaplayer_pause_n.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_digital_one_p.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_digital_one_p.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rate_tag.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rate_tag.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\hotel_iptv_159x110.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\hotel_iptv_159x110.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\hotel_introduce_bg_1280x656.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\hotel_introduce_bg_1280x656.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\back_osd_tag.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\back_osd_tag.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_arrow_left_n.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_arrow_left_n.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_digital_star_p.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_digital_star_p.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\lang_cn_set_p.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\lang_cn_set_p.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_menu_n.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_menu_n.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\lang_en_set_p.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\lang_en_set_p.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\shopcar_blank_bg.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\shopcar_blank_bg.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_digital_seven_s.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_digital_seven_s.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\welcome_pop_line.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\welcome_pop_line.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\book_img_1.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\book_img_1.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\menu_btn_p.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\menu_btn_p.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_digital_nine_s.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_digital_nine_s.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\menu_btn_s.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\menu_btn_s.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\msg_tag.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\msg_tag.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_logo.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_logo.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\prison_info_news_img.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\prison_info_news_img.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_volume_up_s.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_volume_up_s.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\affairs_button_p.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\affairs_button_p.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vod_tips_top.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\vod_tips_top.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\interupt_vertical_line.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\interupt_vertical_line.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\warm_tips.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\warm_tips.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\prision_info_img.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\prision_info_img.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_digital_pound_s.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_digital_pound_s.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\horizontal_line.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\horizontal_line.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\live_back_date_select_tag.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\live_back_date_select_tag.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vod_episode_range_s.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\vod_episode_range_s.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_delete_p.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_delete_p.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_digital_eight_p.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_digital_eight_p.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_digital_three_n.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_digital_three_n.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_digital_two_p.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_digital_two_p.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\book_bg.jpg",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\book_bg.jpg"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mediaplayer_top_banner_bg.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\mediaplayer_top_banner_bg.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_digital_six_p.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_digital_six_p.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\prison_bg.jpg",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\prison_bg.jpg"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\thumb_p.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\thumb_p.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_digital_eight_p.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_digital_eight_p.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_digital_three_n.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_digital_three_n.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\window_play_p.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\window_play_p.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_digital_pound_n.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_digital_pound_n.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\media_action_p.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\media_action_p.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\worldclock_hour.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\worldclock_hour.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\window_pause_p.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\window_pause_p.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\main_bg.jpg",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\main_bg.jpg"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\media_action_n.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\media_action_n.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\update_bg.jpg",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\update_bg.jpg"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mainmenu_bg_1280x510.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\mainmenu_bg_1280x510.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_arrow_down_p.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_arrow_down_p.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\no_tv_list.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\no_tv_list.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\theme_bg.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\theme_bg.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_digital_seven_s.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_digital_seven_s.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\arrow_left_p.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\arrow_left_p.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\book_bg.jpg",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\book_bg.jpg"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\update_s.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\update_s.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_arrow_right_n.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_arrow_right_n.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\book_img_type1.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\book_img_type1.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\arrow_right_p.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\arrow_right_p.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mainmenu_bottom_bg.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\mainmenu_bottom_bg.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_digital_six_p.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_digital_six_p.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_menu_s.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_menu_s.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_digital_aero_p.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_digital_aero_p.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_digital_six_n.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_digital_six_n.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\world_bg.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\world_bg.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\login_btn_s.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\login_btn_s.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\current_pa_bg.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\current_pa_bg.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\hotel_iptv_159x110.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\hotel_iptv_159x110.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\update_tag.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\update_tag.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\window_pause_p.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\window_pause_p.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bottom_bg.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\bottom_bg.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\update_log_gif.gif",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\update_log_gif.gif"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_bg.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_bg.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\worldclock_minute.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\worldclock_minute.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\prison_add_user.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\prison_add_user.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\window_play_n.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\window_play_n.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\hotel_iptv_846x441.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\hotel_iptv_846x441.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_arrow_right_p.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_arrow_right_p.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_digital_five_p.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_digital_five_p.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\thumb_d.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\thumb_d.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vod_play_btn_s.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\vod_play_btn_s.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\hotel_iptv_1280x656.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\hotel_iptv_1280x656.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\back_osd_tag.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\back_osd_tag.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\hotel_iptv_1280x656.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\hotel_iptv_1280x656.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_key_ok_n.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_key_ok_n.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\window_pause_n.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\window_pause_n.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\back_tips.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\back_tips.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\lang_en_set_s.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\lang_en_set_s.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\prision_info_img.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\prision_info_img.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\media_action_s.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\media_action_s.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_digital_three_s.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_digital_three_s.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vod_pause_btn_p.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\vod_pause_btn_p.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mediaplayer_pause_p.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\mediaplayer_pause_p.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sub_right_adv_280x488.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\sub_right_adv_280x488.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\about.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\about.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_digital_two_n.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_digital_two_n.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_titlelive_bg.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\common_titlelive_bg.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_volume_mute_s.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_volume_mute_s.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_digital_one_n.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_digital_one_n.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\worldclock_hour.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\worldclock_hour.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mainmenu_bg_190x187.jpg",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\mainmenu_bg_190x187.jpg"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_digital_one_s.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_digital_one_s.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\prison_bg.jpg",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\prison_bg.jpg"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\thumb_n.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\thumb_n.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_back_s.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_back_s.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_digital_seven_n.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_digital_seven_n.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mediaplayer_play_p.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\mediaplayer_play_p.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\welcome_bg_1280x720.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\welcome_bg_1280x720.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vod_tag.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\vod_tag.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\lang_en_set_p.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\lang_en_set_p.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mainmenu_bg_1280x510.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\mainmenu_bg_1280x510.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vod_pause_btn_n.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\vod_pause_btn_n.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\home_icon.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\home_icon.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mediaplayer_play_n.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\mediaplayer_play_n.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_digital_pound_p.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_digital_pound_p.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_key_ok_n.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_key_ok_n.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_volume_down_p.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_volume_down_p.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_digital_six_s.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_digital_six_s.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\update_n.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\update_n.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vod_type_list_bg.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\vod_type_list_bg.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mainmenu_top_banner_bg.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\mainmenu_top_banner_bg.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vertical_white_line.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\vertical_white_line.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\affairs_login_pwd.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\affairs_login_pwd.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\live_grid_button_s.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\live_grid_button_s.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\osd_bg.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\osd_bg.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sub_right_adv_280x488.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\sub_right_adv_280x488.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_digital_five_s.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_digital_five_s.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_volume_down_n.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_volume_down_n.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_key_ok_s.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_key_ok_s.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\window_play_s.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\window_play_s.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_back_n.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_back_n.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_digital_eight_n.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_digital_eight_n.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_menu_s.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_menu_s.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\live_item_line.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\live_item_line.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vertical_white_line.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\vertical_white_line.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_arrow_up_p.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_arrow_up_p.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\lang_en_set_n.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\lang_en_set_n.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_digital_nine_p.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_digital_nine_p.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\soud_tips.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\soud_tips.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\hotel_iptv_134x134.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\hotel_iptv_134x134.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\affairs_button_s.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\affairs_button_s.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_volume_up_p.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_volume_up_p.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_key_ok_p.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_key_ok_p.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\prison_new_img.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\prison_new_img.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_digital_three_p.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_digital_three_p.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rate_tag.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rate_tag.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\english_static.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\english_static.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\world_bg.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\world_bg.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\welcome_logo_300x212.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\welcome_logo_300x212.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_digital_one_s.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_digital_one_s.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_back_p.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_back_p.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_digital_seven_p.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_digital_seven_p.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\worldclock_back.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\worldclock_back.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\welcome_pop_line.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\welcome_pop_line.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\window_play_p.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\window_play_p.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\shopcar_blank_bg.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\shopcar_blank_bg.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\update_s.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\update_s.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_digital_star_n.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_digital_star_n.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vod_type_list_bg.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\vod_type_list_bg.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\update_tag.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\update_tag.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\wifi_tag.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\wifi_tag.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mainmenu_bg_190x187.jpg",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\mainmenu_bg_190x187.jpg"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\book_img_type2.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\book_img_type2.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\book_img_1.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\book_img_1.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_titlelive_bg.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\common_titlelive_bg.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\welcome_pop_bg.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\welcome_pop_bg.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\addshopcart_sign.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\addshopcart_sign.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_digital_six_n.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_digital_six_n.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_volume_mute_s.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_volume_mute_s.png"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_digital_eight_s.png",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_digital_eight_s.png"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_digital_five_n.png",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\drawable-xhdpi\\rc_digital_five_n.png"
+    }
+]

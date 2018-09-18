@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="horizontal">
+
+
+    <com.hhzt.iptv.lvb_x.customview.LogoLayout
+        android:id="@+id/logo_layout"
+        android:layout_width="@dimen/layx180"
+        android:layout_height="match_parent"
+        android:layout_marginRight="@dimen/layx50"
+        android:background="@drawable/mainpage_content_gride_selector">
+
+    </com.hhzt.iptv.lvb_x.customview.LogoLayout>
+
+
+    <LinearLayout
+        android:id="@+id/movie_content_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <com.hhzt.iptv.lvb_x.customview.HomeDiamondLayout
+            android:id="@+id/song_layout"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+        </com.hhzt.iptv.lvb_x.customview.HomeDiamondLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginTop="@dimen/layx20"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <com.hhzt.iptv.lvb_x.customview.HomeDiamondLayout
+                android:id="@+id/adapt_layout"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                >
+
+            </com.hhzt.iptv.lvb_x.customview.HomeDiamondLayout>
+
+            <com.hhzt.iptv.lvb_x.customview.HomeDiamondLayout
+                android:id="@+id/discipline_layout"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="@dimen/layx20"
+                android:layout_weight="1"
+                >
+
+            </com.hhzt.iptv.lvb_x.customview.HomeDiamondLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

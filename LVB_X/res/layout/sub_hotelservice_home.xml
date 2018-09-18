@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal" >
+
+    <RelativeLayout
+        android:id="@+id/image_text_container"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="3.5" >
+
+        <ImageView
+            android:id="@+id/image_content"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:contentDescription="@string/app_name"
+            android:scaleType="fitXY"
+            android:src="@drawable/hotel_iptv_994x488" />
+
+        <LinearLayout
+            android:id="@+id/text_content_container"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/layx50"
+            android:background="@drawable/text_bg"
+            android:gravity="center_vertical"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/content_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/layx50"
+                android:layout_marginRight="@dimen/layx50"
+                android:textColor="@color/white"
+                android:textSize="@dimen/layx40" />
+
+            <TextView
+                android:id="@+id/content_subtitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/layx50"
+                android:layout_marginRight="@dimen/layx50"
+                android:textColor="@color/white"
+                android:textSize="@dimen/layx30" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <include
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        layout="@layout/adv_image" />
+
+</LinearLayout>

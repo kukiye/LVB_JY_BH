@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type = "id" name="Smart_right_item_pos_key"/>
+    <item type = "id" name="hotel_server"/>
+    <item type = "id" name="listview_id"/>
+    <item type = "id" name="left_title"/>
+    <item type = "id" name="right_title"/>
+    <!--影片搜藏item记录的位置postion-->
+    <item type = "id" name="gridview_position"/>
+    <item type="id" name="movie_0" ></item>
+    <item type="id" name="movie_1" ></item>
+    <item type="id" name="movie_2" ></item>
+    <item type="id" name="movie_3" ></item>
+    <item type="id" name="movie_4" ></item>
+    <item type="id" name="movie_5" ></item>
+    <item type="id" name="movie_6" ></item>
+    <item type="id" name="movie_7" ></item>
+    <item type="id" name="movie_8" ></item>
+    <item type="id" name="movie_9" ></item>
+    <item type="id" name="movie_10" ></item>
+    <item type="id" name="movie_11" ></item>
+    <item type="id" name="movie_12" ></item>
+    <item type="id" name="movie_13" ></item>
+    <item type="id" name="movie_14" ></item>
+    <item type="id" name="movie_15" ></item>
+    <item type="id" name="movie_16" ></item>
+    <item type="id" name="movie_17" ></item>
+    <item type="id" name="movie_18" ></item>
+    <item type="id" name="movie_19" ></item>
+    <item type="id" name="movie_20" ></item>
+    <item type="id" name="movie_21" ></item>
+    <item type="id" name="movie_22" ></item>
+    <item type="id" name="movie_23" ></item>
+    <item type="id" name="movie_24" ></item>
+    <item type="id" name="movie_25" ></item>
+    <item type="id" name="movie_26" ></item>
+    <item type="id" name="movie_27" ></item>
+    <item type="id" name="movie_28" ></item>
+    <item type="id" name="movie_29" ></item>
+    <item type="id" name="movie_30" ></item>
+    <item type="id" name="movie_31" ></item>
+    <item type="id" name="movie_32" ></item>
+    <item type="id" name="movie_33" ></item>
+    <item type="id" name="movie_34" ></item>
+    <item type="id" name="movie_35" ></item>
+    <item type="id" name="movie_36" ></item>
+    <item type="id" name="movie_37" ></item>
+    <item type="id" name="movie_38" ></item>
+    <item type="id" name="movie_39" ></item>
+    <item type="id" name="movie_40" ></item>
+    <item type="id" name="movie_41" ></item>
+    <item type="id" name="movie_42" ></item>
+    <item type="id" name="movie_43" ></item>
+    <item type="id" name="movie_44" ></item>
+    <item type="id" name="movie_45" ></item>
+    <item type="id" name="movie_46" ></item>
+    <item type="id" name="movie_47" ></item>
+    <item type="id" name="movie_48" ></item>
+    <item type="id" name="movie_49" ></item>
+    <item type="id" name="movie_50" ></item>
+    <item type="id" name="movie_51" ></item>
+    <item type="id" name="movie_52" ></item>
+    <item type="id" name="movie_53" ></item>
+    <item type="id" name="movie_54" ></item>
+    <item type="id" name="movie_55" ></item>
+    <item type="id" name="movie_56" ></item>
+    <item type="id" name="movie_57" ></item>
+    <item type="id" name="movie_58" ></item>
+    <item type="id" name="movie_59" ></item>
+    <item type="id" name="movie_60" ></item>
+    <item type="id" name="movie_61" ></item>
+    <item type="id" name="movie_62" ></item>
+    <item type="id" name="movie_63" ></item>
+    <item type="id" name="movie_64" ></item>
+    <item type="id" name="movie_65" ></item>
+    <item type="id" name="movie_66" ></item>
+    <item type="id" name="movie_67" ></item>
+    <item type="id" name="movie_68" ></item>
+    <item type="id" name="movie_69" ></item>
+    <item type="id" name="movie_70" ></item>
+    <item type="id" name="movie_71" ></item>
+    <item type="id" name="movie_72" ></item>
+    <item type="id" name="movie_73" ></item>
+    <item type="id" name="movie_74" ></item>
+    <item type="id" name="movie_75" ></item>
+    <item type="id" name="movie_76" ></item>
+    <item type="id" name="movie_77" ></item>
+    <item type="id" name="movie_78" ></item>
+    <item type="id" name="movie_79" ></item>
+    <item type="id" name="movie_80" ></item>
+    <item type="id" name="movie_81" ></item>
+    <item type="id" name="movie_82" ></item>
+    <item type="id" name="movie_83" ></item>
+    <item type="id" name="movie_84" ></item>
+    <item type="id" name="movie_85" ></item>
+    <item type="id" name="movie_86" ></item>
+    <item type="id" name="movie_87" ></item>
+    <item type="id" name="movie_88" ></item>
+    <item type="id" name="movie_89" ></item>
+    <item type="id" name="movie_90" ></item>
+
+</resources>

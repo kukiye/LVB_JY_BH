@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+
+              android:background="@drawable/special_focus_out"
+              android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="@dimen/layx150"
+        android:layout_height="@dimen/layx25"
+        android:layout_marginLeft="@dimen/layx40"
+        android:layout_marginTop="@dimen/layx65"
+        android:src="@drawable/mainpage_conetent_special_focus"
+        />
+
+    <ListView
+        android:id="@+id/lv_focus"
+        android:layout_width="@dimen/layx380"
+        android:layout_height="@dimen/layx140"
+        android:layout_marginLeft="@dimen/layx50"
+        android:layout_marginTop="@dimen/layx20"
+        android:cacheColorHint="@color/transparent"
+        android:descendantFocusability="afterDescendants"
+        android:divider="@android:color/transparent"
+        android:dividerHeight="@dimen/layx10"
+        android:listSelector="@drawable/focus_item_selector"
+        android:scrollbars="none">
+
+    </ListView>
+
+    <ImageView
+        android:layout_width="@dimen/layx150"
+        android:layout_height="@dimen/layx25"
+        android:layout_marginLeft="@dimen/layx40"
+        android:layout_marginTop="@dimen/layx25"
+        android:src="@drawable/mainpage_conetent_remould_star"
+        />
+
+    <ImageView
+        android:layout_width="@dimen/layx110"
+        android:layout_height="@dimen/layx2"
+        android:layout_marginLeft="@dimen/layx60"
+        android:layout_marginTop="@dimen/layx5"
+        android:src="@color/black"
+        />
+
+    <com.hhzt.iptv.lvb_x.customview.CustomRecyclerView
+        android:id="@+id/recycle_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="@dimen/layx20"
+        android:layout_marginLeft="@dimen/layx50"
+        android:layout_marginRight="@dimen/layx30"
+        android:layout_marginTop="@dimen/layx25"
+        android:descendantFocusability="afterDescendants"
+        />
+
+
+</LinearLayout>

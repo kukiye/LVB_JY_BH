@@ -1,0 +1,1690 @@
+[
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_culture_baihu.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_culture_baihu.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_world_clock.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_world_clock.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\sub_mainmenu_container_view.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\sub_mainmenu_container_view.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\framwork_clause.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\framwork_clause.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\framwork_rc.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\framwork_rc.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_template_lvb_x1_a4.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_template_lvb_x1_a4.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\framwork_business_app_items_view.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\framwork_business_app_items_view.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_lock.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_lock.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\framwork_vod_item.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\framwork_vod_item.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\sub_mainlive_item.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\sub_mainlive_item.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\sub_datechoose.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\sub_datechoose.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\sub_vod_type_list.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\sub_vod_type_list.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_vod_media_controller.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_vod_media_controller.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_vod_type.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\adapter_vod_type.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\project_list_item.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\project_list_item.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_prison_top.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_prison_top.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_account.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_account.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_prison_news_detail.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_prison_news_detail.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_book_list.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_book_list.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\main_focus_item.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\main_focus_item.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_prison_news_detail.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_prison_news_detail.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_setting_main.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_setting_main.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\sub_order_hostory_detail_title.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\sub_order_hostory_detail_title.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_welcome.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_welcome.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\sub_rate_list_info.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\sub_rate_list_info.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\framwork_search_controller_contents_all.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\framwork_search_controller_contents_all.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_prison_websit_detail.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_prison_websit_detail.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_feedback.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_feedback.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_vod_type.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\adapter_vod_type.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_mainmenu.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_mainmenu.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_lock.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_lock.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\sub_user_choose.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\sub_user_choose.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_prison_bottom.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_prison_bottom.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_media_action.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_media_action.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\sub_hotel_logo_view.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\sub_hotel_logo_view.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_food.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_food.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_vod_detail.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_vod_detail.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\framwork_pairtips.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\framwork_pairtips.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\sub_business_app_home.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\sub_business_app_home.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\sub_mainmenu_container_view.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\sub_mainmenu_container_view.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\dpad_choose_item.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\dpad_choose_item.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_mediaplayer.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_mediaplayer.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_vod_detail_item.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_vod_detail_item.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_prision_affairs.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_prision_affairs.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\sub_roomservice_cleanup.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\sub_roomservice_cleanup.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_account.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_account.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\activity_baihu_home.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\activity_baihu_home.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_pdfview.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_pdfview.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_seat_tips.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_seat_tips.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\framwork_about_content.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\framwork_about_content.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\sub_user_choose.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\sub_user_choose.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_pair_tips.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_pair_tips.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\iptv_toast.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\iptv_toast.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\main_bottom_item_layout.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\main_bottom_item_layout.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\sub_app_item.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\sub_app_item.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\sub_order_menu_bottom_item.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\sub_order_menu_bottom_item.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\iptv_toast.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\iptv_toast.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\activity_welcome_ad.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\activity_welcome_ad.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_seat_tips.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\dialog_seat_tips.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_setting_main.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_setting_main.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\framwork_hotelservice_items_view.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\framwork_hotelservice_items_view.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\foot_view.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\foot_view.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\setting_list_item.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\setting_list_item.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_order_history_main.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_order_history_main.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gif_view.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\LVB_JY_BH\\GifView\\unspecified\\res\\layout\\activity_gif_view.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\live_item.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\live_item.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_dialog_twobutton.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_dialog_twobutton.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_template_lvb_x1_a1.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_template_lvb_x1_a1.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\framwork_search_title.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\framwork_search_title.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\sub_roomservice_history.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\sub_roomservice_history.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_order_main.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_order_main.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\sub_order_hostory_detail_title.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\sub_order_hostory_detail_title.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_vod_media_controller.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_vod_media_controller.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\framwork_rate_main.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\framwork_rate_main.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_enter_teach.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_enter_teach.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\framwork_media_item.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\framwork_media_item.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\framwork_live_osd.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\framwork_live_osd.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_template_lvb_x1_a3.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_template_lvb_x1_a3.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_network_test.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_network_test.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\main_bottom_item_layout.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\main_bottom_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_weather_main.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_weather_main.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\framwork_hsjq_rc.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\framwork_hsjq_rc.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\framwork_search_controller_contents_t9.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\framwork_search_controller_contents_t9.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_mediaplayer.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_mediaplayer.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\vod_item_single.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\vod_item_single.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_seat_tips.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\dialog_seat_tips.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\framwork_setting_select.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\framwork_setting_select.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_seat_tips.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_seat_tips.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\tv_live_item.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\tv_live_item.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\sub_select_movie.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\sub_select_movie.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_book.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_book.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\vod_item_detail.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\vod_item_detail.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\framwork_setting_select.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\framwork_setting_select.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_content_list.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\adapter_content_list.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\bill_data_title.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\bill_data_title.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\sub_order_shopcar_show.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\sub_order_shopcar_show.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_template_lvb_x1_a3.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_template_lvb_x1_a3.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_template_lvb_x1_a1.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_template_lvb_x1_a1.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\framwork_live_osd.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\framwork_live_osd.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_bill_list.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_bill_list.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_heart_guide.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_heart_guide.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\sub_hotelservice_home.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\sub_hotelservice_home.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_pdfview_new.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_pdfview_new.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home_right.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_home_right.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home_right.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_home_right.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_news_list.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\adapter_news_list.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\sub_hotel_logo_view.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\sub_hotel_logo_view.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_live_grid_show.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_live_grid_show.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\framwork_language.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\framwork_language.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_network_test.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_network_test.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\sub_userchoose_subitem.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\sub_userchoose_subitem.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_prison_news_websit.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_prison_news_websit.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_order_history_details.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_order_history_details.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\main_focus_item.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\main_focus_item.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\sub_order_menu_bottom_item.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\sub_order_menu_bottom_item.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_news_lines.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_news_lines.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_order_history_details.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_order_history_details.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\framwork_hotelservice_items_view.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\framwork_hotelservice_items_view.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_video_enjoy.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_video_enjoy.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\sub_affairs_item.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\sub_affairs_item.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\float_entry_window.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\float_entry_window.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\sub_vod_item_message.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\sub_vod_item_message.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_main_title.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_main_title.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\framwork_search_controller_contents_all.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\framwork_search_controller_contents_all.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_prison_top.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_prison_top.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\local_app_home.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\local_app_home.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_prison_news_websit.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_prison_news_websit.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\sub_introduce_movie.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\sub_introduce_movie.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\framwork_mainmenu_items_view.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\framwork_mainmenu_items_view.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_content_list.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\adapter_content_list.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\framwork_bill.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\framwork_bill.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\main_gride_item.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\main_gride_item.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_book_list.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_book_list.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_close_lock.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_close_lock.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\framwork_search_controller.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\framwork_search_controller.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_pdfview_new.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_pdfview_new.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\framwork_feedback.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\framwork_feedback.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_live_grid_show.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_live_grid_show.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_heart_guide.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_heart_guide.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\sub_business_app_home.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\sub_business_app_home.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\framwork_order_menu_list.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\framwork_order_menu_list.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_prison_info_category.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_prison_info_category.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_prison_bottom.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_prison_bottom.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\aa.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\aa.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\framwork_pairtips.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\framwork_pairtips.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\sub_travel_home.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\sub_travel_home.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\activity_base.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\activity_base.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_local_app.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_local_app.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\framwork_search_controller_contents_t9.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\framwork_search_controller_contents_t9.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_world_clock.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_world_clock.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_prison_info.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_prison_info.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_login_exception.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\dialog_login_exception.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_hsjq_rc.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_hsjq_rc.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\sub_sublive_item.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\sub_sublive_item.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\listfragment_vod_type.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\listfragment_vod_type.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\framwork_rc.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\framwork_rc.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_order_main.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_order_main.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\sub_app_item.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\sub_app_item.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_splash.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_splash.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_dialog_twobutton.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_dialog_twobutton.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\live_item.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\live_item.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\sub_introduce_action.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\sub_introduce_action.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_video_gride.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_video_gride.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\logo_layout.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\logo_layout.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_project_test.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_project_test.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\framwork_about_content.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\framwork_about_content.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_rc.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_rc.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\sub_roomservice_checkinout.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\sub_roomservice_checkinout.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\sub_travel_home.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\sub_travel_home.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\sub_roomservice_checkinout.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\sub_roomservice_checkinout.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_tv.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_tv.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\home_star_layout.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\home_star_layout.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\framwork_account.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\framwork_account.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_clause.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_clause.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\sub_vod_type_list.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\sub_vod_type_list.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\home_diamonds_layout.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\home_diamonds_layout.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_main_right.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_main_right.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\sub_roomservice_history.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\sub_roomservice_history.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\float_rc_window.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\float_rc_window.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_pair_tips.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_pair_tips.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\logo_layout.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\logo_layout.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_video_enjoy.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_video_enjoy.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\sub_userchoose_subitem.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\sub_userchoose_subitem.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\top_banner_bg.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\top_banner_bg.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_prison_affairs_login.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_prison_affairs_login.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\sub_introduce_movie.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\sub_introduce_movie.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\activity_vodmain.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\activity_vodmain.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_class_teach.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_class_teach.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_login_exception.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\dialog_login_exception.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_tv.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_tv.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_template_lvb_x1_a2.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_template_lvb_x1_a2.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\framwork_vod_item.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\framwork_vod_item.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_rc.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_rc.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\sub_mainlive_item.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\sub_mainlive_item.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\sub_affairs_item.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\sub_affairs_item.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\cities_item.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\cities_item.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_prison_info.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_prison_info.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\framwork_travel_items_view.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\framwork_travel_items_view.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\activity_update_action.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\activity_update_action.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\listfragment_vod_type.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\listfragment_vod_type.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\activity_baihu_home.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\activity_baihu_home.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_splash.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_splash.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\top_banner_bg.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\top_banner_bg.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_clause.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_clause.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\adv_image.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\adv_image.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\main_star_layout.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\main_star_layout.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\sub_datechoose_subitem.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\sub_datechoose_subitem.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\sub_roomservice_wakeup.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\sub_roomservice_wakeup.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\sub_order_mainmenu_list_item.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\sub_order_mainmenu_list_item.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\order_shopcar_list.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\order_shopcar_list.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\activity_update_tips.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\activity_update_tips.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\sub_roomservice_cleanup.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\sub_roomservice_cleanup.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_prison_news.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_prison_news.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_prison_affairs_login.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_prison_affairs_login.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\framwork_media_item.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\framwork_media_item.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\setting_list_item.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\setting_list_item.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\sub_food_item.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\sub_food_item.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\sub_food_item.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\sub_food_item.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_main_content.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_main_content.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\framwork_account.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\framwork_account.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_project_test.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_project_test.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\local_app_home.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\local_app_home.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_class_teach.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_class_teach.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\sub_tips_action_type.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\sub_tips_action_type.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_business_app_type.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_business_app_type.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\relative_notice_hint.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\relative_notice_hint.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\foot_view.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\foot_view.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\live_back_date_item.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\live_back_date_item.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\activity_update_tips.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\activity_update_tips.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\vod_item_single.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\vod_item_single.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_cityset.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_cityset.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_back_mgr.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_back_mgr.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_enter_teach.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_enter_teach.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\framwork_cityset.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\framwork_cityset.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\sub_mainmenu_top_banner.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\sub_mainmenu_top_banner.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_video_gride.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_video_gride.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\sub_order_hostory_title.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\sub_order_hostory_title.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_out_guide.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_out_guide.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_search_main.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_search_main.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_template_lvb_x1_a2.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_template_lvb_x1_a2.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\home_star_layout.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\home_star_layout.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\main_gride_item.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\main_gride_item.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\home_diamonds_layout.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\home_diamonds_layout.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_search_main.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_search_main.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\framwork_travel_items_view.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\framwork_travel_items_view.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\sub_vod_item_message.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\sub_vod_item_message.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\author_dialog.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\author_dialog.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\framwork_order_menu_list.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\framwork_order_menu_list.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\home_rectangle_layout.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\home_rectangle_layout.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_about_main.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_about_main.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\author_dialog.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\author_dialog.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_main_title.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_main_title.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_feedback.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_feedback.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\sub_datechoose.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\sub_datechoose.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\relative_notice_hint.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\relative_notice_hint.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_mainmenu.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_mainmenu.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_cityset.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_cityset.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_close_lock.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_close_lock.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\sub_order_hostory_title.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\sub_order_hostory_title.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\float_entry_window.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\float_entry_window.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_sub_business_app.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_sub_business_app.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_main_content.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_main_content.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_about_main.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_about_main.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\framwork_cityset.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\framwork_cityset.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\framwork_search_result.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\framwork_search_result.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\sub_hotelservice_home.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\sub_hotelservice_home.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\sub_roomservice_wakeup.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\sub_roomservice_wakeup.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\home_rectangle_layout.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\home_rectangle_layout.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\framwork_detail_weather.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\framwork_detail_weather.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\sub_tips_action_type.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\sub_tips_action_type.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_main_right.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_main_right.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_media_action.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_media_action.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_main_bottom.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_main_bottom.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_pdfview.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_pdfview.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_out_guide.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_out_guide.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\framwork_mainmenu_items_view.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\framwork_mainmenu_items_view.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_language_set.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_language_set.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\framwork_search_title.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\framwork_search_title.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_book.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_book.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_ticker.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_ticker.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\framwork_bill.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\framwork_bill.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_bill_list.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_bill_list.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\tv_live_item.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\tv_live_item.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\dpad_choose_item.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\dpad_choose_item.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\framwork_business_app_items_view.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\framwork_business_app_items_view.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\sub_select_movie.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\sub_select_movie.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_food.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_food.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_hsjq_rc.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_hsjq_rc.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\sub_mainmenu_top_banner.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\sub_mainmenu_top_banner.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\framwork_feedback.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\framwork_feedback.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\framwork_world_clock.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\framwork_world_clock.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_weather_main.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_weather_main.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\ip_input_dialog.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\ip_input_dialog.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_news_lines.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_news_lines.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_vod_detail.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_vod_detail.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\ip_input_dialog.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\ip_input_dialog.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_language_set.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_language_set.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\sub_rate_list_info.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\sub_rate_list_info.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\bill_data_title.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\bill_data_title.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\framwork_rate_main.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\framwork_rate_main.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_business_app_type.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_business_app_type.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_ticker.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_ticker.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\adv_image.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\adv_image.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_sub_business_app.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_sub_business_app.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_vod_detail_item.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_vod_detail_item.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\framwork_world_clock.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\framwork_world_clock.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\sub_sublive_item.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\sub_sublive_item.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\activity_update_action.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\activity_update_action.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\activity_welcome_ad.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\activity_welcome_ad.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\activity_vodmain.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\activity_vodmain.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\order_shopcar_list.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\order_shopcar_list.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_prison_websit_detail.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_prison_websit_detail.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\aa.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\aa.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_order_history_main.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_order_history_main.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\framwork_search_controller.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\framwork_search_controller.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gif_view.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\LVB_JY_BH\\GifView\\unspecified\\res\\layout\\activity_gif_view.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\float_rc_window.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\float_rc_window.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\sub_datechoose_subitem.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\sub_datechoose_subitem.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\framwork_search_result.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\framwork_search_result.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\vod_item_detail.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\vod_item_detail.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_prison_affairs_detail.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_prison_affairs_detail.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_welcome.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_welcome.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\sub_introduce_action.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\sub_introduce_action.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_prison_affairs_detail.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_prison_affairs_detail.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\framwork_hsjq_rc.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\framwork_hsjq_rc.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\dpad_choose.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\dpad_choose.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\main_star_layout.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\main_star_layout.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_news_list.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\adapter_news_list.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\framwork_clause.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\framwork_clause.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_back_mgr.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_back_mgr.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_local_app.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_local_app.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_main_bottom.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_main_bottom.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_prison_news.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_prison_news.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\dpad_choose.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\dpad_choose.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\sub_order_mainmenu_list_item.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\sub_order_mainmenu_list_item.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\framwork_language.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\framwork_language.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\live_back_date_item.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\live_back_date_item.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\sub_order_shopcar_show.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\sub_order_shopcar_show.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\project_list_item.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\project_list_item.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\activity_base.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\activity_base.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_culture_baihu.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_culture_baihu.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_template_lvb_x1_a4.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_template_lvb_x1_a4.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\cities_item.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\cities_item.xml"
+    },
+    {
+        "merged": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_prision_affairs.xml",
+        "source": "D:\\as_project\\src\\Prison\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_prision_affairs.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_prison_info_category.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\fragment_prison_info_category.xml"
+    },
+    {
+        "merged": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\build\\intermediates\\res\\merged\\debug\\layout\\framwork_detail_weather.xml",
+        "source": "E:\\Work_Project\\LVB_JY_BH\\LVB_X\\res\\layout\\framwork_detail_weather.xml"
+    }
+]

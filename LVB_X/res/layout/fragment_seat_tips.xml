@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_marginLeft="@dimen/layx20"
+        android:background="@drawable/hsjq_seat_n"
+        android:gravity="center"
+        android:textSize="@dimen/layx35"
+        android:textColor="@color/lightyellow"
+        android:text="@string/keep_seat" />
+
+    <TextView
+        android:id="@+id/seat_time"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_marginLeft="@dimen/layx10"
+        android:layout_marginRight="@dimen/layx10"
+        android:layout_weight="1"
+        android:ellipsize="none"
+        android:gravity="center"
+        android:singleLine="true"
+        android:textColor="@color/white"
+        android:textSize="@dimen/layx35" />
+
+</LinearLayout>

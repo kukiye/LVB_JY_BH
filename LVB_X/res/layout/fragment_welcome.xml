@@ -1,0 +1,120 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/welcome_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <ImageView
+        android:id="@+id/welcome_bg_img1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:contentDescription="@string/app_name"
+        android:scaleType="fitXY"
+        android:src="@drawable/welcome_bg_1280x720" />
+
+    <ImageView
+        android:id="@+id/welcome_bg_img2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:contentDescription="@string/app_name"
+        android:scaleType="fitXY"
+        android:src="@drawable/welcome_bg_1280x720" />
+
+    <RelativeLayout
+        android:id="@+id/welcome_pop_container"
+        android:layout_width="@dimen/layx1155"
+        android:layout_height="@dimen/layx426"
+        android:layout_centerInParent="true"
+        android:paddingLeft="@dimen/layx100"
+        android:paddingRight="@dimen/layx100"
+        android:paddingTop="@dimen/layx50"
+        android:visibility="gone" >
+
+        <ImageView
+            android:id="@+id/welcome_pop_bg"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/welcome_pop_bg"
+            android:contentDescription="@string/app_name"
+            android:scaleType="fitXY" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_marginBottom="@dimen/layx20"
+                android:layout_weight="2"
+                android:gravity="center_vertical"
+                android:orientation="horizontal" >
+
+                <ImageView
+                    android:id="@+id/hotellogimage"
+                    android:layout_width="@dimen/layx300"
+                    android:layout_height="@dimen/layx212"
+                    android:contentDescription="@string/app_name"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/welcome_logo_300x212" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="@dimen/layx50"
+                    android:gravity="center_vertical"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/welcome_client"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:ellipsize="end"
+                        android:singleLine="true"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/layx35" />
+
+                    <TextView
+                        android:id="@+id/welcome_contents"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/layx5"
+                        android:ellipsize="end"
+                        android:maxLines="4"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/layx25" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/layx2"
+                android:background="@drawable/welcome_pop_line"
+                android:contentDescription="@string/app_name" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1.5"
+                android:gravity="center"
+                android:orientation="horizontal" >
+
+                <Button
+                    android:id="@+id/chinaSet"
+                    android:layout_width="@dimen/layx200"
+                    android:layout_height="@dimen/layx100"
+                    android:layout_marginRight="@dimen/layx50"
+                    android:background="@drawable/cn_button_selector" />
+
+                <Button
+                    android:id="@+id/englishSet"
+                    android:layout_width="@dimen/layx200"
+                    android:layout_height="@dimen/layx100"
+                    android:layout_marginLeft="@dimen/layx50"
+                    android:background="@drawable/en_button_selector" />
+            </LinearLayout>
+        </LinearLayout>
+    </RelativeLayout>
+
+</RelativeLayout>

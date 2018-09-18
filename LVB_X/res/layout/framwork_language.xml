@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/world_bg"
+    android:gravity="center" >
+
+    <LinearLayout
+        android:id="@+id/langauge_simple_chinses"
+        android:layout_width="@dimen/layx300"
+        android:layout_height="@dimen/layx300"
+        android:orientation="vertical" >
+
+        <com.ant.liao.GifView
+            android:id="@+id/lang_simple_chinese_image"
+            android:layout_width="@dimen/layx260"
+            android:layout_height="@dimen/layx191"
+            android:layout_gravity="center_horizontal" />
+
+        <Button
+            android:id="@+id/lang_simple_chinese_Button"
+            android:layout_width="@dimen/layx260"
+            android:layout_height="@dimen/layx70"
+            android:layout_gravity="center_horizontal"
+            android:background="@drawable/button_selector"
+            android:gravity="center"
+            android:text="@string/simple_chinese"
+            android:textColor="@color/white"
+            android:textSize="@dimen/layx25" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/langauge_english"
+        android:layout_width="@dimen/layx300"
+        android:layout_height="@dimen/layx300"
+        android:layout_toRightOf="@id/langauge_simple_chinses"
+        android:orientation="vertical" >
+
+        <com.ant.liao.GifView
+            android:id="@+id/lang_simple_english_image"
+            android:layout_width="@dimen/layx260"
+            android:layout_height="@dimen/layx191"
+            android:layout_gravity="center_horizontal" />
+
+        <Button
+            android:id="@+id/lang_simple_english_Button"
+            android:layout_width="@dimen/layx260"
+            android:layout_height="@dimen/layx70"
+            android:layout_gravity="center_horizontal"
+            android:background="@drawable/button_selector"
+            android:gravity="center"
+            android:text="@string/english"
+            android:textColor="@color/white"
+            android:textSize="@dimen/layx25" />
+    </LinearLayout>
+
+</RelativeLayout>

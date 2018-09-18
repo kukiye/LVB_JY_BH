@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="@dimen/layx60" >
+
+    <RelativeLayout
+        android:id="@+id/data_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/setting_content_bg" >
+
+        <LinearLayout
+            android:id="@+id/data_title_container"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/layx60"
+            android:layout_alignParentTop="true"
+            android:orientation="horizontal" >
+
+            <include
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                layout="@layout/bill_data_title" >
+            </include>
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/data_total_infos"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/layx60"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="@dimen/layx50"
+            android:layout_marginTop="@dimen/layx25"
+            android:textColor="@color/white"
+            android:textSize="@dimen/layx20" />
+
+        <ImageView
+            android:id="@+id/horizontal_line_one"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/layx1"
+            android:layout_below="@id/data_title_container"
+            android:layout_marginTop="@dimen/layx5"
+            android:background="@drawable/horizontal_line"
+            android:contentDescription="@string/app_name" />
+
+        <ImageView
+            android:id="@+id/horizontal_line_two"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/layx1"
+            android:layout_above="@id/data_total_infos"
+            android:layout_marginBottom="@dimen/layx5"
+            android:background="@drawable/horizontal_line"
+            android:contentDescription="@string/app_name" />
+
+        <ListView
+            android:id="@+id/bill_details_items_list"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_above="@id/data_total_infos"
+            android:layout_below="@id/data_title_container"
+            android:layout_marginBottom="@dimen/layx10"
+            android:layout_marginTop="@dimen/layx10"
+            android:cacheColorHint="#00000000"
+            android:divider="@drawable/live_item_line"
+            android:dividerHeight="@dimen/layx2"
+            android:drawSelectorOnTop="false"
+            android:fastScrollEnabled="true"
+            android:focusable="true"
+            android:listSelector="@drawable/button_selector"
+            android:scrollbars="none" >
+        </ListView>
+    </RelativeLayout>
+
+</LinearLayout>

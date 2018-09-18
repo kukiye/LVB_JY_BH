@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/tick_container"
+    android:layout_width="wrap_content"
+    android:layout_height="@dimen/layx80"
+    android:layout_gravity="center"
+    android:background="@drawable/setting_content_bg"
+    android:padding="@dimen/layx20"
+    android:visibility="gone" >
+
+    <ImageView
+        android:id="@+id/tick_image_tag"
+        android:layout_width="@dimen/layx40"
+        android:layout_height="@dimen/layx36"
+        android:layout_centerVertical="true"
+        android:background="@drawable/msg_tag"
+        android:contentDescription="@string/app_name" />
+
+    <TextView
+        android:id="@+id/tick_content_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="@dimen/layx20"
+        android:layout_toRightOf="@id/tick_image_tag"
+        android:textColor="@color/white"
+        android:textSize="@dimen/layx25" />
+
+</RelativeLayout>

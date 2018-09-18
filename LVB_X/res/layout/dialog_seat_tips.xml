@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/layx300"
+    android:layout_height="@dimen/layx100" >
+
+    <TextView
+        android:id="@+id/seat_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="@dimen/layx20"
+        android:background="@drawable/hsjq_seat_n"
+        android:gravity="center"
+        android:text="@string/keep_seat"
+        android:textColor="@color/lightyellow"
+        android:textSize="@dimen/layx35" />
+
+    <TextView
+        android:id="@+id/seat_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="@dimen/layx10"
+        android:layout_marginRight="@dimen/layx10"
+        android:layout_toRightOf="@id/seat_image"
+        android:ellipsize="none"
+        android:singleLine="true"
+        android:textColor="@color/white"
+        android:textSize="@dimen/layx35" />
+
+</RelativeLayout>

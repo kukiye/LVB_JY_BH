@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:background="@color/black"
+    android:gravity="center" >
+
+    <ImageView
+        android:id="@+id/block_container_bg"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true"
+        android:contentDescription="@string/app_name" />
+
+    <LinearLayout
+        android:id="@+id/lock_main_content_container"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:id="@+id/lock_title_container"
+            android:layout_width="@dimen/layx600"
+            android:layout_height="@dimen/layx80"
+            android:background="@drawable/lock_title_bg"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:padding="@dimen/layx20" >
+
+            <ImageView
+                android:id="@+id/lock_title_image"
+                android:layout_width="@dimen/layx40"
+                android:layout_height="@dimen/layx36"
+                android:layout_marginLeft="@dimen/layx20"
+                android:background="@drawable/msg_tag"
+                android:contentDescription="@string/app_name" />
+
+            <TextView
+                android:id="@+id/lock_title_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/layx20"
+                android:text="@string/exit_tips"
+                android:textColor="@color/white"
+                android:textSize="@dimen/layx25"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/lock_content_container"
+            android:layout_width="@dimen/layx600"
+            android:layout_height="@dimen/layx240"
+            android:layout_marginTop="-3dp"
+            android:background="@drawable/lock_content_bg"
+            android:gravity="center_vertical"
+            android:orientation="vertical"
+            android:padding="@dimen/layx30" >
+
+            <TextView
+                android:id="@+id/lock_content_text1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/dear_client"
+                android:textColor="@color/white"
+                android:textSize="@dimen/layx25" />
+
+            <TextView
+                android:id="@+id/lock_content_text2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:textSize="@dimen/layx25" />
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

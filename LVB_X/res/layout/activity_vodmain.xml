@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/main_bg"
+    android:baselineAligned="false"
+    android:orientation="vertical" >
+
+    <include
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layx33"
+        layout="@layout/top_banner_bg" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:baselineAligned="false"
+        android:orientation="horizontal" >
+
+        <include
+            android:layout_width="@dimen/layx217"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="@dimen/layy52"
+            android:layout_marginLeft="@dimen/layx38"
+            android:layout_marginTop="@dimen/layy52"
+            layout="@layout/sub_vod_type_list" />
+
+        <FrameLayout
+            android:id="@+id/vod_detail_framelayout"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="@dimen/layy52"
+            android:layout_marginLeft="@dimen/layx30"
+            android:layout_marginTop="@dimen/layy52"
+            android:layout_weight="5" >
+        </FrameLayout>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layy57"
+        android:background="@drawable/_bottom_bg" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:id="@+id/mainmenu_logo_b"
+                android:layout_width="@dimen/layx40"
+                android:layout_height="@dimen/layy42"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="@dimen/layx50"
+                android:contentDescription="@string/app_name"
+                android:gravity="center_vertical"
+                android:scaleType="fitXY"
+                android:src="@drawable/mainmenu_icon" />
+
+            <TextView
+                android:id="@+id/tv_mainmenu_name"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/layx15"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:textColor="@color/white"
+                android:textSize="@dimen/layy24" 
+                android:textStyle="bold" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="@dimen/layx44"
+            android:gravity="center_vertical"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/vod_tips_txt1"
+                android:textColor="@color/white"
+                android:textSize="@dimen/layy20" />
+
+            <ImageView
+                android:layout_width="@dimen/layx18"
+                android:layout_height="@dimen/layy12"
+                android:contentDescription="@string/app_name"
+                android:src="@drawable/vod_tips_bottom" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/vod_tips_txt2"
+                android:textColor="@color/white"
+                android:textSize="@dimen/layy20" />
+
+            <ImageView
+                android:layout_width="@dimen/layx18"
+                android:layout_height="@dimen/layy12"
+                android:contentDescription="@string/app_name"
+                android:src="@drawable/vod_tips_top" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/vod_tips_txt3"
+                android:textColor="@color/white"
+                android:textSize="@dimen/layy20" />
+        </LinearLayout>
+    </RelativeLayout>
+
+</LinearLayout>

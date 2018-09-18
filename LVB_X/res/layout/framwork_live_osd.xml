@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <RelativeLayout
+        android:id="@+id/live_items_main"
+        android:layout_width="@dimen/layx255"
+        android:layout_height="@dimen/layy678"
+        android:layout_marginTop="@dimen/layy21" >
+
+        <RelativeLayout
+            android:id="@+id/live_title_container"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/layy68"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/common_titlelive_bg"
+            android:gravity="center" >
+
+            <ImageView
+                android:id="@+id/live_image_tag"
+                android:layout_width="@dimen/layx78"
+                android:layout_height="@dimen/layy68"
+                android:layout_centerVertical="true"
+                android:background="@drawable/live_osd_tag"
+                android:contentDescription="@string/app_name" />
+
+            <TextView
+                android:id="@+id/live_name_tag"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_toRightOf="@id/live_image_tag"
+                android:text="@string/mainmenu_live"
+                android:textColor="@color/white"
+                android:textSize="@dimen/layy30" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/live_item_bg_main"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@id/live_title_container"
+            android:layout_marginTop="-2dp"
+            android:background="@drawable/live_list_bg" >
+
+            <ImageView
+                android:id="@+id/live_action_top_tips"
+                android:layout_width="@dimen/layx79"
+                android:layout_height="@dimen/layy79"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:background="@drawable/arrow_up_s"
+                android:contentDescription="@string/app_name" />
+
+            <ImageView
+                android:id="@+id/live_action_bottom_tips"
+                android:layout_width="@dimen/layx79"
+                android:layout_height="@dimen/layy79"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:background="@drawable/arrow_down_s"
+                android:contentDescription="@string/app_name" />
+
+            <ListView
+                android:id="@+id/live_items"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_above="@id/live_action_bottom_tips"
+                android:layout_below="@id/live_action_top_tips"
+                android:cacheColorHint="#00000000"
+                android:divider="@drawable/live_item_line"
+                android:dividerHeight="@dimen/layx1"
+                android:drawSelectorOnTop="false"
+                android:fastScrollEnabled="true"
+                android:focusable="true"
+                android:listSelector="@drawable/live_button_selector"
+                android:scrollbars="none" >
+            </ListView>
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/live_menu_items_main"
+        android:layout_width="@dimen/layx385"
+        android:layout_height="@dimen/layy520"
+        android:layout_marginLeft="-1dp"
+        android:layout_marginTop="@dimen/layy89"
+        android:layout_toRightOf="@id/live_items_main"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:id="@+id/live_menu_name_tag_container"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/layy68"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/common_titlelive_bg"
+            android:gravity="center" >
+
+            <ImageView
+                android:layout_width="@dimen/layx33"
+                android:layout_height="@dimen/layy34"
+                android:layout_marginRight="@dimen/layx5"
+                android:background="@drawable/back_osd_tag"
+                android:contentDescription="@string/app_name" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/live_list"
+                android:textColor="@color/white"
+                android:textSize="@dimen/layy30" />
+        </LinearLayout>
+
+        <ListView
+            android:id="@+id/live_menu_items"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@id/live_menu_name_tag_container"
+            android:layout_marginTop="-1dp"
+            android:background="@drawable/live_list_bg"
+            android:cacheColorHint="#00000000"
+            android:divider="@drawable/live_item_line"
+            android:dividerHeight="@dimen/layx2"
+            android:drawSelectorOnTop="false"
+            android:fastScrollEnabled="true"
+            android:focusable="true"
+            android:listSelector="@drawable/live_button_selector"
+            android:scrollbars="none" >
+        </ListView>
+
+        <LinearLayout
+            android:id="@+id/no_tv_list_tips"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:orientation="vertical"
+            android:visibility="gone" >
+
+            <ImageView
+                android:layout_width="@dimen/layx80"
+                android:layout_height="@dimen/layx70"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="@dimen/layx10"
+                android:background="@drawable/no_tv_list"
+                android:contentDescription="@string/app_name" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/no_tv_tips"
+                android:textColor="@color/gray"
+                android:textSize="@dimen/layx25" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/live_popmenu_date"
+        android:layout_width="@dimen/layx210"
+        android:layout_height="@dimen/layy520"
+        android:layout_marginLeft="-1dp"
+        android:layout_marginTop="@dimen/layy89"
+        android:layout_toRightOf="@id/live_menu_items_main"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:id="@+id/live_menu_date_tag_container"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/layy68"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/common_titlelive_bg"
+            android:gravity="center" >
+
+            <ImageView
+                android:layout_width="@dimen/layx33"
+                android:layout_height="@dimen/layy34"
+                android:layout_marginRight="@dimen/layx5"
+                android:background="@drawable/date_osd_tag"
+                android:contentDescription="@string/app_name" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/live_menu_date"
+                android:textColor="@color/white"
+                android:textSize="@dimen/layy30" />
+        </LinearLayout>
+
+        <ListView
+            android:id="@+id/live_menu_date_list"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@id/live_menu_date_tag_container"
+            android:layout_marginTop="-1dp"
+            android:background="@drawable/live_list_bg"
+            android:cacheColorHint="#00000000"
+            android:divider="@drawable/live_item_line"
+            android:dividerHeight="@dimen/layx2"
+            android:drawSelectorOnTop="false"
+            android:fastScrollEnabled="true"
+            android:focusable="true"
+            android:listSelector="@drawable/live_button_selector"
+            android:scrollbars="none" >
+        </ListView>
+    </RelativeLayout>
+
+</RelativeLayout>

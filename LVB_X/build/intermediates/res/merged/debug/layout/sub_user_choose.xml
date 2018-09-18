@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/layx614"
+    android:layout_height="@dimen/layy347"
+    android:orientation="vertical" 
+    android:gravity="center">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/layy10"
+        android:layout_marginTop="@dimen/layy10"
+        android:gravity="center" >
+
+        <ImageView
+            android:layout_width="@dimen/layx22"
+            android:layout_height="@dimen/layy21"
+            android:background="@drawable/prison_add_user" />
+
+        <TextView
+            android:id="@+id/date_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/user_choose"
+            android:textColor="@color/white"
+            android:layout_marginLeft="@dimen/layx10"
+            android:textSize="@dimen/layx30"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/horizontal_line"
+        android:layout_width="@dimen/layx427"
+        android:layout_height="@dimen/layx2"
+        android:background="@drawable/live_item_line"
+        android:contentDescription="@string/app_name" />
+
+    <ListView
+        android:id="@+id/choosedDatelist"
+        android:layout_width="@dimen/layx300"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="@dimen/layx20"
+        android:layout_marginTop="@dimen/layx10"
+        android:cacheColorHint="#00000000"
+        android:divider="@android:color/transparent"
+        android:dividerHeight="@dimen/layx2"
+        android:drawSelectorOnTop="false"
+        android:fastScrollEnabled="true"
+        android:focusable="true"
+        android:listSelector="@drawable/news_item_selector"
+        android:scrollbars="none" >
+    </ListView>
+
+</LinearLayout>

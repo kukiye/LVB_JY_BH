@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="transparent">#00000000</color>
+    <color name="white">#FFFFFF</color>
+    <!-- 白色 -->
+    <color name="black">#000000</color>
+    <!-- 黑色 -->
+    <color name="browndark">#232323</color>
+    <!-- 棕黑色 -->
+    <color name="gray">#808080</color>
+    <!-- 灰色 -->
+    <color name="red">#FF0000</color>
+    <!-- 红色 -->
+    <color name="lightbrown">#B5B5B6</color>
+    <!-- 浅棕色 -->
+    <color name="lightyellow">#FCCC00</color>
+    <!-- 浅黄色 -->
+    <color name="lightgray">#232323</color>
+    <!-- 浅灰色 -->
+    
+    <color name="lineligtbule">#1F3060</color>
+    <!-- 蓝色 -->
+    <color name="main_text_bule">#304e80</color>
+    <!-- 蓝色 -->
+    <color name="main_text_gray">#544D49</color>
+
+    <color name="main_bg_bule">#0c2052</color>
+    <color name="color_393939">#393939</color>
+
+    <color name="color_star_text">#C63425</color>
+
+    <color name="color_d4d4d4">#D4D4D4</color>
+    <color name="color_533111">#533111</color>
+    <color name="color_654529">#654529</color>
+    <color name="color_0E4060">#0E4060</color>
+    <color name="color_fdf9f1">#fdf9f1</color>
+    <color name="color_C3C0B9">#C3C0B9</color>
+    <color name="color_804f12">#804f12</color>
+    <color name="color_ffffff">#4DFFFFFF</color>
+
+</resources>

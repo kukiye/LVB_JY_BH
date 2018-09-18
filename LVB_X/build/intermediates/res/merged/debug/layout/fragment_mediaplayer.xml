@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/theme_bg" >
+
+    <SurfaceView
+        android:id="@+id/mediaplayer_surface"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center" >
+    </SurfaceView>
+
+    <RelativeLayout
+        android:id="@+id/no_singnal_container_bg"
+        android:layout_width="@dimen/layx311"
+        android:layout_height="@dimen/layx103"
+        android:layout_centerInParent="true"
+        android:background="@drawable/nosignal_bg"
+        android:visibility="gone" >
+
+        <RelativeLayout
+            android:id="@+id/no_singnal_container"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true" >
+
+            <ImageView
+                android:id="@+id/no_singnal_image"
+                android:layout_width="@dimen/layx51"
+                android:layout_height="@dimen/layx44"
+                android:layout_centerVertical="true"
+                android:background="@drawable/nosignal_tag"
+                android:contentDescription="@string/app_name" />
+
+            <TextView
+                android:id="@+id/nosignal_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="@dimen/layx10"
+                android:layout_toRightOf="@id/no_singnal_image"
+                android:text="@string/live_nosignal"
+                android:textColor="@color/white"
+                android:textSize="@dimen/layx35" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/mediaplayer_title"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layx50"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/mediaplayer_top_banner_bg"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:textSize="@dimen/layx30"/>
+
+    <RelativeLayout
+        android:id="@+id/mediaplayer_controller"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layx150"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/mediaplayer_bottom_banner_bg"
+        android:visibility="visible" >
+
+        <SeekBar
+            android:id="@+id/mediacontroller_seekbar"
+            style="@style/LVC_MediaController_SeekBar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:focusable="false" />
+
+        <LinearLayout
+            android:id="@+id/time_action_tips"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:layout_below="@id/mediacontroller_seekbar"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/layx10"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/time_tips"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginRight="@dimen/layx10"
+                android:gravity="center_vertical"
+                android:textColor="@color/white"
+                android:textSize="@dimen/layx20" />
+
+            <TextView
+                android:id="@+id/action_tips"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginRight="@dimen/layx10"
+                android:drawableLeft="@drawable/back_tips"
+                android:drawablePadding="@dimen/layx10"
+                android:gravity="center_vertical"
+                android:text="@string/back"
+                android:textColor="@color/white"
+                android:textSize="@dimen/layx20" />
+
+            <ImageView
+                android:id="@+id/vod_sound_tips"
+                android:layout_width="@dimen/layx25"
+                android:layout_height="@dimen/layx25"
+                android:layout_gravity="center_vertical"
+                android:layout_marginRight="@dimen/layx5"
+                android:background="@drawable/soud_tips"
+                android:contentDescription="@string/app_name" 
+                android:visibility="gone"/>
+
+            <SeekBar
+                android:id="@+id/vod_sound_seekbar"
+                android:layout_width="@dimen/layx100"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:focusable="false"
+                android:progress="0" 
+                android:visibility="gone"/>
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/media_playpause_controller"
+            android:layout_width="@dimen/layx50"
+            android:layout_height="@dimen/layx50"
+            android:layout_below="@id/mediacontroller_seekbar"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/window_pause_selector" />
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/mediaplayer_state_tips"
+        android:layout_width="@dimen/layx128"
+        android:layout_height="@dimen/layx128"
+        android:layout_centerInParent="true"
+        android:background="@drawable/mediaplayer_play_selector"
+        android:enabled="false"
+        android:focusable="false"
+        android:visibility="gone" />
+
+    <include
+        android:id="@+id/live_pop_window"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="@dimen/layx40"
+        layout="@layout/framwork_live_osd"
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/live_channel_num"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="@dimen/layx40"
+        android:layout_marginTop="@dimen/layx40"
+        android:textColor="@color/white"
+        android:textSize="@dimen/layx50"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/live_back_tag_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="@dimen/layx60"
+        android:layout_marginTop="@dimen/layx60"
+        android:text="@string/back_text"
+        android:textColor="@color/white"
+        android:textSize="@dimen/layx40" />
+
+    <LinearLayout
+        android:id="@+id/live_sound_controller_container"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="@dimen/layx10"
+        android:layout_marginRight="@dimen/layx10"
+        android:gravity="center_vertical" 
+        android:visibility="gone">
+
+        <ImageView
+            android:id="@+id/live_sound_tips"
+            android:layout_width="@dimen/layx25"
+            android:layout_height="@dimen/layx25"
+            android:layout_gravity="center_vertical"
+            android:layout_marginRight="@dimen/layx5"
+            android:background="@drawable/soud_tips"
+            android:contentDescription="@string/app_name" 
+            android:visibility="gone"/>
+
+        <SeekBar
+            android:id="@+id/live_sound_seekbar"
+            android:layout_width="@dimen/layx100"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:focusable="true"
+            android:progress="0" 
+            android:visibility="gone"/>
+    </LinearLayout>
+
+</RelativeLayout>

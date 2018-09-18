@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/layx634"
+    android:layout_height="@dimen/layx336"
+    android:orientation="vertical" >
+
+    <ListView
+        android:id="@+id/choosedDatelist"
+        android:layout_width="@dimen/layx195"
+        android:layout_height="match_parent"
+        android:layout_below="@id/horizontal_line"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="@dimen/layx20"
+        android:layout_marginTop="@dimen/layx10"
+        android:cacheColorHint="#00000000"
+        android:divider="@android:color/transparent"
+        android:dividerHeight="@dimen/layx2"
+        android:drawSelectorOnTop="false"
+        android:fastScrollEnabled="true"
+        android:focusable="true"
+        android:listSelector="@drawable/affairs_button_selector"
+        android:scrollbars="none" >
+    </ListView>
+
+</RelativeLayout>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal" >
+
+    <TextView
+        android:id="@+id/rate_type"
+        android:layout_width="0dp"
+        android:layout_height="@dimen/layx70"
+        android:layout_marginLeft="@dimen/layx5"
+        android:layout_marginRight="@dimen/layx5"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:textSize="@dimen/layx20" />
+
+    <TextView
+        android:id="@+id/rate_name"
+        android:layout_width="0dp"
+        android:layout_height="@dimen/layx70"
+        android:layout_marginLeft="@dimen/layx5"
+        android:layout_marginRight="@dimen/layx5"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:textSize="@dimen/layx20" />
+
+    <TextView
+        android:id="@+id/rate_cbuy"
+        android:layout_width="0dp"
+        android:layout_height="@dimen/layx70"
+        android:layout_marginLeft="@dimen/layx5"
+        android:layout_marginRight="@dimen/layx5"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:textSize="@dimen/layx20" />
+
+    <TextView
+        android:id="@+id/rate_hbuy"
+        android:layout_width="0dp"
+        android:layout_height="@dimen/layx70"
+        android:layout_marginLeft="@dimen/layx5"
+        android:layout_marginRight="@dimen/layx5"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:textSize="@dimen/layx20" />
+
+    <TextView
+        android:id="@+id/rate_sell"
+        android:layout_width="0dp"
+        android:layout_height="@dimen/layx70"
+        android:layout_marginLeft="@dimen/layx5"
+        android:layout_marginRight="@dimen/layx5"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:textSize="@dimen/layx20" />
+
+    <TextView
+        android:id="@+id/rate_baseprice"
+        android:layout_width="0dp"
+        android:layout_height="@dimen/layx70"
+        android:layout_marginLeft="@dimen/layx5"
+        android:layout_marginRight="@dimen/layx5"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:textSize="@dimen/layx20" />
+
+    <TextView
+        android:id="@+id/rate_date"
+        android:layout_width="0dp"
+        android:layout_height="@dimen/layx70"
+        android:layout_marginLeft="@dimen/layx5"
+        android:layout_marginRight="@dimen/layx5"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:textSize="@dimen/layx20" />
+
+</LinearLayout>

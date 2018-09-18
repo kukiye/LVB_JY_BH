@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/layx500"
+    android:layout_height="@dimen/layx200" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:ellipsize="end"
+        android:gravity="center"
+        android:paddingLeft="@dimen/layx30"
+        android:paddingRight="@dimen/layx30"
+        android:singleLine="true"
+        android:text="@string/login_exception_tips"
+        android:textColor="@color/white"
+        android:textSize="@dimen/layx30" />
+
+</RelativeLayout>

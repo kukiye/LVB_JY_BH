@@ -1,0 +1,28 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/layx70"
+    android:layout_height="@dimen/layx200" >
+
+    <TextView
+        android:id="@+id/text_show"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="@dimen/layx70"
+        android:ellipsize="marquee"
+        android:gravity="center"
+        android:singleLine="true"
+        android:textColor="@color/white"
+        android:textSize="@dimen/layx25" />
+
+    <ImageView
+        android:id="@+id/image_show"
+        android:layout_width="@dimen/layx7"
+        android:layout_height="@dimen/layx10"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="@dimen/layx70"
+        android:background="@drawable/arrow_right_n"
+        android:contentDescription="@string/app_game" />
+
+</RelativeLayout>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/layx10"
+    android:paddingLeft="@dimen/layx25"
+    android:paddingRight="@dimen/layx25"
+    android:paddingTop="@dimen/layx10" >
+
+    <RelativeLayout
+        android:id="@+id/app_item_show_relative"
+        android:layout_width="@dimen/layx140"
+        android:layout_height="@dimen/layx140" >
+
+        <Button
+            android:id="@+id/app_item_btn"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/vod_item_selector"
+            android:focusable="true"
+            android:focusableInTouchMode="true" />
+
+        <ImageView
+            android:id="@+id/app_detail_item_img"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="@dimen/layx10"
+            android:contentDescription="@string/app_name"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:padding="@dimen/layx5"
+            android:scaleType="fitXY"
+            android:src="@drawable/hotel_iptv_134x134" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layx60"
+        android:layout_marginLeft="@dimen/layx10"
+        android:layout_marginRight="@dimen/layx10" >
+
+        <TextView
+            android:id="@+id/app_detail_appname_text"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:ellipsize="marquee"
+            android:gravity="center"
+            android:marqueeRepeatLimit="marquee_forever"
+            android:singleLine="true"
+            android:textColor="@color/white"
+            android:textSize="@dimen/layx25" />
+
+        <TextView
+            android:id="@+id/app_install_tips_text"
+            android:layout_width="@dimen/layx120"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true"
+            android:background="@drawable/button_s"
+            android:gravity="center"
+            android:paddingLeft="@dimen/layx10"
+            android:paddingRight="@dimen/layx10"
+            android:text="@string/app_install_text"
+            android:textColor="@color/white"
+            android:textSize="@dimen/layx25"
+            android:visibility="gone" />
+
+        <ProgressBar
+            android:id="@+id/app_item_install_progress_bar"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/layx10"
+            android:layout_centerVertical="true"
+            android:visibility="gone" />
+    </RelativeLayout>
+
+</LinearLayout>

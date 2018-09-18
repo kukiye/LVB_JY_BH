@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LVB_X</string>
+    <string name="welcome_client_tips">Dear %s！</string>
+    <string name="welcom_nickname_male">Dear Mr %s,</string>
+    <string name="welcom_nickname_female">Dear Ms %s,</string>
+    <string name="welcome_client_hello">welcome!</string>
+    <string name="dear_customer_tips">Dear Customer!</string>
+    <string name="mainmenu_live">TV</string>
+    <string name="mainmenu_vod">Vod</string>
+    <string name="vod_play_btn">play</string>
+    <string name="vod_pause_btn">pause</string>
+    <string name="vod_item_nation">nation</string>
+    <string name="name">name</string>
+    <string name="passwd_error">password error</string>
+    <string name="single_price">unit price</string>
+    <string name="vod_item_type">type</string>
+    <string name="vod_item_direct">director</string>
+    <string name="vod_item_actor">actors</string>
+    <string name="vod_introduce">introduction</string>
+    <string name="live_no_item">No any live channels!</string>
+    <string name="vod_no_item">No any vod data!</string>
+    <string name="live_back_data_null">no_exist_live_back_data!</string>
+    <string name="vod_data_error">vod data error!</string>
+    <string name="request_url_error">Abnormal data returned from server!</string>
+    <string name="url_is_null">The request url is null!</string>
+    <string name="net_is_unusable_tips">The current network is unavailable, please contact the administrator!</string>
+    <string name="need_pay_tips">Dear client,\n this media needs pay %s yuan.</string>
+    <string name="net_is_usable">Network is normal!</string>
+    <string name="request_default_city_failed">Sorry, can not get the default city information!</string>
+    <string name="welcome_text_format">Dear customer, welcome to%s</string>
+    <string name="cancel_confirm_tips">Dear customer,do you comfirm to cancel this service?</string>
+    <string name="app_business_assistant">Business Travel Assistant</string>
+    <string name="app_game">Entertainment</string>
+    <string name="app_install_text">Install</string>
+    <string name="hs_order_service">Ordering Service</string>
+    <string name="my_menu">My Menu</string>
+    <string name="order_history">My Order</string>
+    <string name="order_history_count">My Order(%s)</string>
+    <string name="order_history_detail">Order Detail</string>
+    <string name="order_index">Order Index</string>
+    <string name="order_number">Order Number</string>
+    <string name="order_time">Order Time</string>
+    <string name="order_count">Order Count</string>
+    <string name="order_price">Price</string>
+    <string name="order_state">Ordering State</string>
+    <string name="choosed_menu">Chosen Menu</string>
+    <string name="choosed_specail">Chosen Speciality</string>
+    <string name="order_commit">Play Order</string>
+    <string name="order_state_unkonw">Unknow</string>
+    <string name="order_state_undoing">Undoing</string>
+    <string name="order_state_checked">Checked</string>
+    <string name="order_state_sended">Send</string>
+    <string name="order_state_finished">Finished</string>
+    <string name="order_state_canceled">Canceled</string>
+    <string name="roomservice_checkin_modify">Checkin Modify</string>
+    <string name="roomservice_checkin">Renew</string>
+    <string name="roomservice_checkout">Checkout</string>
+    <string name="live_list">TV List</string>
+    <string name="live_menu_date">Date</string>
+    <string name="rate_type">Currency</string>
+    <string name="rate_name">Currency Name</string>
+    <string name="rate_cbuyprice">Cash Buying Price</string>
+    <string name="rate_hbuyprice">Exchange Rate</string>
+    <string name="rate_sell">Selling Rate</string>
+    <string name="rate_base_price">Base Price</string>
+    <string name="rate_date">Data Date</string>
+    <string name="cancel_menu">Cancel Menu</string>
+    <string name="commit_check_in">Renew Committed</string>
+    <string name="commit_check_out">Checkout Committed</string>
+    <string name="commit_wakeup">Wakeup Committed</string>
+    <string name="commit_clean">Cleaning Committed</string>
+    <string name="status_unknow">Status Unknown</string>
+    <string name="status_waiting">Waiting</string>
+    <string name="status_doing">Processing</string>
+    <string name="status_finish">Finished</string>
+    <string name="status_cancel">Canceled</string>
+    <string name="checkin_confirm">Confirm Renew</string>
+    <string name="checkout_confirm">Confirm Checkout</string>
+    <string name="clean_confirm">Confirm cleaning</string>
+    <string name="committ">Commit</string>
+    <string name="city_check">City Checking</string>
+    <string name="air_quality">Air Quality：</string>
+    <string name="update_at">Updated at：</string>
+    <string name="beijing_cn">Beijing</string>
+    <string name="beijing_en">北京</string>
+    <string name="newyork_cn">NewYork</string>
+    <string name="newyork_en">纽约</string>
+    <string name="london_cn">London</string>
+    <string name="london_en">伦敦</string>
+    <string name="special_type">Speciality Type</string>
+    <string name="service_close_tips">Dear Customer，the option has been closed with yourcheckout!</string>
+    <string name="no_need_switch_lang_tips">No need to switch the language,keep the language</string>
+    <string name="clean_confirm_contents">Dear customer,the cleaning time has been comfirmed to: %s minutes later</string>
+    <string name="wakeup_confirm_contents">Dear customer,the wakeup time has been comfirmed to: %s</string>
+    <string name="cancel_checkin">Cancel Renew</string>
+    <string name="cancel_checkout">Cancel checkout</string>
+    <string name="cancel_cleanup">Cancel Cleaning</string>
+    <string name="cancel_wakeup">Cancel Wakeup</string>
+    <string name="date_choose">Chose Date</string>
+    <string name="minutes_after">minutes later</string>
+    <string name="exit_tips">Tips</string>
+    <string name="reset_system">Please reset the system for language setting to take affect!</string>
+    <string name="dot">：</string>
+    <string name="default_num">5</string>
+    <string name="wakeup_confirm">Confirm Wakeup</string>
+    <string name="cancel_tips">Dear customer,confirm cancel%s</string>
+    <string name="cancel_wakeup_confirm_content">Dear customer,confirm canceling%s wakeup</string>
+    <string name="cancel_clean_contents">Dear customer,confirm canceling cleaning</string>
+    <string name="checkin_confirm_content">Dear customer, confirm renew to:%s</string>
+    <string name="checkout_confirm_content">Dear customer,confirm checkout right now？</string>
+    <string name="to">to</string>
+    <string name="commit_order_title">Confirm Order</string>
+    <string name="commit_order_content">Dear customer,the total order price is￥ %s</string>
+    <string name="order_total_count">A total of %s orders</string>
+    <string name="order_total_dish">%s ordered</string>
+    <string name="order_total_price">Total：  ￥%s</string>
+    <string name="order_detail_code">Order Code: %s</string>
+    <string name="order_commit_success">Success！</string>
+    <string name="request_success">Request Success</string>
+    <string name="requset_fail">Request fail.please contact with the administrators</string>
+    <string name="order_commit_failed">Failed Order！</string>
+    <string name="hotspot_tag">Hotspot</string>
+    <string name="wifipasswd_tag">Dynamic WI-FI password</string>
+    <string name="blank_data">N/A</string>
+    <string name="date_today">Today</string>
+    <string name="loading">Loading。。。</string>
+    <string name="click_cancel">Click to cancel</string>
+    <string name="expiry_tips">Expiry</string>
+    <string name="enter">Enter</string>
+    <string name="back">Back</string>
+    <string name="rc_window">Remote Control</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+    <string name="default_city">Shenzhen</string>
+    <string name="request_net_failed">Fail,the failure cause is:\n%s</string>
+    <string name="weather_city">weather for the city of</string>
+    <string name="system_language">Interface Language</string>
+    <string name="about">About</string>
+    <string name="play_continue">Continue Play</string>
+    <string name="play_reset">Reset_Play</string>
+    <string name="player_tips">The player is not installed, Please install!</string>
+    <string name="keep_seat">Keep Seat</string>
+    <string name="seat_time_unit">minute</string>
+    <string name="seat_time_hour">:</string>
+    <string name="seat_time_minute">:</string>
+    <string name="seat_time_second"></string>
+    <string name="into_page">Into</string>
+    <string name="background_mgr_faild">Open Manager Faild,Error Code:</string>
+    <string name="no_tv_tips">no_tv_message</string>
+    <string name="admin">Administrator</string>
+    <string name="pair_setting">Pair setting</string>
+    <string name="admin_passwd_tips">Please enter the administrator password</string>
+    <string name="setting_main_text">Setting</string>
+    <string name="login_screen">Login</string>
+     <string name="setting_signal_text">Signal Setting</string>
+    <string name="account">Account</string>
+    <string name="account_tips">User Account:</string>
+    <string name="account_input">Please input account</string>
+    <string name="passwd_tips">Password:</string>
+    <string name="passwd_input">Please input password</string>
+    <string name="ipAdd_tips">IP address:</string>
+    <string name="ipAdd_input">Please input IP address</string>
+    <string name="ip_error">IP Address Error!</string>
+    <string name="city_select">City Selecting</string>
+    <string name="current_city">Current City:</string>
+    <string name="update_tips">Version Update</string>
+    <string name="new_version_update_need">Dear customer, would you like to update to the latest version？</string>
+    <string name="download_failed">Download Failed</string>
+    <string name="app_install">Installation</string>
+    <string name="app_apk_isexist">Setup has existed,confirm installation</string>
+    <string name="app_downloading">Updating system, please wait。。。</string>
+    <string name="app_downloading_continue">Downloading Continue</string>
+    <string name="simple_chinese">简体中文</string>
+    <string name="english">English</string>
+    <string name="copyright_tips">ShenZhen HongHuiZhiTong Technology Co.,Ltd&#160;&#160;Copy right</string>
+    <string name="feedbak">Feedback</string>
+    <string name="clause">Terms of Use and Privacy Policy</string>
+    <string name="send">Send</string>
+    <string name="rc_contronller_tips">Virture Controller</string>
+    <string name="feedback_hint">Please send your feedback here</string>
+    <string name="consume_type">Consumer Type</string>
+    <string name="consume_name">Consumer Name</string>
+    <string name="consume_price">Consumer Price</string>
+    <string name="consume_time">Consumer Time</string>
+    <string name="consume_total_number">Total %s consumer records,</string>
+    <string name="consume_total_price">Total:  ￥%s</string>
+    <string name="clause_contents">The Light View Can system respects and protects the personal privacy of all the service users. In order to provide you with more accurate and more personalized service, unless otherwise provided in this privacy policy, without obtaining your prior consent, we will not disclose such information or provide them to third parties. We will update this Privacy Policy from time to time. When you agree with the Light View Can network service agreement, you are considered to have agreed to all of the contents of this privacy policy. This Privacy Policy is an integral part of the Light View Can network service agreement. 
+    	1. Scope  When you use the Light View Can network services or visit the Light View Can web platform, the Light View Can will automatically receive and record information from your browser and your computer, including but not limited to, your IP address, the language you use, the date and time of access , hardware and software feature information and web history of your requirements; 
+    	2. Use of Information  
+	    	a) Light View Can will not provide, sell, rent, share or trade your personal information to any unrelated third party, unless with your prior permission, or this third party and Light View Can (Shenzhen HHZT Technology Co., Ltd.) alone or jointly provide services to you, and at the end of the service, it will be denied access to this information, including all its previous accessible.  
+	    	b) Light View Can also will not allow any third party, by any means, to collect, edit, sell or distribute your personal information for free. Once any Light View Can platform user was discovered to be engaged in such activities, Light View Can has the right to immediately terminate the service agreement with the user.  
+	    	c) For the purpose of better serving the user, Light View Can may, by using your personal information, provide you with the information you are interested in, including but not limited to sending you product and service information, or sharing with our partners so that they may send you information about their products and services (the latter will require your prior consent).  
+	    3. Disclosure  
+	      In the following cases, Light View Can will, in accordance with the provisions depending on your personal wishes or the law, disclose all or part of your personal information: 
+	      a) third parties with your prior consent; 
+	      b) to third parties in order to provide you with the requested products and services, c) to third parties or administrative or judicial institutions in accordance with the relevant provisions of the law or requirements of administrative or judicial bodies; 
+	    	d) to third parties due to your violation of Chinese laws and regulations, Light View Can customer service agreement or relevant rules; 
+	    	e) to the respondent in order to deal with possible disputes if you are qualified complainant of intellectual property and have filed a complaint; 
+	    	f) to one party in a transaction created on the Light View Can platform if this party has fulfilled or partly fulfilled the obligation and requests information disclosure. Light View Can has the right to decide to provide the necessary information to facilitate transaction or solution of disputes.  
+	    	g) Other disclosure that Light View Can considers appropriate according to the laws, regulations or website policies.  
+	    4. Information Storage and Exchange  
+	      Your information collected by Light View Can will be stored on the server of Light View Can and (or) its affiliates. Such information and data may be sent out of your country or region or where they are collected by Light View Can, and be accessed, stored or displayed out of the country.  
+	    5. Information Security  
+	      Light View Can accounts have security features. Please keep your user name and password information. Light View Can will ensure your information is not lost, abused or altered by safety means such as user password encryption. Notwithstanding the foregoing security measures, please remember that there is no "perfect security" on the information network.</string>
+    <string name="connect_requst_title">Connection Request</string>
+    <string name="video_share_title">Video sharing</string>
+    <string name="image_share_title">Image sharing</string>
+    <string name="music_share_title">Music sharing</string>
+    <string name="goto_sound_silient_mode">Mute Mode</string>
+    <string name="goto_sound_normal_mode">Recovery Normal Mode</string>
+    <string name="connect_content_tag_two">connect?</string>
+    <string name="connect_content_tag_one">Respect of customer, allow the mobile client</string>
+    <string name="recice_from_ip">IP Address:</string>
+    <string name="interactive_seeting">Interactive Setting</string>
+    <string name="wifi_passwd_input_tips">Please input WI-FI Passwd</string>
+    <string name="server_ip_input_please">Please input server ip:port</string>
+    <string name="push_success">Push successfully</string>
+    <string name="authorize_success">Authorize successfully</string>
+    <string name="authorize_deny">Authorize Deny</string>
+    <string name="not_paired">Not Paired</string>
+    <string name="pair_success">Pair successfully</string>
+    <string name="media_vodsource_error">This VOD item can not be played!</string>
+    <string name="media_livesource_error">This channel can not be played!</string>
+    <string name="no_live_channel">The channel is not exist!</string>
+    <string name="search_tips">search</string>
+    <string name="t9_virtual_pad">T9 Keypad</string>
+    <string name="all_virtual_pad">All Keypad</string>
+    <string name="vod_search_tips">Please enter the first letter of the program automatically searches\r\neg："Transformers"input"BXJG"</string>
+    <string name="dpad_clear_all">Clear all</string>
+    <string name="dpad_delete">Delete</string>
+    <string name="dpad_zero">0</string>
+    <string name="dpad_one">1</string>
+    <string name="dpad_twoabc">ABC2</string>
+    <string name="dpad_threeDEF">DEF3</string>
+    <string name="dpad_fourGHI">GHI4</string>
+    <string name="dpad_fiveJKL">JKL5</string>
+    <string name="dpad_sixMNO">MNO6</string>
+    <string name="dpad_sevenPQRS">PQRS7</string>
+    <string name="dpad_eightTUV8">TUV8</string>
+    <string name="dpad_nineWXYZ">WXYZ9</string>
+    <string name="live_nosignal">No signal!</string>
+    <string name="controller_tips">Controller</string>
+    <string name="vod_movie">Movie</string>
+    <string name="vod_sitcome">Sitcom</string>
+    <string name="sitcom_pre">Pre</string>
+    <string name="sitcom_next">Next</string>
+    <string name="back_text">look back</string>
+    <string name="live_text">live</string>
+    <string name="playing_text">playing</string>
+    <string name="back_playing_text">look backing</string>
+    <string name="devices_isnot_licensed">The device is not licensed!</string>
+    <string name="get_license_server_failed">Get License server address failed!</string>
+    <string name="get_client_license_code_failed">Get Client Code failed!</string>
+    <string name="license_failed">Authorithed Failed!</string>
+    <string name="time_still_tips">Your viewing time left  %s</string>
+    <string name="dear_client">Dear client(%s),</string>
+    <string name="engineering_model">Engineering model</string>
+    <string name="external_test">External Network Test</string>
+    <string name="customer_net_test">Customer Net Test</string>
+    <string name="server_test">Server Test</string>
+    <string name="background_mgr">Background Manager</string>
+    <string name="system_update">System update</string>
+    <string name="new_version_found">New Version found</string>
+    <string name="update_now">Update</string>
+    <string name="updating_tips">Updating system, do not interrupt!</string>
+    <string name="downloading_progress">Downloading%s</string>
+    <string name="installing_progress">Installing%s</string>
+    <string name="installing_waitting">Installing, wait please...</string>
+    <string name="install_finish">Install finish:%s</string>
+	<string name="activity_exception">Interface Extremely!</string>
+	<string name="login_exception_tips">Login Exception:Please contact the staff!</string>
+	<string name="app_not_installed">This app is not installed!</string>
+	
+	<!-- 新开的内容 -->
+    <string name="mainmenu_title">安徽省淝河监狱</string>
+    <string name="vod_tips_txt1">提示：方向键”</string>
+    <string name="vod_tips_txt2">“向下翻页，”</string>
+    <string name="vod_tips_txt3">“向上翻页，按返回键返回</string>
+    <!-- 狱务公开 -->
+    <string name="affairs_txt">狱务公开</string>
+    <string name="affairs_login_title">用户登录</string>
+    <string name="affairs_login_user">用户登录：</string>
+    <string name="affairs_input_number_hint">请输入编号</string>
+    <string name="affairs_login_pwd">用户密码：</string>
+    <string name="affairs_input_pwd_hint">请输入密码</string>
+    <string name="affairs_login_ok">确定</string>
+    <string name="affairs_login_cacel">取消</string>
+    <!-- 狱务详情 -->
+    <string name="prison_account_query">大账查询</string>
+    <string name="prison_score_check">计分考核</string>
+    <string name="prison_administrative_reward">行政奖励</string>
+    <string name="prison_grading_division">分级处遇</string>
+    <string name="prison_changes_sentence">刑期变动</string>
+    <string name="prison_complementary_criminal_inquiry">余刑查询</string>
+    <string name="prison_training_inquiry">培训查询</string>
+    <string name="prison_three_subjects">三科成绩</string>
+    <!-- 监区资讯 -->
+    <string name="prison_info_news_title">监区新闻</string>
+    <string name="prison_info_website_title">监区网站</string>
+    <string name="prison_news_no_content">没有更多的资讯，请耐心等待！</string>
+    <string name="prison_news_no_content_top">已经到是最新的数据了</string>
+    <string name="prison_news_source">文章来源：%s</string>
+    <string name="prison_news_author">文章作者：%s</string>
+    <string name="prison_news_createtime">发布时间：%s</string>
+    <string name="loading_txt">正在加载中，请稍后...</string>
+    <string name="file_error">不支持该文件类型</string>
+    <!-- 狱务公开 -->
+    <string name="prison_user_success">登录成功</string>
+    <string name="prison_user_error1">账号异常</string>
+    <string name="prison_user_error2">账号或密码不正确</string>
+    <string name="prison_user_error3">服务器暂时不允许登陆</string>
+    <string name="prison_user_error4">账号未激活</string>
+    <string name="user_choose">用户选择</string>
+    <!-- 计分考核 -->
+    <string name="prisonname">监狱名称</string>
+    <string name="sname">姓名</string>
+    <string name="code">编号</string>
+    <string name="kjlf">累积分扣分</string>
+    <string name="ljlf">累积奖励分</string>
+    <string name="prisonid">监狱Id</string>
+    <string name="date">考核日期</string>
+    <string name="yjjf">至本月分数</string>
+    <string name="dkjf">抵扣奖励分</string>
+    <!-- 行政奖惩 -->
+    <string name="type">奖惩类型</string>
+    <string name="detail">奖惩内容</string>
+    <string name="xzjc_date">批准日期  </string>
+    <!-- 分级处理 -->
+    <string name="rynx">变动前评定时间</string>
+    <string name="prisonTerm">刑期</string>
+    <string name="fjcy_type">变动类型 </string>
+    <string name="fjcy_date">变动日期</string>
+    <string name="xcyj">现处遇等级</string>
+    <!-- 刑期变动 -->
+    <string name="xqbd_type">变动类型</string>
+    <string name="xqbd_number">变动幅度</string>
+    <string name="xqbd_date">裁判日期</string>
+    <string name="xqbd_startDate">执行刑期起日</string>
+    <string name="xqbd_prisonTerm">刑期</string>
+    <!-- 余刑查询 -->
+    <string name="yxcx_startDate">执行刑期起日</string>
+    <string name="yxcx_endDate">执行刑期止日</string>
+    <!-- 培训获证 -->
+    <string name="pxhz_zsmc">证书名称</string>
+    <string name="pxhz_zshm">证书号码</string>
+    <string name="pxhz_date">获证日期</string>
+    <!-- 三课成绩 -->
+    <string name="skcj_kxcj">考试成绩</string>
+    <string name="skcj_date">考试日期</string>
+    <string name="skcj_jyjd">教育阶段</string>
+    <string name="skcj_sfhz">是否获证</string>
+	<!-- 大帐查询 -->
+    <string name="dzcx_type">收支类型</string>
+    <string name="dzcx_szzh">收支账户</string>
+    <string name="dzcx_zhye">账户余额</string>
+    <string name="dzcx_byxf">本月消费</string>
+    <string name="dzcx_kyye">本月可用余额</string>
+    <string name="dzcx_date">年月</string>
+    <!-- 狱务登录 -->
+    <string name="prison_user_name">姓名 %s </string>
+    <string name="prison_user_code">(编号  %s)</string>
+    <!-- 监狱菜谱 -->
+    <string name="food_time">时间</string>
+    <string name="food_week">星期</string>
+    <string name="food_zc">早餐</string>
+    <string name="food_zhongc">中餐</string>
+    <string name="food_wanc">晚餐</string>
+    <string name="food_zhushi">主食</string>
+    <string name="food_fushi">副食</string>
+
+    <string name="AD_Hastiome">%sS</string>
+</resources>

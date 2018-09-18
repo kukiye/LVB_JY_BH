@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@drawable/special_focus_out"
+              android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="@dimen/layx120"
+        android:layout_height="@dimen/layx20"
+        android:layout_gravity="left"
+        android:layout_marginTop="@dimen/layx20"
+        android:src="@drawable/mainpage_conetent_special_focus"
+        />
+
+    <ListView
+        android:id="@+id/lv_focus"
+        android:layout_width="@dimen/layx385"
+        android:layout_height="@dimen/layx130"
+        android:layout_marginLeft="@dimen/layx15"
+        android:layout_marginTop="@dimen/layx15"
+        android:cacheColorHint="@color/transparent"
+        android:descendantFocusability="afterDescendants"
+        android:divider="@android:color/transparent"
+        android:dividerHeight="@dimen/layx10"
+        android:listSelector="@drawable/focus_item_selector"
+        android:scrollbars="none">
+
+    </ListView>
+
+    <ImageView
+        android:layout_width="@dimen/layx120"
+        android:layout_height="@dimen/layx20"
+        android:layout_gravity="left"
+        android:layout_marginTop="@dimen/layx20"
+        android:src="@drawable/mainpage_conetent_remould_star"
+        />
+
+   <!-- <ImageView
+        android:layout_width="@dimen/layx90"
+        android:layout_height="@dimen/layx2"
+        android:layout_marginLeft="@dimen/layx16"
+        android:layout_marginTop="@dimen/layx5"
+        android:src="@color/black"
+        />-->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="@dimen/layx20"
+        android:layout_marginLeft="@dimen/layx15"
+        android:layout_marginRight="@dimen/layx20"
+        android:layout_marginTop="@dimen/layx16"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/iv_star_1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="@dimen/layx12"
+            android:layout_weight="1"
+            android:scaleType="fitXY"
+            />
+
+        <ImageView
+            android:id="@+id/iv_star_2"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="@dimen/layx12"
+            android:layout_weight="1"
+            android:scaleType="fitXY"
+            />
+
+        <ImageView
+            android:id="@+id/iv_star_3"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:scaleType="fitXY"
+            />
+
+    </LinearLayout>
+
+</LinearLayout>

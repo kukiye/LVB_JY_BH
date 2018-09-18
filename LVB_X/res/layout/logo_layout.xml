@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@+id/vod_item_linear"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+    >
+
+    <Button
+        android:id="@+id/item_btn"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/home_item_selector"
+        android:focusable="false"
+        android:focusableInTouchMode="false"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/item_logo"
+            android:layout_width="@dimen/layx110"
+            android:layout_height="@dimen/layx110"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="@dimen/layx35"
+            android:contentDescription="@string/app_name"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:scaleType="fitXY"
+            />
+
+
+        <TextView
+            android:id="@+id/item_text"
+            android:layout_width="@dimen/layx130"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="@dimen/layx30"
+            android:contentDescription="@string/app_name"
+            android:gravity="center"
+            android:lines="2"
+            android:shadowColor="#ff000000"
+            android:shadowDx="5"
+            android:shadowDy="0"
+            android:shadowRadius="1"
+            android:text=""
+            android:textColor="#ffffffff"
+            android:textSize="@dimen/layx52"
+            />
+    </LinearLayout>
+
+</RelativeLayout>

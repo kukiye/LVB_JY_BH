@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <include
+        android:id="@+id/order_top_banner"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layx35"
+        android:layout_alignParentTop="true"
+        layout="@layout/top_banner_bg" />
+
+    <include
+        android:id="@+id/order_bottom_banner"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layx32"
+        android:layout_alignParentBottom="true"
+        layout="@layout/sub_tips_action_type" />
+
+    <RelativeLayout
+        android:id="@+id/order_details_data_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/order_bottom_banner"
+        android:layout_below="@id/order_top_banner"
+        android:layout_marginBottom="@dimen/layx30"
+        android:layout_marginLeft="@dimen/layx40"
+        android:layout_marginRight="@dimen/layx40"
+        android:layout_marginTop="@dimen/layx30"
+        android:background="@drawable/setting_content_bg" >
+
+        <include
+            android:id="@+id/order_history_title_infos"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/layx50"
+            android:layout_alignParentTop="true"
+            layout="@layout/sub_order_hostory_detail_title" />
+
+        <TextView
+            android:id="@+id/order_history_total_infos"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginBottom="@dimen/layx30"
+            android:layout_marginRight="@dimen/layx30"
+            android:layout_marginTop="@dimen/layx30"
+            android:gravity="center_vertical|right"
+            android:textColor="@color/white"
+            android:textSize="@dimen/layx20" />
+
+        <TextView
+            android:id="@+id/order_history_ordernumber_infos"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_marginBottom="@dimen/layx30"
+            android:layout_marginLeft="@dimen/layx30"
+            android:layout_marginTop="@dimen/layx30"
+            android:gravity="center_vertical|left"
+            android:textColor="@color/white"
+            android:textSize="@dimen/layx20" />
+
+        <ImageView
+            android:id="@+id/order_history_top_line"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/layx2"
+            android:layout_below="@id/order_history_title_infos"
+            android:background="@drawable/live_item_line"
+            android:contentDescription="@string/app_name" />
+
+        <ImageView
+            android:id="@+id/order_history_bottom_line"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/layx2"
+            android:layout_above="@id/order_history_total_infos"
+            android:background="@drawable/live_item_line"
+            android:contentDescription="@string/app_name" />
+
+        <ListView
+            android:id="@+id/order_history_details_items_list"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_above="@id/order_history_bottom_line"
+            android:layout_below="@id/order_history_top_line"
+            android:layout_marginBottom="@dimen/layx10"
+            android:layout_marginTop="@dimen/layx10"
+            android:cacheColorHint="#00000000"
+            android:divider="@drawable/live_item_line"
+            android:dividerHeight="@dimen/layx2"
+            android:drawSelectorOnTop="false"
+            android:fastScrollEnabled="true"
+            android:focusable="true"
+            android:listSelector="@drawable/button_selector"
+            android:scrollbars="none" >
+        </ListView>
+    </RelativeLayout>
+
+</RelativeLayout>

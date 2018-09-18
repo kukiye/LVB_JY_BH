@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/vod_item_linear"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/layy10"
+    android:paddingLeft="@dimen/layx10"
+    android:paddingRight="@dimen/layx10"
+    android:paddingTop="@dimen/layy10" >
+
+    <RelativeLayout
+        android:id="@+id/vod_item_show_relative"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" >
+
+        <Button
+            android:id="@+id/item_btn"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/vod_item_selector"
+            android:focusable="true"
+            android:focusableInTouchMode="true" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/item_img"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:contentDescription="@string/app_name"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:paddingBottom="@dimen/layy5"
+                android:paddingLeft="@dimen/layx5"
+                android:paddingRight="@dimen/layx5"
+                android:paddingTop="@dimen/layy5"
+                android:scaleType="fitXY" />
+
+            <TextView
+                android:id="@+id/vod_item_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/layx5"
+                android:ellipsize="marquee"
+                android:gravity="center"
+                android:marqueeRepeatLimit="marquee_forever"
+                android:singleLine="true"
+                android:textColor="@color/white"
+                android:textSize="@dimen/layx20" />
+        </LinearLayout>
+    </RelativeLayout>
+
+</LinearLayout>
